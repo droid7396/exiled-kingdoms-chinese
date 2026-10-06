@@ -1,0 +1,1132 @@
+1030	You
+855	The
+403	This
+394	But
+350	I'll
+327	What
+233	And
+219	She
+218	I'm
+173	Maybe
+164	They
+158	Now
+156	Very
+155	Let's
+150	That
+146	The Three
+143	New Garand
+142	Please
+135	Yes
+126	Here
+123	Not
+116	Well
+114	Thanks
+114	That's
+112	Tell
+109	Greetings
+102	Welcome
+100	Goodbye
+91	It's
+90	Varannari
+84	But I
+84	I've
+84	Your
+83	Are
+79	Hello
+79	Just
+74	Why
+73	Forsaken
+73	I'd
+73	Icemist
+72	Don't
+72	There
+70	Sure
+68	Good
+68	How
+68	Who
+64	Can
+64	Freetown
+64	However
+64	Tol
+63	Three
+63	Wait
+62	You're
+61	Kingdom
+61	Kingsbridge
+61	There's
+58	Insert
+58	Kingdoms
+57	Alright
+57	Empire
+54	Nothing
+52	Imperial
+51	Adaon
+51	For
+51	Lannegar
+51	Yeah
+50	Then
+49	Certainly
+49	Eye
+49	Impiri
+48	Unfortunately
+48	Varsilia
+46	Amarisa
+45	Gate
+45	Nivarian
+44	Horrors
+44	Sorry
+44	Stay
+43	Okay
+43	Where
+42	Finally
+42	Let
+42	Magister
+42	We're
+41	Hey
+41	New Anthur
+40	Deep Gate
+40	Leave
+40	Master
+40	Tremadan
+39	Laertes
+39	Maybe I
+39	When
+38	Ilmara
+37	King
+37	Try
+37	Wizard's Guild
+36	Attack
+36	May
+36	Some
+36	Thuram
+35	Pay
+34	Probably
+34	Take
+33	All
+33	Ark
+33	Mercia
+33	With
+33	You'll
+32	His
+32	Mirmek
+32	REWARD
+32	Say
+32	TARGET
+31	After
+31	Rhöneis
+31	What's
+30	Baron
+30	Indeed
+30	Muud'ari
+30	Ring
+30	Time
+30	Varannar
+29	Azeran
+29	Church
+29	Fine
+29	Hirge
+29	Read
+28	Duremas
+28	Even
+28	Hmmm
+28	Now I
+28	These
+28	Those
+28	Trix
+28	We'll
+27	Arbenos
+27	Enough
+27	Once
+27	Potion
+26	Shadows
+25	Come
+25	Governor
+25	If I
+25	Only
+25	Remember
+25	Seal
+25	Snake
+25	Temple
+25	Thank
+24	Because
+24	Before
+24	Listen
+24	Looks
+24	Mercian
+24	QUESTGIVER
+24	Seventh House
+23	Crown
+23	Eirenda
+23	Nevermind
+23	Nivaria
+23	Thalassos
+23	Thelume
+23	Yet
+22	And I
+22	Can't
+22	Deal
+22	Our
+22	Put
+22	Tolassian
+22	Walk
+21	Actually
+21	Can I
+21	Did
+21	Enter
+21	Faith
+21	Light
+21	One
+21	Will
+20	Any
+20	Gurr
+20	Inori
+20	The Forsaken
+20	They're
+20	Varsilian
+19	Abbey
+19	Friguld
+19	Give
+19	Interesting
+19	Many
+19	Maybe I'll
+19	The Magister
+19	Zuz'sare
+18	Bring
+18	Freedom
+18	Get
+18	Grissenda
+18	Look
+18	North
+18	Orogg
+17	Arena
+17	Ashen Cape
+17	Guild
+17	Ignore
+17	Iross Highlands
+17	Jabal
+17	Mage
+17	Manticore
+17	Orb
+17	Power
+17	Push
+17	Rosy
+17	Something
+17	Sounds
+17	Sulidar
+17	Wastes
+17	While
+16	Have
+16	Jabal Hills
+16	Laughing Deer
+16	LOCATION
+16	Loreseeker
+16	Lothasan
+16	Really
+16	Saint Admus
+16	Seal Ring
+16	Sleepers
+16	Such
+16	Too
+16	Undermother
+15	Blue Card
+15	City
+15	Galade
+15	Gods
+15	Green Card
+15	Imperial Religion
+15	Maze
+15	Mount Orogg
+15	Orange Card
+15	Red Card
+15	Scroll
+15	Shrine
+15	Sir Rudolph
+15	Tolassians
+15	Tome
+15	Witches
+14	All I
+14	Arch
+14	Authentication
+14	AWAITING COMMAND
+14	East
+14	Follow
+14	Keep
+14	Ruby Key
+14	Sadly
+14	Sir Aramas
+14	Storme
+14	Suddenly
+14	The Snake
+14	Use
+14	Warriors' Guild
+14	Wisdom
+14	Would
+14	Zenmo
+13	Bagadar
+13	Baroness
+13	Die
+13	Giles
+13	God
+13	Hunting Moon
+13	Lady Calenda
+13	Legion
+13	Most
+13	Myros
+13	Nifuruc
+13	Open
+13	Queen
+13	Rodo
+13	Understood
+13	West
+13	Zamohr Mountains
+12	Ancient
+12	Anyways
+12	Begone
+12	Calm
+12	Captain
+12	Confirmation
+12	Elder Forest
+12	Find
+12	Fire
+12	Flames
+12	Grants
+12	Great Library
+12	Her
+12	Isn't
+12	Loreseekers
+12	People
+12	She's
+12	Steel Coast
+12	Two
+12	Validation
+12	Wizard
+11	Anton Gerdt
+11	Apparently
+11	Damn
+11	Deadwood
+11	Everybody
+11	Father
+11	Free People
+11	From
+11	Golden Cove Bank
+11	Great
+11	Guardian
+11	House
+11	Ice
+11	Interested
+11	Irossia
+11	Islander
+11	Janod
+11	Kardagis
+11	Lady
+11	Latimer
+11	Lord
+11	More
+11	Nobody
+11	Solliga
+11	Still
+11	Teram
+11	The Wizard's Guild
+11	They'll
+11	Ugh
+11	Warrior
+11	Zilda
+10	Also
+10	Amulet
+10	Answer
+10	ArkOS
+10	Blue
+10	Command Bridge
+10	Could
+10	Decurion Sargos
+10	Emerald Valley
+10	First
+10	Gain
+10	Great Plains Enclave
+10	Grey Library
+10	Holds
+10	Instead
+10	Lady Leanna
+10	Mages
+10	Malan Stargazer
+10	Mifadis
+10	Noutamet
+10	Plane
+10	Pour
+10	See
+10	Sir Morfados
+10	Smiles
+10	Sometimes
+10	South
+10	Speak
+10	Staff
+10	Their
+10	Tremadan's
+10	Whitetower
+10	Wormhole
+9	Abbot
+9	Ancient Tolassian
+9	Arkados
+9	Both
+9	Breno
+9	Chea
+9	Control Module
+9	Cordelia
+9	Crafted
+9	Crystal
+9	Death
+9	Disgusting
+9	Do I
+9	Does
+9	East Inori
+9	Goblins
+9	Golden Hand
+9	Governor's
+9	Hall
+9	Hmm
+9	Inori Enclave
+9	Iron Enclave
+9	Jarbad
+9	Lake Nivar
+9	Laughs
+9	Lie
+9	Life
+9	Make
+9	Masters
+9	Might
+9	Never
+9	Night
+9	Niur
+9	Northern Bluemist
+9	Oath
+9	Purple Medallion
+9	Red
+9	Red Mages
+9	Rodney
+9	Sagar Enclave
+9	Silvery Mace
+9	Someone
+9	Thuramian
+9	Underlevels
+9	Unlock
+9	Villager
+9	Vorators
+9	Which
+9	Wyvern Mountains
+8	Arcane Knight
+8	Better
+8	Brother
+8	Centurion Hyartis
+8	Champion
+8	Cloak
+8	Despite
+8	Died
+8	Ellodis
+8	Excellent
+8	Flame
+8	Fögas
+8	Fögas Forest
+8	Great Arena
+8	He's
+8	Here's
+8	Horton
+8	Korne
+8	Lannegar Mine
+8	Lost Coven
+8	Made
+8	Makes
+8	Mercians
+8	Perfect
+8	Riella
+8	Rolf
+8	Sargos
+8	Sea Queen
+8	Sergeant Dumek
+8	Shard
+8	Show
+8	Since
+8	Sir
+8	Soldier
+8	Steel Thunder
+8	Stridsibum
+8	The Church
+8	Trelaxx
+8	Until
+8	Varann Woodlands
+8	WARNING
+8	Whatever
+8	Wolf
+8	You've
+7	A Loyalty Oath
+7	Abbot's
+7	Agreed
+7	Andoria
+7	Blood
+7	Bluemist River
+7	Boiled
+7	Castle Bluerock
+7	Castle Storme
+7	Chief
+7	Continue
+7	Dark Pool
+7	Dead
+7	Death Ward
+7	Deepfrost
+7	Deer
+7	Eleven
+7	Ellodis Windmaker
+7	Emergency Reactor
+7	Enclave
+7	Enclaves
+7	Everything
+7	Father Mantros
+7	Fifty
+7	Flame Prophet
+7	Forest
+7	Girdle
+7	Golden Apples
+7	Greater Potion
+7	Hand
+7	Hell
+7	Help
+7	Hmmm I
+7	Holy
+7	Impossible
+7	Lamis
+7	Lamth
+7	Like
+7	Like I
+7	Liserpix
+7	Lost Kingdom
+7	Magus
+7	Main Computer
+7	May I
+7	Merple
+7	New Garand Sewers
+7	Oracle
+7	Otherwise
+7	Prayer
+7	Reactor
+7	Rolf Erhar
+7	Ruun
+7	Sigh
+7	Stop
+7	The Horrors
+7	The Varannari
+7	Touch
+7	Traveller
+7	Trollskin
+7	Unless
+7	Warrior's Guild
+7	Wise
+6	Always
+6	Ancient Idols
+6	Anything
+6	Arcane Knights
+6	Bah
+6	Baron Storme
+6	Battle Prayer
+6	Bounty
+6	Brother Ladan
+6	Brother Tarlus
+6	Call
+6	Cap'n Dorse
+6	Clanks
+6	Commander
+6	Dartos
+6	Deep
+6	Definitely
+6	Erhar
+6	Five
+6	Freetown Arena
+6	Friguldian
+6	Giant
+6	Green
+6	Heavy
+6	Heroism
+6	High Priest
+6	House Storme
+6	Increasing
+6	Insufficient
+6	It'll
+6	Its
+6	Kakrak
+6	Kalis
+6	Lady Ilemma
+6	Legions
+6	Library
+6	Loremaster Riella
+6	Lost
+6	Magic
+6	Magistrate Odo Steinz
+6	Mallow
+6	Masterfully
+6	Maul
+6	Old
+6	Optimizing
+6	Port Malan
+6	Potions
+6	Praetor
+6	Priests
+6	Protects
+6	Royal Castle
+6	Sage Amaryl
+6	Saradan
+6	Security
+6	Sergeant Daukar
+6	Shield
+6	Shiny
+6	Sister
+6	Sister Calvin
+6	Slave
+6	Southern Dragon Mountains
+6	Tesur
+6	The Kingdom
+6	The Witches
+6	Think
+6	This Town Hall
+6	Warning
+6	We've
+6	What I
+6	Wonderful
+6	Worn
+5	Almost
+5	Already
+5	Ancient Battery
+5	Arcane Forges
+5	Arcanist
+5	Archmage
+5	Assuming
+5	Bag
+5	Barahid
+5	Battle
+5	Because I
+5	Beware
+5	Birds
+5	Bishop Bareid
+5	Blessed
+5	Bzzzt
+5	Captain Demetrius
+5	Centurion
+5	Codex
+5	Commands
+5	Console Ready
+5	Constanze
+5	Coral Snake Fang
+5	Deposit
+5	Dobros Storme
+5	Eirama
+5	Enjoy
+5	Every
+5	Everyone
+5	Exiled Kingdoms
+5	Farewell
+5	Field
+5	Fire Elemental
+5	Forge
+5	Gates
+5	Heals
+5	Holy Symbol
+5	Huh
+5	Ilmaran
+5	Important
+5	Iron Valley
+5	Jachimo
+5	Jorgus
+5	King M'dmoo
+5	Lesser Ring
+5	Lifestone
+5	Likely
+5	Lord Tol
+5	Magically
+5	MALFUNCTION
+5	Mathris
+5	Mathrisian Codex
+5	Minotaurs
+5	Moon
+5	Much
+5	Nightmares
+5	Nods
+5	Orbs
+5	Order
+5	Ouch
+5	Over
+5	Plus
+5	Poor
+5	Prepare
+5	Right
+5	Safe
+5	Says
+5	Sharp
+5	Shock
+5	Shortly
+5	Sir Sorom
+5	Sister Hirge
+5	Sit
+5	Sleep
+5	Small
+5	Smash
+5	Snake Gang
+5	Somehow
+5	South Jabal Hills
+5	Spirit World
+5	Strange
+5	Stupid
+5	Tangir
+5	The Governor
+5	The Undermother
+5	Thyr Mountains
+5	Thyr Ridges
+5	Together
+5	Torden
+5	Traitor
+5	Tremadan's Tower
+5	Trolls
+5	Truly
+5	Trust
+5	Turn
+5	Unlike
+5	Valeran
+5	Wand
+5	Warlord Xurta
+5	Without
+5	Wizards
+5	WRONG SEQUENCE ENTERED
+5	Yellow
+4	Accept
+4	Admiral Lothasan
+4	Agility
+4	Ahhh
+4	Ain't
+4	Altar
+4	Ancients
+4	Applauds
+4	Ark Medical Facility
+4	Ashen Wastes
+4	Bagadar's
+4	Batrax
+4	Bear
+4	Belt
+4	Bones
+4	Book
+4	Bow
+4	Brother Gabriel
+4	Brother Palver
+4	Brothers
+4	But I'm
+4	Captain Dorse
+4	Captain Whitewater
+4	Cathedral
+4	Centurion Kanum
+4	Chamber
+4	Charm
+4	Clearance
+4	Cold
+4	College
+4	Colonization
+4	Coughs
+4	Council
+4	Crystals
+4	Damnit
+4	Deep Gates
+4	Deep Lords
+4	Deepfrost Cognac
+4	Didn't
+4	Earth Elemental
+4	Easy
+4	Elements
+4	ERROR
+4	Escape Pod
+4	Evil
+4	Exactly
+4	Feel
+4	Fire Drake
+4	Fire Salts
+4	Force
+4	Forest Lament
+4	Forged
+4	Free
+4	Friendly
+4	Fritha
+4	Fritha Rhayader
+4	Giants
+4	Gold
+4	Golden Pie
+4	Got
+4	Grab
+4	Great Inori
+4	Great Plains
+4	Greater Ring
+4	Guards
+4	Handwritten Note
+4	He'll
+4	Hidalix
+4	Hirge's
+4	His Majesty
+4	Hmph
+4	Horror
+4	However I
+4	Hum
+4	Humans
+4	Ice Elemental
+4	Ilmarans
+4	Imperial Knight
+4	Imperial Road
+4	Indeed I
+4	Inori Desert
+4	Inside
+4	Kill
+4	Lady Xidar
+4	Lannegar Valley
+4	Large Battery
+4	Laugh
+4	Little
+4	Looking
+4	Lord Alarbus
+4	Loyalty Oath
+4	Luckily
+4	Luminescent Fungus
+4	Magical
+4	Mana
+4	Manticores
+4	Milady
+4	Monk
+4	Mother
+4	Nah
+4	New Garand Warriors' Guild
+4	Nice
+4	Ninth Legion
+4	NOTE
+4	Odd Muud'ari
+4	Oddly
+4	Once I
+4	Other
+4	Outlaw
+4	Pass
+4	Pits
+4	Pleased
+4	Polonius
+4	Press
+4	Priest
+4	Process
+4	Property
+4	Raise
+4	RANDOM
+4	Recovers
+4	Remains
+4	Renda Windstrike
+4	Rhayader
+4	Rite
+4	Ritual
+4	Rona
+4	Sabercat
+4	Sacred Seal
+4	Salutes
+4	Sewer
+4	Sheryl
+4	Sir Valeran
+4	Sleeper
+4	Smells
+4	Soon
+4	Spirit
+4	Stand
+4	Sword
+4	Sydarun
+4	Syllara
+4	Teleportation
+4	Ten
+4	Terezza
+4	Terezza's
+4	The Eye
+4	The Oracle
+4	The Seal
+4	Thelume's
+4	Therod Nom
+4	Tolassian Priest
+4	Town Hall
+4	Tragic Hero
+4	Travellers
+4	Troll
+4	Tyogos
+4	Unbelievable
+4	Usham
+4	Varannari Hunter
+4	Vorator Eggs
+4	Waters
+4	We'd
+4	When I
+4	Whitetower Special
+4	Will I
+4	Wow
+4	Wyvernskin
+4	Yet I
+4	You'd
+4	Zaniel
+3	Abbot Marcillus
+3	Access
+3	Activate
+3	Admus
+3	Advanced Skills I
+3	Adventurers
+3	Ahh
+3	And I'll
+3	Ankh
+3	Annals
+3	Another
+3	Archer
+3	Armorer Rolgam
+3	Around
+3	Baron's
+3	Beheaded One
+3	Believe
+3	Besides
+3	Black Shard
+3	Blue Steel
+3	Bluemist
+3	Bluerock Castle
+3	Bravo
+3	Brother De Frere
+3	Brother Gudazar
+3	Brother Janus
+3	Bull
+3	Butterfingers
+3	Captain Torden
+3	Casually
+3	Check
+3	Chief Laughing Deer
+3	Clarity
+3	Claws
+3	Coat
+3	Consecrated
+3	Corrosion
+3	Cough
+3	Courage
+3	Dagger
+3	Data Pad
+3	DEAD
+3	Deadweed
+3	Deep Lord
+3	Demon
+3	Demons
+3	Did I
+3	Director
+3	Dirk
+3	Disintegrate
+3	Dog Fight
+3	Dragon Coast
+3	Earth Mastery
+3	Eirenda's
+3	Elder
+3	Elemental Plane
+3	Elleira
+3	Enchanted
+3	Endurance
+3	Especially
+3	Examine
+3	Except
+3	Exceptional
+3	Excuse
+3	Explosive Traps
+3	Faithful
+3	Fat
+3	Fate
+3	Fear
+3	Fill
+3	Finally I
+3	Fire Mastery
+3	Five Sleepers
+3	Flurry
+3	Forbidden Pits
+3	Foreigners
+3	Forget I
+3	Found
+3	Four
+3	Friend
+3	Gilmour
+3	Give Trix
+3	Gleams
+3	Gloves
+3	Grace
+3	Greataxe
+3	Grins
+3	Gris
+3	Guardians
+3	Gulp
+3	Health
+3	Heart
+3	Heh
+3	Herrrre
+3	High Priestess
+3	High Temple
+3	Highlands
+3	Hill Giant
+3	Him
+3	History
+3	Holding
+3	Holiness
+3	Human
+3	Hunt
+3	Hunters
+3	Hurry
+3	Hyperspace
+3	Ice Giants
+3	Ice Mastery
+3	Imperial Arch
+3	Impressive
+3	Initiate Glaydan
+3	Iron Golem
+3	Kharem
+3	Kings
+3	Kiss
+3	Knight
+3	Knock
+3	Lady Marisha
+3	Landlubber
+3	Later
+3	Leaves
+3	Legends
+3	Legionnaire
+3	Lich
+3	Living
+3	Lord Storme
+3	Lords
+3	Loremistress
+3	Mage Barrier
+3	Magistrate
+3	Magnificent
+3	Mantros
+3	May The Three
+3	Melporth
+3	Men
+3	Mercenary
+3	Minotaur Horns
+3	Mirmeks
+3	Mist Hunters
+3	Mount Storme
+3	Mountain
+3	Muud
+3	Nay
+3	Necromancer
+3	New Garand Farmlands
+3	Nightwalker
+3	Nisor
+3	Northwest
+3	Now Master
+3	Obviously
+3	Of Ghosts
+3	Oh I
+3	Old One
+3	On Imperial Necromancy
+3	Oooooh
+3	Or I
+3	Outside
+3	Overpriced
+3	Past
+3	Poison
+3	Prisoner
+3	Promise
+3	Radia
+3	Raegar
+3	Rather
+3	Recall
+3	Red Leather
+3	Red Moon
+3	Red Orchid
+3	Release
+3	Remember I
+3	Resist Fire
+3	Rogue
+3	Sagar Forest
+3	Sanctuary
+3	Sarcophagus
+3	Scary
+3	SCOTTY
+3	Second
+3	Seek
+3	Sergeant
+3	Sergeant Morg
+3	Set
+3	Shielding
+3	Silent Kings
+3	Sir Andrew Mason
+3	Sir Irolio
+3	Sir Nellas Gissar
+3	Sister Genta
+3	Skeleton
+3	Skip
+3	Slaves
+3	Sloth
+3	Sorry I
+3	Sparkling
+3	Spectres
+3	Spiders
+3	Splendid
+3	Standard
+3	Strong
+3	Summoner
+3	Sunken Citadel
+3	Superior Belt
+3	Surprisingly
+3	Surtag
+3	Tearrrrs
+3	Tears
+3	Terror
+3	Thar
+3	The Abbot
+3	The Baron
+3	The Baroness
+3	The City
+3	The Empire
+3	The Farm
+3	The Golden Hand
+3	The Hall
+3	The Inori
+3	The King
+3	The Lady
+3	Then Trix
+3	Things
+3	Third
+3	This Varannari
+3	Thuramian Arcane Knight
+3	Today
+3	Tolassian Embalming Codex
+3	Tomb
+3	Tonel
+3	Tonight
+3	Tower
+3	Traitors
+3	Trollfens
+3	Trusted
+3	Turn Undead
+3	Turns
+3	Typical
+3	Unaware One
+3	Undead
+3	Unfortunately I
+3	Ursans
+3	Vampire
+3	Vampires
+3	Varann Woodland
+3	Varannari Druid
+3	Varannari Witches
+3	Varsilians
+3	Want
+3	Wash
+3	Watch
+3	Wearing
+3	Werewolf
+3	While I
+3	Winks
+3	Winter
+3	Witches' Coven
+3	Woah
+3	Wolves
+3	Word
+3	Worry
+3	Wraiths
+3	Wyverntail
+3	Wyverntail River
+3	Xoladan
+3	Yeah I
+3	Yes Rosy
+3	Young

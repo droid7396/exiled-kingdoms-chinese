@@ -1,0 +1,147 @@
+[
+ {
+  "id": "varsilia",
+  "name": "Varsilia",
+  "desc": "The Kingdom of Varsilia is ruled by old Imperial noble families and chivalry orders. Capital is New Garand"
+ },
+ {
+  "id": "mercia",
+  "name": "Mercia",
+  "desc": "The Kingdom of Mercia is a powerful militaristic nation with strong trader guilds, with capital in Freetown"
+ },
+ {
+  "id": "ilmara",
+  "name": "Ilmara",
+  "desc": "The Holy Crown of Ilmara is a Kingdom ruled by the clerics of The Three, from the capital Nivarian."
+ },
+ {
+  "id": "thuram",
+  "name": "Thuram",
+  "desc": "The Arcane Realm of Thuram is a magocracy ruled by the remains of the Imperial Wizards, from its capital Icemist."
+ },
+ {
+  "id": "the_three",
+  "name": "The Three",
+  "desc": "The Church of the Three is strong in Ilmara, and it quickly extends over the other kingdoms. It worships the three god-like beings that Ilmarans found in the Thyr Mountains. Unlike other cults, their clerics have divine powers."
+ },
+ {
+  "id": "town_lannegar",
+  "name": "Lannegar",
+  "desc": "Small village near Sagar Forest"
+ },
+ {
+  "id": "town_kingsbridge",
+  "name": "Kingsbridge",
+  "desc": "An growing trading town in the Bluemist River"
+ },
+ {
+  "id": "town_rhoneis",
+  "name": "Rhöneis",
+  "desc": "Small village up the course of the Bluemist River"
+ },
+ {
+  "id": "town_jabal",
+  "name": "Jabal",
+  "desc": "Fortified village near the Jabal Hills"
+ },
+ {
+  "id": "town_sydarun",
+  "name": "Sydarun",
+  "desc": "A village located south of the deadly Deadwood and on the edge of the inhospitable Inori Desert"
+ },
+ {
+  "id": "town_new_anthur",
+  "name": "New Anthur",
+  "desc": "The most ancient imperial settlement on Varannar, now a coastal town of Varsilia"
+ },
+ {
+  "id": "town_fogas",
+  "name": "Fögas",
+  "desc": "A small and remote Ilmaran village, near the Elder Forest"
+ },
+ {
+  "id": "town_whitetower",
+  "name": "Whitetower",
+  "desc": "A Thuramiam village. The Kingdom does not pay much attention to anything happening outside the walls of Icemist, making villages sleepy, isolated places."
+ },
+ {
+  "id": "varannari",
+  "name": "Varannari",
+  "desc": "The clans of original inhabitants from this land before the Exiled Kingdoms were founded. They live in the wild forests."
+ },
+ {
+  "id": "loreseekers",
+  "name": "Royal Loreseekers",
+  "desc": "An ancient order of sages and explorers, loyal to the Kingdom of Varsilia. Many of them are sorcerers and alchemists as well."
+ },
+ {
+  "id": "goldenhand",
+  "name": "Golden Hand",
+  "desc": "A large and powerful merchant guild extended over the Kingdoms. It often employs mercenaries to protect trade routes, or organizes expeditions in search of profit."
+ },
+ {
+  "id": "seventhhouse",
+  "name": "Seventh House",
+  "desc": "A thieves' guild, strong in both Varsilia and Mercia, and in particular in the big towns. The authorities have tried to shut it down, but they're always a step ahead."
+ },
+ {
+  "id": "wizardsguild",
+  "name": "Wizard's Guild",
+  "desc": "This mysterious organization is powerful in Thuram, but as other kingdoms need the service of magicians, they have allowed them to build wizard towers in other places."
+ },
+ {
+  "id": "warriorsguild",
+  "name": "Warrior's Guild",
+  "desc": "Fighters that are not highborn, and not part of the armies of the Kingdoms, usually join the ranks of this organization. They often work as bodyguards, mercenaries or escorts, but always in a honorable way."
+ },
+ {
+  "id": "friguld_governor",
+  "name": "Friguld Governor",
+  "desc": "The Governor is appointed by the Corsair Council, and makes sure the town can supply the pirate nation with fresh water and other mainland resources."
+ },
+ {
+  "id": "town_lamis",
+  "name": "Lamis",
+  "desc": "A tiny town in the far northwest Ilmara, almost forgotten by the rest of the world."
+ },
+ {
+  "id": "town_port_malan",
+  "name": "Port Malan",
+  "desc": "Once a prominent port, the numerous corsair raids have rendered this town semi-abandoned and ruinous."
+ },
+ {
+  "id": "town_solliga",
+  "name": "Solliga",
+  "desc": "A Thuramiam village. The Kingdom does not pay much attention to anything happening outside the walls of Icemist, making villages sleepy, isolated places."
+ },
+ {
+  "id": "player",
+  "name": "x",
+  "desc": "x"
+ },
+ {
+  "id": "enemy",
+  "name": "x",
+  "desc": "x"
+ },
+ {
+  "id": "bandits",
+  "name": "x",
+  "desc": "x"
+ },
+ {
+  "id": "beasts",
+  "name": "x",
+  "desc": "x"
+ },
+ {
+  "id": "angrynpc",
+  "name": "x",
+  "desc": "x"
+ },
+ {
+  "id": "neutral",
+  "name": "x",
+  "desc": "x"
+ }
+]

@@ -1,0 +1,1880 @@
+[
+ {
+  "src": "rules/skills.txt",
+  "line": 2,
+  "name": "Extra Recovery",
+  "desc": "You gain extra uses of the recovery button per day."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 3,
+  "name": "",
+  "desc": "+1 recovery/day"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 4,
+  "name": "",
+  "desc": "+2 recovery/day"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 5,
+  "name": "Dungeoneering",
+  "desc": "You are an expert in dungeon exploration. You can easily find hidden traps or secret doors."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 6,
+  "name": "",
+  "desc": "Gain a +10% bonus to find traps and secret doors"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 7,
+  "name": "",
+  "desc": "Gain a +18% bonus to find traps and secret doors"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 8,
+  "name": "",
+  "desc": "Gain a +25% bonus to find traps and secret doors"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 9,
+  "name": "Gossip",
+  "desc": "You know how to be friendly enough to listen to the local news and legends."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 10,
+  "name": "",
+  "desc": "Gain a +5% bonus to learn rumors, 3% discount in shops"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 11,
+  "name": "",
+  "desc": "Gain a +10% bonus to learn rumors, 6% discount in shops"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 12,
+  "name": "",
+  "desc": "Gain a +15% bonus to learn rumors, 9% discount in shops"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 13,
+  "name": "Whirlwind",
+  "desc": "Hit all enemies around you with a spinning slash. Pushes back and deals extra damage, maybe stunning them."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 14,
+  "name": "",
+  "desc": "Whirlwind does 50% extra damage"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 15,
+  "name": "",
+  "desc": "Whirlwind deals 75% extra damage, 3% stun chance"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 16,
+  "name": "",
+  "desc": "Whirlwind deals 100% extra damage, 5% stun chance"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 17,
+  "name": "",
+  "desc": "Whirlwind deals 120% extra damage, 7% stun chance"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 18,
+  "name": "Resilience",
+  "desc": "For a limited time, you focus in defense, and obtain an armor bonus. You may survive dangers that would normally kill you."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 19,
+  "name": "",
+  "desc": "Gain +5 armor for 6 seconds"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 20,
+  "name": "",
+  "desc": "Gain +9 armor for 8 seconds"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 21,
+  "name": "",
+  "desc": "Gain +14 armor for 10 seconds"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 22,
+  "name": "Charge",
+  "desc": "Your battle rage drives you through lines of enemies, cutting through them and dealing extra damage."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 23,
+  "name": "",
+  "desc": "Charge does +60% damage."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 24,
+  "name": "",
+  "desc": "Charge does +90% damage."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 25,
+  "name": "",
+  "desc": "Charge does +125% damage."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 26,
+  "name": "",
+  "desc": "Charge does +160% damage."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 27,
+  "name": "Fury",
+  "desc": "When you are injured, your rage increases your damage output making you more dangerous than ever."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 28,
+  "name": "",
+  "desc": "When you have less than 30% HP, deal +30% damage"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 29,
+  "name": "",
+  "desc": "When you have less than 35% HP, deal +50% damage"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 30,
+  "name": "",
+  "desc": "When you have less than 35% HP, deal +65% damage"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 31,
+  "name": "Two Handed Expert",
+  "desc": "You are especially proficient with two-handed weapons."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 32,
+  "name": "",
+  "desc": "When wielding a 2-handed weapon, 5% stun chance"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 33,
+  "name": "",
+  "desc": "With 2-handed weapons, add your STR x2 to damage (instead of x1.5) and 5% stun chance"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 34,
+  "name": "",
+  "desc": "With 2-handed weapons, add your STR x2.5 to damage (instead of x1.5), and 10% stun chance"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 35,
+  "name": "Shield Expert",
+  "desc": "You are very experienced at fighting using a shield, in particular to cover from ranged attacks (including magical)."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 36,
+  "name": "",
+  "desc": "When wielding a shield, +1 armor, an extra +2 vs projectiles."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 37,
+  "name": "",
+  "desc": "When wielding a shield, +2 armor, an extra +3 vs projectiles."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 38,
+  "name": "",
+  "desc": "When wielding a shield, +3 armor, an extra +4 vs projectiles."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 39,
+  "name": "Bash",
+  "desc": "Slam into an enemy, to push him back and maybe stun him. Does some damage, and it's a good way to split enemies or escape them."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 40,
+  "name": "",
+  "desc": "Enemy pushed back 2 meters and stunned 1 second (+1 second if you use a shield)"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 41,
+  "name": "",
+  "desc": "Enemy pushed back 3 meters and stunned 2 second (+1 second if you use a shield)"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 42,
+  "name": "",
+  "desc": "Enemy pushed back 4 meters and stunned 3 seconds (+1 second if you use a shield)"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 43,
+  "name": "Cleave",
+  "desc": "Your attacks are a deadly flurry of slashes. If your attack can hit more than one enemy in front of you, you will hit them all, not just the closest."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 44,
+  "name": "",
+  "desc": "You hit one enemy normally, and one extra enemy for 50% damage"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 45,
+  "name": "",
+  "desc": "You hit one enemy normally, and two extra enemies for 60% damage"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 46,
+  "name": "",
+  "desc": "You hit one enemy normally, and three extra enemies for 75% damage"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 47,
+  "name": "Stab",
+  "desc": "You prepare a single, deadly attack. After using this skill, you have a few seconds to launch a blow with extra damage."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 48,
+  "name": "",
+  "desc": "your next attack deals extra damage: 6+level"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 49,
+  "name": "",
+  "desc": "your next attack deals extra damage: 10+level"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 50,
+  "name": "",
+  "desc": "your next attack deals extra damage: 10+ (level x 1.5)"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 51,
+  "name": "",
+  "desc": "your next attack deals extra damage: 10+ (level x 2)"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 52,
+  "name": "Stealth",
+  "desc": "The ability to move without being heard or seen, avoiding enemies or surprising them in combat. If you get close to enemies, they have a chance of spotting you."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 53,
+  "name": "",
+  "desc": "You can use stealth mode. Your stealth lasts 8 seconds."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 54,
+  "name": "",
+  "desc": "Stealth lasts for 10 seconds and you chance of enemies hearing you is lower."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 55,
+  "name": "",
+  "desc": "Stealth lasts 12 seconds, and you have a 50% chance to open doors and chests without being noticed"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 56,
+  "name": "Sneak Attack",
+  "desc": "When you flank an enemy in melee (attacking by surprise or behind), you will do extra damage, and sometimes stun."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 57,
+  "name": "",
+  "desc": "When flanking an enemy, deal +50% damage"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 58,
+  "name": "",
+  "desc": "When flanking an enemy, deal +70% damage and stun for 1 second(15% chance)"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 59,
+  "name": "",
+  "desc": "When flanking an enemy, deal +100% damage and stun for 1 second(25% chance)"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 60,
+  "name": "Kick",
+  "desc": "Hit an enemy's leg to push him back and make his movement slower. Does some damage, and it's a good way to split groups of enemies or escape certain death."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 61,
+  "name": "",
+  "desc": "Enemy pushed back 2 meters and slowed 3 seconds"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 62,
+  "name": "",
+  "desc": "Enemy pushed back 3 meters away and slowed 4 seconds"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 63,
+  "name": "",
+  "desc": "Enemy pushed back 4 meters away and slowed for 5 seconds"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 64,
+  "name": "Evasion",
+  "desc": "You focus on defense, dodging incoming attacks for a few seconds."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 65,
+  "name": "",
+  "desc": "50% chance to dodge any attacks during 5 seconds."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 66,
+  "name": "",
+  "desc": "70% chance to dodge any attacks during 5 seconds."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 67,
+  "name": "",
+  "desc": "90% chance to dodge any attacks during 5 seconds."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 68,
+  "name": "Trap Master",
+  "desc": "You are an expert at deactivating traps, or even setting them."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 69,
+  "name": "",
+  "desc": "Set trap (15 seconds duration, level 1-3). +10% bonus to disarm traps and locks."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 70,
+  "name": "",
+  "desc": "Set trap (20 seconds duration, level 4-6). +20% bonus to disarm traps and locks."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 71,
+  "name": "",
+  "desc": "Set trap (30 seconds duration, level 6-10). +30% bonus to disarm traps and locks."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 72,
+  "name": "Archery",
+  "desc": "You are an expert in the use of projectile weapons, and deal extra damage and a chance to stun enemies."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 73,
+  "name": "",
+  "desc": "Gain +1 arrow damage, and an extra +1 for each 5 levels. 3% stun chance."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 74,
+  "name": "",
+  "desc": "Gain +2 arrow damage, and an extra +1 for each 4 levels. 5% stun chance."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 75,
+  "name": "",
+  "desc": "Gain +3 arrow damage, and an extra +1 for each 3 levels. 7% stun chance."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 76,
+  "name": "Sprint",
+  "desc": "An adrenaline rush will allow you to move extremely fast for a few seconds. It doesn't affect combat, just movement."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 77,
+  "name": "",
+  "desc": "You can sprint for 4 seconds."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 78,
+  "name": "",
+  "desc": "You can sprint for 5 seconds."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 79,
+  "name": "",
+  "desc": "You can sprint for 6 seconds."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 80,
+  "name": "Vanish",
+  "desc": "[RED](Not implemented yet!)[] You can step into shadows magically, and appear somewhere else."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 81,
+  "name": "",
+  "desc": "To be implemented"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 82,
+  "name": "",
+  "desc": "To be implemented"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 83,
+  "name": "",
+  "desc": "To be implemented"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 84,
+  "name": "Heal Wounds",
+  "desc": "\"Heals instantly a certain amount of life, even during combat. It heals you first until you are fully healed; any remaining healing goes to other party members.\""
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 85,
+  "name": "",
+  "desc": "Heals a total of 30 HP"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 86,
+  "name": "",
+  "desc": "Heals a total of 75 HP"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 87,
+  "name": "",
+  "desc": "Heals a total of 125 HP"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 88,
+  "name": "Holy Shield",
+  "desc": "Divine Power protects you from harm and from Death Magic."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 89,
+  "name": "",
+  "desc": "Gain +4 armor and +25 resistance vs Death, for 12 seconds"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 90,
+  "name": "",
+  "desc": "Gain +6 armor and +40 resistance vs Death, for 12 seconds"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 91,
+  "name": "",
+  "desc": "Gain +8 armor and +60 resistance vs Death, for 12 seconds"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 92,
+  "name": "",
+  "desc": "Gain +10 armor and +80 resistance vs Death, for 12 seconds"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 93,
+  "name": "Sacred Fire",
+  "desc": "A surge of purifying flames erupts 2 meters ahead of you, consuming your enemies. It deals extra damage to undead."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 94,
+  "name": "",
+  "desc": "Flames deal 12 damage, and additional +8 damage to undead"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 95,
+  "name": "",
+  "desc": "Flames deal 24 damage, and additional +12 damage to undead"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 96,
+  "name": "",
+  "desc": "Flames deal 48 damage, and additional +20 damage to undead"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 97,
+  "name": "Intervention",
+  "desc": "In your hour of most need, the Gods intercede to save your life. When you are injured down to death, all your remaining mana is spent, and you are healed."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 98,
+  "name": "",
+  "desc": "You are healed for 2 HP for each mana point you had left"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 99,
+  "name": "",
+  "desc": "You are healed for 4 HP for each mana point you had left"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 100,
+  "name": "",
+  "desc": "You are healed for 8 HP for each mana point you had left"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 101,
+  "name": "Arbenos' Might",
+  "desc": "The power of Arbenos the Warrior envelopes you, in the form of sacred flames. You will do more damage, both normal and fire based. Double effect with 2H weapons."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 102,
+  "name": "",
+  "desc": "You do +3 damage, and +4 fire damage, for 12 seconds."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 103,
+  "name": "",
+  "desc": "You do +5 damage, and +4 fire damage, for 14 seconds."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 104,
+  "name": "",
+  "desc": "You do +8 damage, and +4 fire damage, for 16 seconds."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 105,
+  "name": "Crusader",
+  "desc": "You have received training as a warrior priest. You know the most efficient ways to combat the undead, causing them Spirit Damage able to bypass armor."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 106,
+  "name": "",
+  "desc": "Your hits have a 2% stun chance. Against undead, +2 damage"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 107,
+  "name": "",
+  "desc": "Your hits have a 4% stun chance. Against undead, +4 damage"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 108,
+  "name": "",
+  "desc": "Your hits have a 5% stun chance. Against undead, +6 damage"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 109,
+  "name": "Nivaria's Barrier",
+  "desc": "The mystical power of Nivaria protects you permanently from harm. Particularly, that from the undead"
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 110,
+  "name": "",
+  "desc": "gain +1 armor, an extra +1 vs undead attacks."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 111,
+  "name": "",
+  "desc": "gain +2 armor, an extra +2 vs undead attacks."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 112,
+  "name": "",
+  "desc": "gain +3 armor, an extra +3 vs undead attacks."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 113,
+  "name": "Thelume's Wisdom",
+  "desc": "You are inspired by the revelations of Thelume. You can detect hidden things and see through illusions."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 114,
+  "name": "",
+  "desc": "75% chance of detecting hidden items in a 10m radius. You'll also know about undiscovered doors in the area."
+ },
+ {
+  "src": "rules/skills.txt",
+  "line": 115,
+  "name": "",
+  "desc": "95% chance of detecting hidden items in a 20m radius. You'll also know about undiscovered doors in the area."
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 2,
+  "name": "Lightning Bolt",
+  "desc": "Lightning erupts from your hands in the direction of the enemy you face (or nearest enemy if you face none), going through it and hitting anyone in a straight line. It has a chance to stun."
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 3,
+  "name": "",
+  "desc": "Deals 10-15 damage. 20% stun chance."
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 4,
+  "name": "",
+  "desc": "Deals 15-20 damage, +1/level. 25% stun chance."
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 5,
+  "name": "",
+  "desc": "Deals 20-28 damage, +2/level. 30% stun chance."
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 6,
+  "name": "",
+  "desc": "Deals 36-44 damage, +2/level. 40% stun chance."
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 7,
+  "name": "Fireball",
+  "desc": "Launch a fireball towards the enemy you face (or the nearest enemy if you face none) that will cause a fiery explosion. Beware, as the fire can't tell friend from foe."
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 8,
+  "name": "",
+  "desc": "Deals 9-18 fire damage."
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 9,
+  "name": "",
+  "desc": "Deals 15-30 fire damage."
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 10,
+  "name": "",
+  "desc": "Deals 28-56 fire damage."
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 11,
+  "name": "",
+  "desc": "Deals 42-84 fire damage."
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 12,
+  "name": "Ice Storm",
+  "desc": "Project a storm of ice that will cause cold damage to all enemies inside. The storm will last for 5 seconds, and will move randomly."
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 13,
+  "name": "",
+  "desc": "The storm deals 8-16 cold damage."
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 14,
+  "name": "",
+  "desc": "The storm deals 12-24 cold damage."
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 15,
+  "name": "",
+  "desc": "The storm deals 18-36 cold damage."
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 16,
+  "name": "",
+  "desc": "The storm deals 32-64 cold damage."
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 17,
+  "name": "Mage Armor",
+  "desc": "Gain a high boost to defenses for a small mana cost. The spell will wear off after a certain number of hits, or after 3 minutes."
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 18,
+  "name": "",
+  "desc": "Gain +6 armor, wears off after 3 hits."
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 19,
+  "name": "",
+  "desc": "Gain +9 armor and +15 to fire, cold and shock resistance. Wears off after 4 hits."
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 20,
+  "name": "",
+  "desc": "Gain +14 armor and +20 to fire, cold and shock resistance, wears off after 5 hits."
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 21,
+  "name": "",
+  "desc": "Gain +21 armor and +30 to fire, cold and shock resistance, wears off after 6 hits."
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 22,
+  "name": "Wand Mastery",
+  "desc": "\"Wands are the classical weapon of choice of Mages; any Mage ranged weapon wielded by one hand is considered a Wand.\""
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 23,
+  "name": "",
+  "desc": "Your wand attacks gain +1 damage and generate a pushback of 1m"
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 24,
+  "name": "",
+  "desc": "Your wand attacks gain +3 damage and generate a pushback of 1.4m"
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 25,
+  "name": "",
+  "desc": "Your wand attacks gain +5 damage and generate a pushback of 1.7m"
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 26,
+  "name": "",
+  "desc": "Your wand attacks gain +8 damage and generate a pushback of 2m"
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 27,
+  "name": "Staff Mastery",
+  "desc": "Staves are powerful channelers of magical energy. Any two-handed Mage weapon  is considered a Staff."
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 28,
+  "name": "",
+  "desc": "Your attacks have a 25% chance of slowing enemies. Add half your INT to damage (rounding down)"
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 29,
+  "name": "",
+  "desc": "Slow chance of 30%, and add your full INT to damage."
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 30,
+  "name": "",
+  "desc": "Slow chance of 35%, and add your INTx1.5 to damage."
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 31,
+  "name": "",
+  "desc": "Slow chance of 40%, and add your INTx2 to damage."
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 32,
+  "name": "Lesser Summoning",
+  "desc": "Summon a Familiar from the Plane of Energy to fight for you. Familiars are not very strong, but they're very perceptive, adding a +20% bonus to your chance of detecting secrets."
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 33,
+  "name": "",
+  "desc": "Summon a Level 2-3 Lesser Sparkling."
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 34,
+  "name": "",
+  "desc": "Summon a Level 4-6 Lesser Sparkling."
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 35,
+  "name": "Mana Surge",
+  "desc": "Your focus and inner power grants you a larger mana pool."
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 36,
+  "name": "",
+  "desc": "Increase your mana pool by 3, and +1/level"
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 37,
+  "name": "",
+  "desc": "Increase your mana pool by 6, and +2/level"
+ },
+ {
+  "src": "rules/skills2.txt",
+  "line": 38,
+  "name": "",
+  "desc": "Increase your mana pool by 9, and +3/level"
+ },
+ {
+  "src": "rules/skills3.txt",
+  "line": 2,
+  "name": "Beast Master",
+  "desc": "You are an expert at controlling and hunting beasts. You can't summon more than one creature at the same time."
+ },
+ {
+  "src": "rules/skills3.txt",
+  "line": 3,
+  "name": "",
+  "desc": "+2 damage to beasts. Summon a Bear once per day for 30s."
+ },
+ {
+  "src": "rules/skills3.txt",
+  "line": 4,
+  "name": "",
+  "desc": "+3 damage to beasts. Summon a Bear 2 times/day for 1 min."
+ },
+ {
+  "src": "rules/skills3.txt",
+  "line": 5,
+  "name": "",
+  "desc": "+4 damage to beasts. Summon a Bear 3 times/day for 1 min."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 2,
+  "name": "Duel",
+  "desc": "If you hit the same enemy multiple times, you gain bonus damage which keeps increasing with each new hit. The effect ends if you hit a different enemy, or you abandon combat."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 3,
+  "name": "",
+  "desc": "Damage increments by +1 per hit, up to a maximum of +4"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 4,
+  "name": "",
+  "desc": "Damage increments by +2 per hit, up to a maximum of +6"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 5,
+  "name": "",
+  "desc": "Damage increments by +2 per hit, up to a maximum of +10"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 6,
+  "name": "Rapid fire",
+  "desc": "For a few seconds, your rate of fire with bows increases."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 7,
+  "name": "",
+  "desc": "Attack speed increased by 40% for 6 seconds"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 8,
+  "name": "",
+  "desc": "Attack speed increased by 70% for 6 seconds"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 9,
+  "name": "",
+  "desc": "Attack speed increased by 100% for 6 seconds"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 10,
+  "name": "Flurry",
+  "desc": "For a few seconds, your melee attack speed increases."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 11,
+  "name": "",
+  "desc": "Attack speed increased by 25% for 6 seconds"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 12,
+  "name": "",
+  "desc": "Attack speed increased by 50% for 6 seconds"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 13,
+  "name": "",
+  "desc": "Attack speed increased by 75% for 6 seconds"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 14,
+  "name": "Precission Strikes",
+  "desc": "Your critical chance with melee weapons is increased."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 15,
+  "name": "",
+  "desc": "increase weapon's base critical chance by 50%"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 16,
+  "name": "",
+  "desc": "increase weapon's base critical chance by 100%"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 17,
+  "name": "",
+  "desc": "increase weapon's base critical chance by 150%"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 18,
+  "name": "Precission Shots",
+  "desc": "Your critical chance with ranged weapons is increased."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 19,
+  "name": "",
+  "desc": "increase weapon's base critical chance by 50%"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 20,
+  "name": "",
+  "desc": "increase weapon's base critical chance by 100%"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 21,
+  "name": "",
+  "desc": "increase weapon's base critical chance by 150%"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 22,
+  "name": "Massive Criticals",
+  "desc": "Your critical hits go beyond the usual 150% max damage, with a chance to insta-kill enemies 2 levels below yours (some are immune)"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 23,
+  "name": "",
+  "desc": "Criticals do up to 200% of max weapon damage, 10% chance to kill weaker enemies."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 24,
+  "name": "",
+  "desc": "Criticals do up to 250% of max weapon damage, 25% chance to kill weaker enemies."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 25,
+  "name": "",
+  "desc": "Criticals do up to 300% of max weapon damage, 50% chance to kill weaker enemies."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 26,
+  "name": "Heavyhand",
+  "desc": "Extensive training makes you put more might behind every blow. Your melee attacks cause additional damage."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 27,
+  "name": "",
+  "desc": "Gain +1 extra damage per attack"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 28,
+  "name": "",
+  "desc": "Gain +3 extra damage per attack"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 29,
+  "name": "",
+  "desc": "Gain +5 extra damage per attack"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 30,
+  "name": "Assassinate",
+  "desc": "After a succesful Stab, the skill has a chance to immediately cool down and be available again."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 31,
+  "name": "",
+  "desc": "10% chance of Stab immediate cooldown, 30% if the Stab killed the enemy"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 32,
+  "name": "",
+  "desc": "20% chance of Stab immediate cooldown, 50% if the Stab killed the enemy"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 33,
+  "name": "",
+  "desc": "35% chance of Stab immediate cooldown, 75% if the Stab killed the enemy"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 34,
+  "name": "Explosive Traps",
+  "desc": "Your traps explode right after being triggered, causing fire damage in a 2m radius. It also affects you, but not your party members."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 35,
+  "name": "",
+  "desc": "Explosion deals 12-24 fire damage"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 36,
+  "name": "",
+  "desc": "Explosion deals 18-36 fire damage"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 37,
+  "name": "",
+  "desc": "Explosion deals 24-48 fire damage"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 38,
+  "name": "Poison Master",
+  "desc": "You are well versed in the dubious art of poisoning your weapons, and your familiarity makes you resistant to many of them."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 39,
+  "name": "",
+  "desc": "Increase poison duration by 50%. +10 to Toxic Resistance"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 40,
+  "name": "",
+  "desc": "Increase poison effect by 25%, and duration by 75%. +20 to Toxic Resistance"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 41,
+  "name": "",
+  "desc": "Increase poison effect by 50%, and duration by 100%. +30 to Toxic Resistance"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 42,
+  "name": "Invisibility",
+  "desc": "You can use your Stealth even when enemies have discovered you, poofing out of sight."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 43,
+  "name": "",
+  "desc": "50% chance of using Stealth succesfully in front of enemies"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 44,
+  "name": "",
+  "desc": "75% chance of using Stealth succesfully in front of enemies, and 75% chance of remaining hidden when opening doors or chests."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 45,
+  "name": "",
+  "desc": "95% chance of using Stealth succesfully in front of enemies, and 95% chance of remaining hidden when opening doors or chests."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 46,
+  "name": "Battle Rage",
+  "desc": "You enter a state of unleashed fury gaining a bonus to STR and armor. You become immune to stun or paralysis, also removing the effect. Afterwards you will be fatigued for 5 s.(-5 damage and armor)."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 47,
+  "name": "",
+  "desc": "Gain +2 STR, +3 armor, and immunity to mental effects for 6s"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 48,
+  "name": "",
+  "desc": "Gain +3 STR, +4 armor, and immunity to mental effects for 8s"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 49,
+  "name": "",
+  "desc": "Gain +4 STR, +5 armor, and immunity to mental effects for 9s"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 50,
+  "name": "Bloodlust",
+  "desc": "A battle trance that sharpens your focus and makes you unstoppable. Adds bonuses for some seconds after you kill an enemy in melee (non-cumulative)"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 51,
+  "name": "",
+  "desc": "After killing an enemy, +3 damage and +2 armor for 6 seconds"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 52,
+  "name": "",
+  "desc": "After killing an enemy, +4 damage and +3 armor for 6 seconds"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 53,
+  "name": "",
+  "desc": "After killing an enemy, +6 damage and +4 armor for 6 seconds"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 54,
+  "name": "Magical Training",
+  "desc": "Despite not having any magical powers, you have been trained to use magic items that have a mana cost. It can be rather exhausting for your health."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 55,
+  "name": "",
+  "desc": "You can use scrolls with mana cost, spending 10hp per mana point."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 56,
+  "name": "",
+  "desc": "You can use scrolls with mana cost, spending 6hp per mana point."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 57,
+  "name": "",
+  "desc": "You can use scrolls with mana cost, spending 4hp per mana point."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 58,
+  "name": "Turn Undead",
+  "desc": "The Holiness within you can disrupt the undead by your mere presence, paralyzing them."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 59,
+  "name": "",
+  "desc": "Paralize for 3 seconds all the undead enemies in a 2 meter radius"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 60,
+  "name": "",
+  "desc": "Paralize for 4 seconds all the undead enemies in a 4 meter radius"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 61,
+  "name": "",
+  "desc": "Paralize for 5 seconds all the undead enemies in a 6 meter radius"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 62,
+  "name": "Retribution",
+  "desc": "Whenever you destroy an undead or an outsider from another plane, you will absorb its essence, transforming it into magical energy. It might not work with certain monsters."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 63,
+  "name": "",
+  "desc": "You recover 1 mana point per undead/outsider destroyed."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 64,
+  "name": "",
+  "desc": "You recover 2 mana points per undead/outsider destroyed."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 65,
+  "name": "Guardian Wolf",
+  "desc": "Summon a wild spirit which takes the form of a wolf and follows you."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 66,
+  "name": "",
+  "desc": "Summon a level 7 Dire Wolf for 3 minutes"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 67,
+  "name": "",
+  "desc": "Summon a level 10 White Wolf for 5 minutes"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 68,
+  "name": "",
+  "desc": "Summon a level 13 Spirit Wolf for 5 minutes"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 69,
+  "name": "Spiritual Ward",
+  "desc": "Your willpower and inner strength are legendary, making you more resilient to stun, paralysis and other mind effects. Gain a permanent bonus to Spirit resistance, which stacks with other bonuses."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 70,
+  "name": "",
+  "desc": "Gain +10 to Spirit Resistance"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 71,
+  "name": "",
+  "desc": "Gain +20 to Spirit Resistance"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 72,
+  "name": "",
+  "desc": "Gain +30 to Spirit Resistance"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 73,
+  "name": "Shock Ward",
+  "desc": "You can endure elemental damage thanks to your training. Gain a permanent bonus to Shock resistance, which stacks with other bonuses."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 74,
+  "name": "",
+  "desc": "Gain +12 to resist shock"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 75,
+  "name": "",
+  "desc": "Gain +24 to resist shock"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 76,
+  "name": "",
+  "desc": "Gain +36 to resist shock"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 77,
+  "name": "Fire Ward",
+  "desc": "You can endure elemental damage thanks to your training. Gain a permanent bonus to Fire resistance, which stacks with other bonuses."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 78,
+  "name": "",
+  "desc": "Gain +12 to resist fire"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 79,
+  "name": "",
+  "desc": "Gain +24 to resist fire"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 80,
+  "name": "",
+  "desc": "Gain +36 to resist fire"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 81,
+  "name": "Ice Ward",
+  "desc": "You can endure elemental damage thanks to your training. Gain a permanent bonus to Cold resistance, which stacks with other bonuses."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 82,
+  "name": "",
+  "desc": "Gain +12 to resist cold"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 83,
+  "name": "",
+  "desc": "Gain +24 to resist cold"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 84,
+  "name": "",
+  "desc": "Gain +36 to resist cold"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 85,
+  "name": "Death Ward",
+  "desc": "You can endure death magic thanks to your training. Gain a permanent bonus to Death resistance, which stacks with other bonuses."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 86,
+  "name": "",
+  "desc": "Gain +12 to resist death"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 87,
+  "name": "",
+  "desc": "Gain +24 to resist death"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 88,
+  "name": "",
+  "desc": "Gain +36 to resist death"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 89,
+  "name": "Toxic Ward",
+  "desc": "You can endure acid and poison thanks to your training. Gain a permanent bonus to Toxic resistance, which stacks with other bonuses."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 90,
+  "name": "",
+  "desc": "Gain +12 to resist toxic"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 91,
+  "name": "",
+  "desc": "Gain +24 to resist toxic"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 92,
+  "name": "",
+  "desc": "Gain +36 to resist toxic"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 93,
+  "name": "Battle Prayer",
+  "desc": "You bless your party members, summoned creatures and yourself for the next 12 seconds."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 94,
+  "name": "",
+  "desc": "Gain +3 armor and +2 damage"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 95,
+  "name": "",
+  "desc": "Gain +5 armor, +3 damage and +10 to all resistances"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 96,
+  "name": "",
+  "desc": "Gain +8 armor, +5 damage and +25 to all resistances"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 97,
+  "name": "Flames of Faith",
+  "desc": "In a 3m area around you enemies are burned with spiritual flames and allies healed. It lasts 6 seconds and has no effect on you."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 98,
+  "name": "",
+  "desc": "Each second, flames heal allies for 5hp and burn enemies for 8 Spirit damage"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 99,
+  "name": "",
+  "desc": "Each second, flames heal allies for 8hp and burn enemies for 15 Spirit damage"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 100,
+  "name": "",
+  "desc": "Each second, flames heal allies for 10hp and burn enemies for 21 Spirit damage"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 101,
+  "name": "Smoke Bomb",
+  "desc": "You can use Stealth even if you are surrounded by enemies. Useful to escape, or to prepare a lethal backstab."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 102,
+  "name": "",
+  "desc": "Basic smoke bomb, use stealth in front of enemies"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 103,
+  "name": "",
+  "desc": "Bomb has 35% chance to stun close enemies for 3 seconds"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 104,
+  "name": "",
+  "desc": "Bomb has 50% chance to stun close enemies for 5 seconds"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 105,
+  "name": "Body Development",
+  "desc": "Your intensive training results in higher maximum hit points"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 106,
+  "name": "",
+  "desc": "Each points of Endurance grants you 1.5 hp/level (Normally it is 1 per level)"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 107,
+  "name": "",
+  "desc": "Each point of Strength grants you 1hp/level (double than normal)"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 108,
+  "name": "",
+  "desc": "Each point of Endurance grants you 2hp/level (double than normal)"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 109,
+  "name": "Infantry Training",
+  "desc": "You have been trained to survive in the battlefield, giving you an edge to parry and block when you wield both a shield and a hand weapon(not light)."
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 110,
+  "name": "",
+  "desc": "Negate 35% of critical hits received, halve stun duration"
+ },
+ {
+  "src": "rules/skills_advanced.txt",
+  "line": 111,
+  "name": "",
+  "desc": "Negate 50% of critical hits, immune to stun, halve paralysis time"
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 2,
+  "name": "Gate",
+  "desc": "While you are not a 'Traveller' wizard, you are still capable of some limited forms of teleportation. This power will not work in large towns and some areas that are magically sealed."
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 3,
+  "name": "",
+  "desc": "Recall to the closest town"
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 4,
+  "name": "",
+  "desc": "Town Gate. When using this power you will be asked wether you want to Recall, or to teleport to a town of your choosing that you have already visited"
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 5,
+  "name": "Disintegrate",
+  "desc": "You call upon devastating magical energies to enhance your next weapon attack with a large amount of normal damage. The attack must be done quickly or the power vanishes."
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 6,
+  "name": "",
+  "desc": "Disintegrate does +50 damage on your next attack"
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 7,
+  "name": "",
+  "desc": "Disintegrate does +75 damage on your next attack, +1/level"
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 8,
+  "name": "",
+  "desc": "Disintegrate does +100 damage on your next attack, +2/level"
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 9,
+  "name": "Mage Barrier",
+  "desc": "Your Mage Armor is improved, becoming dangerous and frustrating for your foes. Enemies hitting you in melee while your Mage Armor is active will be affected."
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 10,
+  "name": "",
+  "desc": "Enemies pushed back 1m and receive 12 Shock Damage"
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 11,
+  "name": "",
+  "desc": "Enemies pushed back 1.5m and receive 25 Shock Damage. Stun chance 10%"
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 12,
+  "name": "",
+  "desc": "Enemies pushed back 2m and receive 40 Shock Damage. Stun chance 30%"
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 13,
+  "name": "Arcanist",
+  "desc": "You are capable of powering wands and staves labeled as Arcane without requiring so much mana."
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 14,
+  "name": "",
+  "desc": "Reduces mana cost by 1"
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 15,
+  "name": "",
+  "desc": "Reduces mana cost by 2"
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 16,
+  "name": "",
+  "desc": "Reduces mana cost by 3"
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 17,
+  "name": "Fire Mastery",
+  "desc": "You are capable of summoning an elemental from the Plane of Fire for 3 minutes. They are capable of dealing good damage, but rather fragile. You can only keep one summoned creature at the same time and its level can never go above yours."
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 18,
+  "name": "",
+  "desc": "Summon a level 7 Fire Elemental"
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 19,
+  "name": "",
+  "desc": "Summon a level 10 Fire Elemental"
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 20,
+  "name": "",
+  "desc": "Summon a level 13 Fire Elemental"
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 21,
+  "name": "Ice Mastery",
+  "desc": "You are capable of summoning an elemental from the Plane of Ice for 3 minutes. They're very resilient creatures. You can only keep one summoned creature at the same time and its level can never go above yours."
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 22,
+  "name": "",
+  "desc": "Summon a level 7 Ice Elemental"
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 23,
+  "name": "",
+  "desc": "Summon a level 10 Ice Elemental"
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 24,
+  "name": "",
+  "desc": "Summon a level 13 Ice Elemental"
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 25,
+  "name": "Earth Mastery",
+  "desc": "You are capable of summoning an elemental from the Plane of Earth for 3 minutes. You can only keep one summoned creature at the same time and its level can never go above yours."
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 26,
+  "name": "",
+  "desc": "Summon a level 8 Earth Elemental"
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 27,
+  "name": "",
+  "desc": "Summon a level 11 Earth Elemental"
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 28,
+  "name": "",
+  "desc": "Summon a level 15 Iron Golem"
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 29,
+  "name": "Summoner",
+  "desc": "You are capable of strengthening the link between summoned creatures and their home plane. The creature's level is increased, and can even go above yours."
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 30,
+  "name": "",
+  "desc": "The creatures you summon gain +1 level"
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 31,
+  "name": "",
+  "desc": "The creatures you summon gain +2 levels"
+ },
+ {
+  "src": "rules/skills_advanced2.txt",
+  "line": 32,
+  "name": "",
+  "desc": "The creatures you summon gain +3 levels"
+ },
+ {
+  "src": "rules/skills_advanced3.txt",
+  "line": 2,
+  "name": "Arcane Blade",
+  "desc": "As an Arcane Knight you can use any Hand weapon or Light weapon that deals additional fire, cold or shock damage."
+ },
+ {
+  "src": "rules/skills_advanced3.txt",
+  "line": 3,
+  "name": "",
+  "desc": "Weapon works normally"
+ },
+ {
+  "src": "rules/skills_advanced3.txt",
+  "line": 4,
+  "name": "",
+  "desc": "Weapon elemental damage improved x1.5"
+ },
+ {
+  "src": "rules/skills_advanced3.txt",
+  "line": 5,
+  "name": "",
+  "desc": "Weapon elemental damage improved x2"
+ },
+ {
+  "src": "rules/skills_advanced3.txt",
+  "line": 6,
+  "name": "",
+  "desc": "Weapon elemental damage improved x2.5"
+ },
+ {
+  "src": "rules/skills_advanced3.txt",
+  "line": 7,
+  "name": "Vampiric Blade",
+  "desc": "As an Arcane Knight you can use any melee weapon that deals death damage, even two-handed weapons."
+ },
+ {
+  "src": "rules/skills_advanced3.txt",
+  "line": 8,
+  "name": "",
+  "desc": "Weapon works normally. Each killed enemy will heal you for 5hp"
+ },
+ {
+  "src": "rules/skills_advanced3.txt",
+  "line": 9,
+  "name": "",
+  "desc": "Weapon death damage improved x1.5. Each killed enemy will heal you for 5hp and, if it's a spellcaster or outsider, +3 mana"
+ },
+ {
+  "src": "rules/skills_advanced3.txt",
+  "line": 10,
+  "name": "",
+  "desc": "Weapon death damage improved x2. Each killed enemy will heal you for 10hp and, if it's a spellcaster or outsider, +5 mana"
+ },
+ {
+  "src": "rules/skills_advanced3.txt",
+  "line": 11,
+  "name": "Combustion",
+  "desc": "In a 3m area around you enemies are burned. They also suffer a reduction of their Armor and resistances to Fire, Cold and Shock for 15 seconds."
+ },
+ {
+  "src": "rules/skills_advanced3.txt",
+  "line": 12,
+  "name": "",
+  "desc": "Deals 15-30 Fire damage. Enemies lose -3 Armor, -20 to Resistances"
+ },
+ {
+  "src": "rules/skills_advanced3.txt",
+  "line": 13,
+  "name": "",
+  "desc": "Deals 20-40 Fire damage. Enemies lose -6 Armor, -40 to Resistances"
+ },
+ {
+  "src": "rules/skills_advanced3.txt",
+  "line": 14,
+  "name": "",
+  "desc": "Deals 28-56 Fire damage. Enemies lose -10 Armor, -60 to Resistances"
+ },
+ {
+  "src": "rules/skills_advanced3.txt",
+  "line": 15,
+  "name": "Death Cloud",
+  "desc": "Launch a poisonous cloud towards the enemy you face (or the nearest enemy if you face none). Besides dealing damage it will reduce resistance to Death and slow enemies for 12 seconds."
+ },
+ {
+  "src": "rules/skills_advanced3.txt",
+  "line": 16,
+  "name": "",
+  "desc": "Deals 10-20 toxic damage, enemy is slowed and suffers -30 Death resistance"
+ },
+ {
+  "src": "rules/skills_advanced3.txt",
+  "line": 17,
+  "name": "",
+  "desc": "Deals 14-28 toxic damage, enemy is slowed and suffers -50 Death resistance"
+ },
+ {
+  "src": "rules/skills_advanced3.txt",
+  "line": 18,
+  "name": "",
+  "desc": "Deals 18-36 toxic damage, enemy is slowed and suffers -80 Death resistance"
+ }
+]

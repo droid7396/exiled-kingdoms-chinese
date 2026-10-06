@@ -1,0 +1,1637 @@
+[
+ {
+  "tag": "TREMADAN_IMAGE",
+  "name": "Tremadan's Image",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "BOUNCER_TILGAR",
+  "name": "Bouncer Tilgar",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "BOUNCER_MASORA",
+  "name": "Bouncer Masora",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "SERGEANT_RAKKUS",
+  "name": "Sergeant Rakkus",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "SERGEANT_TOEL",
+  "name": "Sergeant Toel",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "SERGEANT_DAUKAR",
+  "name": "Sergeant Daukar",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "ARKADOS",
+  "name": "Arkados the Blind",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "NIRUH",
+  "name": "Niruh",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "GRETA",
+  "name": "Greta",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "ALCHEMIST_NIISA",
+  "name": "Alchemist Niisa",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "ALCHEMIST_DOREA",
+  "name": "Alchemist Dorea",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "BOATMAN_TIOM",
+  "name": "Boatman Tiom",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "TRADER_SARMA",
+  "name": "Trader Sarma",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "ARMORER_DORMA",
+  "name": "Armorer Dorma",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "WEAPONSMITH_LOE",
+  "name": "Weaponsmith Löe",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "ROLGAM",
+  "name": "Rolgam",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "TRIBUNE_GELEB",
+  "name": "Tribune Geleb",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "PRAETOR_RONGAE",
+  "name": "Praetor Rongae",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "BOATMAN_NOREAD",
+  "name": "Boatman Noread",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "TRADER_LIRDI",
+  "name": "Trader Lirdi",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "LADY_LEANNA",
+  "name": "Lady Leanna",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "BROTHER_MIRTO",
+  "name": "Brother Mirto",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "GOVERNOR_DAZLAN",
+  "name": "Governor D'Azlan",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "BISHOP_ARANDIR",
+  "name": "Bishop Arandir",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "ALCHEMIST_VLAZA",
+  "name": "Alchemist Vlaza",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "SISTER_MARIE",
+  "name": "Sister Marie",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "TROLL_COOK",
+  "name": "Troll Cook",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "GIRL",
+  "name": "Girl",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "GUARDIAN_GOLEM",
+  "name": "Guardian Golem",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "KINGSBRIDGE_INN",
+  "name": "The Bridge's Maiden",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "LANNEGAR_INN",
+  "name": "The Sagar Rest",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "JABAL_INN",
+  "name": "The Rusty Blade",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "RHONEIS_INN",
+  "name": "The Plentiful Plate",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "FOGAS_INN",
+  "name": "The Last Fire",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "SYDARUN_INN",
+  "name": "The Singing Well",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "NEWANTHUR_INN",
+  "name": "Seafarers' Pub",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "NG_INN",
+  "name": "The Imperial Inn",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "NG_INN2",
+  "name": "The Green Knight",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "FT_INN",
+  "name": "The Generous King",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "FT_INN2",
+  "name": "The Valiant King",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "NI_INN",
+  "name": "The Sleeping Lady",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "NI_INN2",
+  "name": "The Holy Symbol",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "WEAPONSMITH_DOGUS",
+  "name": "Weaponsmith Dogus",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "CHANCELLOR_NEBROS",
+  "name": "Chancellor Nebros",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "BROTHER_JANUS",
+  "name": "Brother Janus",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "SISTER_ARTA",
+  "name": "Sister Arta",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "BROTHER_GUDAZAR",
+  "name": "Brother Gudazar",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "SISTER_REMME",
+  "name": "Sister Remme",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "SISTER_MADA",
+  "name": "Sister Mada",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "BROTHER_GABRIEL",
+  "name": "Brother Gabriel",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "MOTHER_COLLINS",
+  "name": "Mother Collins",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "CAPTAIN_WRIGHT",
+  "name": "Captain Wright",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "ALCHEMIST_MARKUS",
+  "name": "Alchemist Markus",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "WEAPONSMITH_SEVAE",
+  "name": "Weaponsmith Sevae",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "ALCHEMIST_MARELLE",
+  "name": "Alchemist Marelle",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "ARMORER_GOURD",
+  "name": "Armorer Gourd",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "BOATMAN_ORRUS",
+  "name": "Boatman Orrus",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "TRADER_RONUS",
+  "name": "Trader Ronus",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "WEAPONSMITH_TERENA",
+  "name": "Weaponsmith Terena",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "BOATMAN_NARRIM",
+  "name": "Boatman Narrim",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "BOATMAN_MASON",
+  "name": "Boatman Mason",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "TRADER_PINK",
+  "name": "Trader Pink",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "ARMORER_FLOYD",
+  "name": "Armorer Floyd",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "ALCHEMIST_TULL",
+  "name": "Alchemist Tull",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "VARSILIAN_KNIGHT",
+  "name": "Varsilian Knight",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "TRADER_WIELLE",
+  "name": "Trader Wielle",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "ALCHEMIST_DRYONOS",
+  "name": "Alchemist Dryonos",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "ORDUC_SOLLIGA",
+  "name": "Orduc of Solliga",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "ARMORER_REIA",
+  "name": "Armorer Reia",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "MAN_BLACK",
+  "name": "A man in black",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "TOWNSMAN",
+  "name": "Townsman",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "GUARD",
+  "name": "Guard",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "GUARDIAN",
+  "name": "Guardian",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "CRATE",
+  "name": "Crate",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "FLOWER",
+  "name": "Flower",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "CHEST",
+  "name": "Chest",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "MIRROR",
+  "name": "Mirror",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "CORPSE",
+  "name": "Corpse",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "BARREL",
+  "name": "Barrel",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "FUNGUS",
+  "name": "Fungus",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "THRONE",
+  "name": "Throne",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "PRISONER",
+  "name": "Prisoner",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "MAGIC_BARRIER",
+  "name": "Magical barrier",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "SIGNPOST",
+  "name": "Signpost",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "STAIRS",
+  "name": "Stairs",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "NEST",
+  "name": "Nest",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "DOOR",
+  "name": "Door",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "NOTICE",
+  "name": "Notice",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "SEWER",
+  "name": "Sewer",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "SARCOPHAGUS",
+  "name": "Sarcophagus",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "SHELF",
+  "name": "shelf",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "HOLE_WALL",
+  "name": "A hole in the wall",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "GOLDEN_TREE",
+  "name": "Golden Tree",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "BOOK",
+  "name": "Book",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "STATUE",
+  "name": "Statue",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "WALL",
+  "name": "Wall",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "BRAZIER",
+  "name": "Brazier",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "TABLE",
+  "name": "Table",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "LEVER",
+  "name": "Lever",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "EIRAMA",
+  "name": "Eirama",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "RONAEF",
+  "name": "Ronaëf",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "JAILER",
+  "name": "Jailer",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "LEGION_DESERTER",
+  "name": "Legion Deserter",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "LEGIONNAIRE_GNULBAM",
+  "name": "Legionnaire Gnulbam",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "DECURION_DESERTER",
+  "name": "Decurion Deserter",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "CAPTAIN_DEMETRIUS",
+  "name": "Captain Demetrius",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "CORDELIA",
+  "name": "Cordelia",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "LEONATO",
+  "name": "Leonato",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "BANQUO",
+  "name": "Banquo",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "POLONIUS",
+  "name": "Polonius",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "SPECTATOR",
+  "name": "Spectator",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "LAERTES",
+  "name": "Laertes",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "TRADER_OPHELIA",
+  "name": "Trader Ophelia",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "ARMORER_ROSENCRANTZ",
+  "name": "Trader Rosencrantz",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "ALTAR_THREE",
+  "name": "Altar of The Three",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "CAPTAIN_GUILDENSTERN",
+  "name": "Captain Guildenstern",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "BROTHER_IAGUS",
+  "name": "Brother Iagus",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "JACHIMO",
+  "name": "Jachimo",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "ALARBUS",
+  "name": "Alarbus",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "HERMIA",
+  "name": "Hermia",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "ELLEIRA",
+  "name": "Elleira",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "GEBADI",
+  "name": "Gebadi",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "HOODED_MAN",
+  "name": "Hooded man",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "BAG",
+  "name": "Bag",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "GLUNK",
+  "name": "Glunk",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "BROGG",
+  "name": "Brogg",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "SULIDAR",
+  "name": "Sulidar",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "TOMB",
+  "name": "Tombstone",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "NICHE",
+  "name": "Niche",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "BARAHID",
+  "name": "Barahid",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "TRADER_HARDIN",
+  "name": "Trader Hardin",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "BLACKSMITH_DORNICK",
+  "name": "Blacksmith Dornick",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "TRADER_PIRENNE",
+  "name": "Trader Pirenne",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "BROTHER_PALVER",
+  "name": "Brother Palver",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "CAPTAIN_PELORAT",
+  "name": "Captain Pelorat",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "BOATMAN_CLEON",
+  "name": "Boatman Cleon",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "RANGER_VENABILI",
+  "name": "Ranger Venabili",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "SAGE_AMARYL",
+  "name": "Sage Amaryl",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "BISHOP_BAYTA",
+  "name": "Bishop Bayta",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "MALLOW",
+  "name": "Mallow",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "SELDON",
+  "name": "Seldon",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "TRAINED_CAT",
+  "name": "Trained Sabercat",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "TRADER_NIBDAM",
+  "name": "Trader Nibdam",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "ARMORER_MORTHA",
+  "name": "Armorer Mortha",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "SISTER_GENTA",
+  "name": "Sister Genta",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "CAPTAIN_VLAD",
+  "name": "Captain Vlad",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "DEMONIC_ATTORNEY",
+  "name": "Demonic Lawyer",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "ADMUS",
+  "name": "Saint Admus",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "WOODSWOMAN",
+  "name": "Woodswoman",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "CAPTAIN_WHITEWATER",
+  "name": "Captain Whitewater",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "TERAM",
+  "name": "Teram",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "GUARD_CHEA",
+  "name": "Guard Chea",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "ANTON_GERDT",
+  "name": "Anton Gerdt",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "SHERYL",
+  "name": "Sheryl",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "NISOR",
+  "name": "Nisor",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "CAPTAIN_TEARA",
+  "name": "Captain Teara",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "THEROD_NOM",
+  "name": "Therod Nom",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "ROLF_EHRAR",
+  "name": "Rolf Ehrar",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "DRUNKARD",
+  "name": "A drunkard",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "MARGHERITE",
+  "name": "Margerithe",
+  "src": "ui/strings/names.txt"
+ },
+ {
+  "tag": "SULI",
+  "name": "Suli",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "JIMEA",
+  "name": "Jimea",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "BETROTO",
+  "name": "Betroto",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "ROTVIC",
+  "name": "Rotvic",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "VILLAGER",
+  "name": "Villager",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "RADAIM",
+  "name": "Radaim",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "TEALA",
+  "name": "Teala",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "STORMKNIGHT",
+  "name": "Stormknight",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "GILMOUR",
+  "name": "Gilmour",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "VARSILIAN_KNIGHT",
+  "name": "Varsilian Knight",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "LATIMER",
+  "name": "Latimer",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "SIR_ANDREW_MASON",
+  "name": "Sir Andrew Mason",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "WATERS",
+  "name": "Waters",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "FRITHA_RHAYADER",
+  "name": "Fritha Rhayader",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "BAFRAT",
+  "name": "Bafrat",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "THUG",
+  "name": "Thug",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "BARRET",
+  "name": "Barret",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "SPICE_TRADER_JETHRO",
+  "name": "Spice Trader Jethro",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "TRAP_BEAR",
+  "name": "Bear Trap",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "TRAP_SPIKES",
+  "name": "Spikes Trap",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "GUARDIAN",
+  "name": "Guardian",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "CASTLE_GUARD",
+  "name": "Castle Guard",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "HORTON",
+  "name": "Horton",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "WARRIOR",
+  "name": "Warrior",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "MINER",
+  "name": "Miner",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "OUTLAW",
+  "name": "Outlaw",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "OUTLAW_CHIEF",
+  "name": "Outlaw Chief",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "VARANNARI_LEADER",
+  "name": "Varannari Leader",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "MASTER",
+  "name": "Master",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "GRANDMASTER",
+  "name": "GrandMaster",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "TRAVELLING_ARMORER",
+  "name": "Travelling armorer",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "TRAVELLING_ALCHEMIST",
+  "name": "Travelling alchemist",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "SHADY_TRAVELLER",
+  "name": "A shady traveller",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "ORC_COMMANDER",
+  "name": "Orc Commander",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "TROLL_MARAUDER",
+  "name": "Troll Marauder",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "INITIATE_GLAYDAN",
+  "name": "Initiate Glaydan",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "BUTTERFINGERS",
+  "name": "Butterfingers",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "LILIANA",
+  "name": "Liliana",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "DIRG_SWEETBLADE",
+  "name": "Dirg Sweetblade",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "GLARIUM",
+  "name": "Glarium",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "TORJA",
+  "name": "Torja",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "LORE_GUARDIAN",
+  "name": "Lore Guardian",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "RURAZAR",
+  "name": "Rur'âzar",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "TANGIR",
+  "name": "Tangir",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "AMARISA",
+  "name": "Amarisa",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "DAREMA_BRIGHTHAMMER",
+  "name": "Darema Brighthammer",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "FORSAKEN",
+  "name": "Forsaken",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "FRIGULD_INN",
+  "name": "The Fifth Wind",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "VARANNARI",
+  "name": "Varannari",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "STEEL_THUNDER",
+  "name": "Steel Thunder",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "JARBAD",
+  "name": "Jarbad",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "CRUSADER",
+  "name": "Crusader",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "CAPTAIN",
+  "name": "Captain",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "ALCHEMIST_VERA",
+  "name": "Alchemist Vera",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "ARMORER_HAN",
+  "name": "Armorer Han",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "ZILDA",
+  "name": "Zilda",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "KALIS",
+  "name": "Kalis",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "CAPTAIN_DORSE",
+  "name": "Captain Dorse",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "CADUL",
+  "name": "Cadul",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "BODYGUARD",
+  "name": "Bodyguard",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "CHANCELLOR_MALARD",
+  "name": "Chancellor Malard",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "MERCENARY",
+  "name": "Mercenary",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "SPHERE",
+  "name": "Sphere",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "ACCOUNTANT",
+  "name": "Accountant",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "CLERK",
+  "name": "Clerk",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "ARCHBISHOP_DILLA",
+  "name": "Archbishop Dilla",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "BISHOP_BAREID",
+  "name": "Bishop Bareid",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "FATHER_HADAR",
+  "name": "Father Hadar",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "MAGICAL_BARRIER",
+  "name": "Magical Barrier",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "TRADER_PHAZID",
+  "name": "Trader Phazid",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "HIGH_PRIEST",
+  "name": "High Priest",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "INSCRIPTION",
+  "name": "Inscription",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "OTHERWORLDLY_PRESENCE",
+  "name": "Otherworldly Presence",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "TRADER_COLEEN",
+  "name": "Trader Coleen",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "SERGEANT_MORG",
+  "name": "Sergeant Morg",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "BOUNCER_TENDOR",
+  "name": "Bouncer Tendor",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "ALTAR",
+  "name": "Altar",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "SERGEANT_MAEVE",
+  "name": "Sergeant Maeve",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "GUARDIAN",
+  "name": "Guardian",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "VALERAN",
+  "name": "Valeran",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "CORRUPTED_MINOTAUR",
+  "name": "Corrupted Minotaur",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "ZOGARIS",
+  "name": "Zogaris",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "SYXADRIS",
+  "name": "Syxadris",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "BASRUDAXUL",
+  "name": "Basrudaxul the Elder",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "FEVRESEE",
+  "name": "Fevresee",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "DERINA_GASHAM",
+  "name": "Derina Gasham",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "MONOLITH",
+  "name": "Monolith",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "ROCKS",
+  "name": "Rocks",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "CONSOLE",
+  "name": "Console",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "ORACLE",
+  "name": "The Oracle",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "ELEVATOR",
+  "name": "Elevator",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "CALENDA",
+  "name": "Lady Calenda",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "YAMIBA",
+  "name": "Yamiba",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "PRAETOR_JENARD",
+  "name": "Praetor Jenard",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "ROMENA",
+  "name": "Romena",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "TASKMASTER_BREM",
+  "name": "Taskmaster Brem",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "ANGRY_GHOST",
+  "name": "Angry Ghost",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "COUK",
+  "name": "Couk",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "A_CORPSE",
+  "name": "A corpse",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "CENTURION_KANUM",
+  "name": "Centurion Kanum",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "DECURION_SARGOS",
+  "name": "Decurion Sargos",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "DARTOS",
+  "name": "Dartos",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "AGLARON",
+  "name": "Aglaron",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "MISARA",
+  "name": "Misara",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "ARCANE_KNIGHT",
+  "name": "Arcane Knight",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "TRADER_JOHANNA",
+  "name": "Trader Johanna",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "ILEMMA",
+  "name": "Ilemma",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "MEZIMER",
+  "name": "Mezimer",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "TRADER_GILRON",
+  "name": "Trader Gilron",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "SOGARAD",
+  "name": "Sogarad",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "DORBUS",
+  "name": "Dorbus",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "ARABELLE_WINTER",
+  "name": "Arabelle de Winter",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "ICEMIST_INN",
+  "name": "The Magic Flagon",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "WHITETOWER_INN",
+  "name": "The Missing Reagent",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "ALCHEMIST_MATOR",
+  "name": "Alchemist Mator",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "BREWER_TONEL",
+  "name": "Brewer Tonel",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "BROTHER_DEFRERE",
+  "name": "Brother De Frere",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "ARMORER_VOCKJODI",
+  "name": "Armorer Vockjodi",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "ARMORER_TORDAM",
+  "name": "Armorer Tordam",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "MIFADIS",
+  "name": "Mifadis",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "ROSY",
+  "name": "Rosy",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "RASMUND",
+  "name": "Rasmund",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "WOODSWOMAN",
+  "name": "Woodswoman",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "CAPTAIN_TORDEN",
+  "name": "Captain Torden",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "FOLCARAD",
+  "name": "Folcarad Whitestorm",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "INSANE_WIZARD",
+  "name": "Insane Wizard",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "WHITE_KING",
+  "name": "The White King",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "PILGRIM",
+  "name": "Pilgrim",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "BROTHER_HADRI",
+  "name": "Brother Hadri",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "TRADER_GARNER",
+  "name": "Trader Garner",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "C13_INN",
+  "name": "The Drowned Rat",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "J7_INN",
+  "name": "The Silver Anchor",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "TRADER_OTARAB",
+  "name": "Trader Otarab",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "TRADER_ORAC",
+  "name": "Trader Orac",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "MESSENGER",
+  "name": "Messenger",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "SOLDIER",
+  "name": "Soldier",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "RADIA",
+  "name": "Radia",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "DOBROS_STORME",
+  "name": "Dobros Storme",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "ANDRYS_STORME",
+  "name": "Andrys Storme",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "BED",
+  "name": "Bed",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "BLOOD_FOUNTAIN",
+  "name": "Fountain of Blood",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "EIRENDA",
+  "name": "Eirenda",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "TRADER_DENTRA",
+  "name": "Trader Dentra",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "BOATMAN_ELEDOR",
+  "name": "Boatman Eledor",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "CAPTAIN_CAREMA",
+  "name": "Captain Carema",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "PRISONER",
+  "name": "Prisoner",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "SERGEANT_TARBA",
+  "name": "Sergeant Tarba",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "BAGADAR",
+  "name": "Bagadar",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "GOVERNOR_TODBIR",
+  "name": "Governor Todbir",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "CONTRAPTION",
+  "name": "Contraption",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "CAPTAIN_BALADIS",
+  "name": "Captain Baladis",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "AZERAN",
+  "name": "Azeran",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "TRADER_GLYPHAX",
+  "name": "Trader Glyphax",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "CAPTAIN_SOROM",
+  "name": "Captain Sorom",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "K11_INN",
+  "name": "The Grumpy Elemental",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "FOREMAN_DALLIS",
+  "name": "Foreman Dallis",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "THALASSOS",
+  "name": "Thalassos",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "GOLEM_TRADER",
+  "name": "Golem Trader",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "THREE_CLAWS",
+  "name": "Three Claws",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "STAR_SHADOW",
+  "name": "Starshadow",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "LADY_MARISHA",
+  "name": "Lady Marisha",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "SIR_IROLIO",
+  "name": "Sir Irolio",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "LAUGHING_DEER",
+  "name": "Laughing Deer",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "QUARTERMASTER",
+  "name": "Quartermaster",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "VARESSA_GOLEM",
+  "name": "Varessa's Golem",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "VARESSA_GOLEM",
+  "name": "Varessa's Golem",
+  "src": "ui/strings/names2.txt"
+ },
+ {
+  "tag": "BLAFARNE_PET",
+  "name": "Blafarne's Pet",
+  "src": "ui/strings/names2.txt"
+ }
+]

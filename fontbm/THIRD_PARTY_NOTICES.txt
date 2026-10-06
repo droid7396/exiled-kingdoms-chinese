@@ -1,0 +1,34 @@
+Third-party components bundled with this repository
+====================================================
+
+fontbm
+------
+License: MIT
+Copyright (c) 2023 Vladimir Gamalyan
+Source: https://github.com/vladimirgamalyan/fontbm
+Full license text: see LICENSE (same directory)
+
+FreeType (freetype.dll)
+-----------------------
+License: FreeType License (FTL) / GPL-2.0 dual license; FTL applies to these binaries
+Source: https://freetype.org
+
+libpng (libpng16.dll)
+---------------------
+License: PNG Reference Library License version 2
+Source: http://www.libpng.org/pub/png/libpng.html
+
+zlib (zlib1.dll)
+----------------
+License: zlib License
+Source: https://zlib.net
+
+bzip2 (bz2.dll)
+---------------
+License: bzip2 license (BSD-style)
+Source: https://sourceware.org/bzip2/
+
+Brotli (brotlidec.dll, brotlicommon.dll)
+----------------------------------------
+License: MIT
+Source: https://github.com/google/brotli

@@ -1,0 +1,4526 @@
+[
+ {
+  "file": "abyss_gazed",
+  "line": 1,
+  "progress": "0",
+  "text": "... And the Abyss Gazed Back"
+ },
+ {
+  "file": "abyss_gazed",
+  "line": 2,
+  "progress": "10",
+  "text": "A cleric named Duremas has lost his sanity, and commited numerous crimes including murder and stealing a book from Nivarian. I must find him and execute him. He was last seen on the Steel Coast, south of New Anthur."
+ },
+ {
+  "file": "abyss_gazed",
+  "line": 3,
+  "progress": "30",
+  "text": "I must find and execute the cleric named Duremas because of his crimes. I've found a locked grate in a mine in the Steel Coast, it might be possible that he hides there."
+ },
+ {
+  "file": "abyss_gazed",
+  "line": 4,
+  "progress": "33",
+  "text": "\"I must find and execute the cleric named Duremas because of his crimes. I've found a locked grate in a mine in the Steel Coast, it might be possible that he hides there; I found a key that might open it.\""
+ },
+ {
+  "file": "abyss_gazed",
+  "line": 5,
+  "progress": "36",
+  "text": "\"I must find and execute the cleric named Duremas because of his crimes. I've found a locked grate in a mine in the Steel Coast, it might be possible that he hides there; I found a key and entered the area.\""
+ },
+ {
+  "file": "abyss_gazed",
+  "line": 6,
+  "progress": "40",
+  "text": "I have finally confronted Duremas the renegade cleric of The Three, in the abandoned mine of Steel Coast."
+ },
+ {
+  "file": "abyss_gazed",
+  "line": 7,
+  "progress": "45",
+  "text": "I fought Duremas the renegade cleric of The Three, in the abandoned mine of Steel Coast."
+ },
+ {
+  "file": "abyss_gazed",
+  "line": 8,
+  "progress": "50",
+  "text": "I killed Duremas, now it's time to report back to Brother Iagus in New Anthur."
+ },
+ {
+  "file": "abyss_gazed",
+  "line": 9,
+  "progress": "100",
+  "text": "I killed the renegade cleric Duremas."
+ },
+ {
+  "file": "ancient_seal",
+  "line": 1,
+  "progress": "0",
+  "text": "The Ancient Seal"
+ },
+ {
+  "file": "ancient_seal",
+  "line": 2,
+  "progress": "10",
+  "text": "Hirge is concerned about some dreams she's been having lately. She wants to pay a visit to Father Mantros, in the Sanctuary of Irossia."
+ },
+ {
+  "file": "ancient_seal",
+  "line": 3,
+  "progress": "20",
+  "text": "\"Hirge and I should visit Mount Orogg, west of Irossia, and talk to Brother Tarlus; he is the leader of the monks that guard the Sacred Seal. It is possible that it is weakening.\""
+ },
+ {
+  "file": "ancient_seal",
+  "line": 4,
+  "progress": "30",
+  "text": "Brother Tarlus opened for us the Forbidden Pits of Mount Orogg. Together with Hirge I need to reach the Chamber of the Seal, somewhere deep into the Pits. Hirge has confessed me that her divine blood is the only thing that can renew the seal, and her life must be sacrificed to protect the Kingdoms."
+ },
+ {
+  "file": "ancient_seal",
+  "line": 5,
+  "progress": "40",
+  "text": "It is a trap! The monks have turned into servants of the evil spirits. I must defeat Tarlus."
+ },
+ {
+  "file": "ancient_seal",
+  "line": 6,
+  "progress": "50",
+  "text": "The Seal at Mount Orogg is safe and the evil monks won't be able to desecrate it. We should report to Father Mantros, in Irossia."
+ },
+ {
+  "file": "ancient_seal",
+  "line": 7,
+  "progress": "100",
+  "text": "The Seal at Mount Orogg is safe and the evil monks won't be able to desecrate it.  Father Mantros completed her training as a cleric."
+ },
+ {
+  "file": "ancient_verses",
+  "line": 1,
+  "progress": "0",
+  "text": "Ancient Verses"
+ },
+ {
+  "file": "ancient_verses",
+  "line": 2,
+  "progress": "10",
+  "text": "I have found a strange statue in the depths of Castle Bluerock, in the Zamohr Mountains. The first verse of its plaque says: 'I wish for eyes of fire, so suffering cannot blind me'."
+ },
+ {
+  "file": "ancient_verses",
+  "line": 3,
+  "progress": "20",
+  "text": "I have found a strange statue in the depths of Castle Bluerock, in the Zamohr Mountains. The second verse of its plaque says: 'Can hope sprout and blossom in the frozen wastes of despair?'"
+ },
+ {
+  "file": "ancient_verses",
+  "line": 4,
+  "progress": "30",
+  "text": "I have found a strange statue in the depths of Castle Bluerock, in the Zamohr Mountains. The third verse of its plaque says:  'The deepest Evil shall be conquered, beheaded, then forgotten.'"
+ },
+ {
+  "file": "ancient_verses",
+  "line": 5,
+  "progress": "40",
+  "text": "I have found a strange statue in the depths of Castle Bluerock, in the Zamohr Mountains. The final verse in the plaque says: 'Pride is a holey fur coat; noble and comforting, yet the coldness will slip through.'"
+ },
+ {
+  "file": "ancient_verses",
+  "line": 6,
+  "progress": "50",
+  "text": "An evil spirit was guarding the statue in Castle Bluerock; I must now defeat it."
+ },
+ {
+  "file": "ancient_verses",
+  "line": 7,
+  "progress": "100",
+  "text": "I solved all the riddles and recovered the ancient blade Sonnet."
+ },
+ {
+  "file": "ant_hunt",
+  "line": 1,
+  "progress": "0",
+  "text": "Hunting bugs!"
+ },
+ {
+  "file": "ant_hunt",
+  "line": 2,
+  "progress": "10",
+  "text": "Sheryl in the colony outpost wants me to find the cause of the Mirmeks coming so close to their settlement. They normally stay in their caves."
+ },
+ {
+  "file": "ant_hunt",
+  "line": 3,
+  "progress": "20",
+  "text": "I found an egg nest that probably is the reason of the infestation, and damaged it, but it is not destroyed yet."
+ },
+ {
+  "file": "ant_hunt",
+  "line": 4,
+  "progress": "30",
+  "text": "I destroyed the Mirmek egg sack, I doubt the monsters will roam the countryside so often now. I should go back to Sheryl."
+ },
+ {
+  "file": "ant_hunt",
+  "line": 5,
+  "progress": "100",
+  "text": "I destroyed the Mirmek egg sack and was rewarded by the colonists"
+ },
+ {
+  "file": "apprentice_none",
+  "line": 1,
+  "progress": "0",
+  "text": "Outstanding apprentice"
+ },
+ {
+  "file": "apprentice_none",
+  "line": 2,
+  "progress": "10",
+  "text": "Dartos the Wizard has asked me to recover his ring. All he knows is that his apprentice took it and disappeared a year ago. It is not going to be an easy task, with so little information"
+ },
+ {
+  "file": "apprentice_none",
+  "line": 3,
+  "progress": "20",
+  "text": "Dartos the Wizard has asked me to recover his ring. All he knows is that his apprentice took it and disappeared a year ago. He mentioned he was researching regeneration, I wonder if that could be a clue about his whereabouts."
+ },
+ {
+  "file": "apprentice_none",
+  "line": 4,
+  "progress": "30",
+  "text": "I found Dartos' ring. I should meet him at the Enclave in the Iron Valley."
+ },
+ {
+  "file": "apprentice_none",
+  "line": 5,
+  "progress": "100",
+  "text": "I returned Dartos his ring and was rewarded."
+ },
+ {
+  "file": "arena",
+  "line": 1,
+  "progress": "0",
+  "text": "Become the Champion!"
+ },
+ {
+  "file": "arena",
+  "line": 2,
+  "progress": "10",
+  "text": "I signed up to become the champion of the Freetown Arena. I have yet to fight my first opponent, but fame and fortune await me."
+ },
+ {
+  "file": "arena",
+  "line": 3,
+  "progress": "20",
+  "text": "I won my first fight, another opponent awaits me."
+ },
+ {
+  "file": "arena",
+  "line": 4,
+  "progress": "30",
+  "text": "I won my second fight, another opponent awaits me."
+ },
+ {
+  "file": "arena",
+  "line": 5,
+  "progress": "40",
+  "text": "I won my third fight, another opponent awaits me."
+ },
+ {
+  "file": "arena",
+  "line": 6,
+  "progress": "50",
+  "text": "I won my fourth fight, another opponent awaits me."
+ },
+ {
+  "file": "arena",
+  "line": 7,
+  "progress": "60",
+  "text": "I won my fifth fight, another opponent awaits me."
+ },
+ {
+  "file": "arena",
+  "line": 8,
+  "progress": "70",
+  "text": "I won my sixth fight, another opponent awaits me."
+ },
+ {
+  "file": "arena",
+  "line": 9,
+  "progress": "80",
+  "text": "I won my seventh fight, another opponent awaits me."
+ },
+ {
+  "file": "arena",
+  "line": 10,
+  "progress": "90",
+  "text": "The final Arena battle awaits me!"
+ },
+ {
+  "file": "arena",
+  "line": 11,
+  "progress": "100",
+  "text": "I became the champion of the Freetown Arena."
+ },
+ {
+  "file": "ark_lothasan",
+  "line": 1,
+  "progress": "0",
+  "text": "The Ark of Lothasan"
+ },
+ {
+  "file": "ark_lothasan",
+  "line": 2,
+  "progress": "10",
+  "text": "Tremadan's ghostly figure mentioned the 'Ark of Lothasan' as the location of the secret base of the Forsaken where they're trying to open the Deep Gate. He also said he'd be doing research in the library to learn its exact location. He will call me when he finds out the location."
+ },
+ {
+  "file": "ark_lothasan",
+  "line": 3,
+  "progress": "15",
+  "text": "I received a magical message calling me back to Tremadan's Tower. Apparently the location of the Ark of Lothasan has been found!"
+ },
+ {
+  "file": "ark_lothasan",
+  "line": 4,
+  "progress": "20",
+  "text": "I learned the location of the mythical wrecked vessel of the Muud'ari. It lies somewhere in the Ashen Cape, a cursed volcanic land avoided by everyone for centuries. I should try to find someone that knows how to get there."
+ },
+ {
+  "file": "ark_lothasan",
+  "line": 5,
+  "progress": "30",
+  "text": "I learned the location of the mythical wrecked vessel of the Muud'ari. It lies somewhere in the Ashen Cape, a cursed volcanic land avoided by everyone for centuries. Captain Dorse refuses to take me there, but at least he agreed to ferry me to the south. From the Dragon Coast I might find a way to the cape."
+ },
+ {
+  "file": "ark_lothasan",
+  "line": 6,
+  "progress": "40",
+  "text": "I found the Ark. It is a very strange ship, and it was not on the coast but on top of a volcano. Could the legends be true? could this ship be able to traverse the skies? Now I must find Amarisa and also stop the Magister from opening the Deep Gate."
+ },
+ {
+  "file": "ark_lothasan",
+  "line": 7,
+  "progress": "45",
+  "text": "I have read about a spirit known as The Oracle, said to inhabit somewhere in the Ark. Wise and powerful, the Forsaken fear that it could thwart their plans and are trying to locate it. However they  have been unable to find it yet."
+ },
+ {
+  "file": "ark_lothasan",
+  "line": 8,
+  "progress": "50",
+  "text": "The Oracle says I need to venture downstairs into the ship and find something called 'Emergency Reactor' and activate it. That will allow him to detach and launch part of the Ark into the skies, bringing the Deep Gate with it away from Varannar. It sounds like the best possible plan at this point."
+ },
+ {
+  "file": "ark_lothasan",
+  "line": 9,
+  "progress": "60",
+  "text": "I started the Emergency Reactor of the Ark. I should run back to the Oracle now."
+ },
+ {
+  "file": "ark_lothasan",
+  "line": 10,
+  "progress": "70",
+  "text": "I must retrieve an item called 'Control Module' and insert it in the Main Computer of the Command Bridge. Probably the module is in the hands of the Forsaken. As soon as this is done, the Oracle will send the Gate into the stars."
+ },
+ {
+  "file": "ark_lothasan",
+  "line": 11,
+  "progress": "71",
+  "text": "I retrieved the Control Module, I must put it back into the main computer! It must be close to the ritual room. However I must deal with the Forsaken first."
+ },
+ {
+  "file": "ark_lothasan",
+  "line": 12,
+  "progress": "72",
+  "text": "I am taking part in a debate with the Forsaken"
+ },
+ {
+  "file": "ark_lothasan",
+  "line": 13,
+  "progress": "76",
+  "text": "It looked as if I had won, but the Magister seems to be up to something."
+ },
+ {
+  "file": "ark_lothasan",
+  "line": 14,
+  "progress": "77",
+  "text": "I have to face the Horrors in person. This is not looking good."
+ },
+ {
+  "file": "ark_lothasan",
+  "line": 15,
+  "progress": "78",
+  "text": "The Horrors have arrived!"
+ },
+ {
+  "file": "ark_lothasan",
+  "line": 16,
+  "progress": "80",
+  "text": "The Forsaken are gone. I must put the Control Module back into the main computer!"
+ },
+ {
+  "file": "ark_lothasan",
+  "line": 17,
+  "progress": "83",
+  "text": "I have decided to honor my heritage as a Muud'ari and return to my world where I'll become immortal."
+ },
+ {
+  "file": "ark_lothasan",
+  "line": 18,
+  "progress": "84",
+  "text": "I found the Ark. It is a very strange ship, and it was not on the coast but on top of a volcano. Could the legends be true? could this ship be able to traverse the skies? Now I must take the final steps on my quest to immortality."
+ },
+ {
+  "file": "ark_lothasan",
+  "line": 19,
+  "progress": "85",
+  "text": "\"I met Valeran inside the Ark. My enemy now is my own sister Amarisa; she's trying to destroy the Gate. I must disable the reactor; it is somewhere downstairs.\""
+ },
+ {
+  "file": "ark_lothasan",
+  "line": 20,
+  "progress": "86",
+  "text": "\"I killed Amarisa. It needed to be done; now all that remains is stopping this damn Reactor.\""
+ },
+ {
+  "file": "ark_lothasan",
+  "line": 21,
+  "progress": "87",
+  "text": "The Reactor has been stopped. I need to find the Magister in the Command Bridge. I suspect it must be somewhere upstairs."
+ },
+ {
+  "file": "ark_lothasan",
+  "line": 22,
+  "progress": "90",
+  "text": "The Magister has asked one more job from me, assassinating a rival named Lady Calenda. She is in one of the dormitories."
+ },
+ {
+  "file": "ark_lothasan",
+  "line": 23,
+  "progress": "100",
+  "text": "I saved Varannar from the threat of the Deep Gate and the Horrors. Grandpa would be proud. I think."
+ },
+ {
+  "file": "ark_lothasan",
+  "line": 24,
+  "progress": "150",
+  "text": "I travelled to a new world through the Deep Gate."
+ },
+ {
+  "file": "best_plan",
+  "line": 1,
+  "progress": "0",
+  "text": "The best plan"
+ },
+ {
+  "file": "best_plan",
+  "line": 2,
+  "progress": "10",
+  "text": "Sergeant Dumek, in Kingsbridge, wants me to bring him the [BLUE]orc battle plans[]. He says such documents are often carried by orc couriers."
+ },
+ {
+  "file": "best_plan",
+  "line": 3,
+  "progress": "100",
+  "text": "I brought Sergeant Dumek the orc's battle plan. Now he can convince the Baron to fight them."
+ },
+ {
+  "file": "bounty_deserter_mercia",
+  "line": 1,
+  "progress": "0",
+  "text": "Bounty"
+ },
+ {
+  "file": "bounty_deserter_mercia",
+  "line": 2,
+  "progress": "-5",
+  "text": "Legion deserters must be punished! Find and kill #TARGET# to collect a bounty of #REWARD#. The information we have points at the target being #LOCATION#."
+ },
+ {
+  "file": "bounty_deserter_mercia",
+  "line": 3,
+  "progress": "10",
+  "text": "I have a mission from #QUESTGIVER# to find and kill #TARGET# to obtain #REWARD#. The location of my target is #LOCATION#."
+ },
+ {
+  "file": "bounty_deserter_mercia",
+  "line": 4,
+  "progress": "50",
+  "text": "I found and killed #TARGET#. I should collect the promised #REWARD# at #QUESTGIVER#"
+ },
+ {
+  "file": "bounty_deserter_mercia",
+  "line": 5,
+  "progress": "100",
+  "text": "I found and killed #TARGET#. I collected the promised #REWARD# at #QUESTGIVER#"
+ },
+ {
+  "file": "bounty_ilmara",
+  "line": 1,
+  "progress": "0",
+  "text": "Bounty"
+ },
+ {
+  "file": "bounty_ilmara",
+  "line": 2,
+  "progress": "-5",
+  "text": "\"An undead abomination must be located and destroyed; hunt down #TARGET# and be rewarded with #REWARD#. The information we have points at the target being #LOCATION#. \""
+ },
+ {
+  "file": "bounty_ilmara",
+  "line": 3,
+  "progress": "10",
+  "text": "I have a mission from #QUESTGIVER# to find and destroy #TARGET# to obtain #REWARD#. The location of my target is #LOCATION#."
+ },
+ {
+  "file": "bounty_ilmara",
+  "line": 4,
+  "progress": "50",
+  "text": "I found and destroyed #TARGET#. I should collect the promised #REWARD# at #QUESTGIVER#"
+ },
+ {
+  "file": "bounty_ilmara",
+  "line": 5,
+  "progress": "100",
+  "text": "I found and destroyed #TARGET#. I collected the promised #REWARD# at #QUESTGIVER#"
+ },
+ {
+  "file": "bounty_rebel_mercia",
+  "line": 1,
+  "progress": "0",
+  "text": "Bounty"
+ },
+ {
+  "file": "bounty_rebel_mercia",
+  "line": 2,
+  "progress": "-5",
+  "text": "Eliminate the Varannari rebel leader called #TARGET# to collect a bounty of #REWARD#. The information we have points at the target being #LOCATION#."
+ },
+ {
+  "file": "bounty_rebel_mercia",
+  "line": 3,
+  "progress": "10",
+  "text": "I have a mission from #QUESTGIVER# to find and kill #TARGET# to obtain #REWARD#. The location of my target is #LOCATION#."
+ },
+ {
+  "file": "bounty_rebel_mercia",
+  "line": 4,
+  "progress": "50",
+  "text": "I found and killed #TARGET#. I should collect the promised #REWARD# at #QUESTGIVER#"
+ },
+ {
+  "file": "bounty_rebel_mercia",
+  "line": 5,
+  "progress": "100",
+  "text": "I found and killed #TARGET#. I collected the promised #REWARD# at #QUESTGIVER#"
+ },
+ {
+  "file": "bounty_slave_mercia",
+  "line": 1,
+  "progress": "0",
+  "text": "Bounty"
+ },
+ {
+  "file": "bounty_slave_mercia",
+  "line": 2,
+  "progress": "-5",
+  "text": "Find and kill the fugutive #TARGET# to collect a bounty of #REWARD#. The information we have points at the target being #LOCATION#."
+ },
+ {
+  "file": "bounty_slave_mercia",
+  "line": 3,
+  "progress": "10",
+  "text": "I have a mission from #QUESTGIVER# to find and kill #TARGET# to obtain #REWARD#. The location of my target is #LOCATION#."
+ },
+ {
+  "file": "bounty_slave_mercia",
+  "line": 4,
+  "progress": "50",
+  "text": "I found and killed #TARGET#. I should collect the promised #REWARD# at #QUESTGIVER#"
+ },
+ {
+  "file": "bounty_slave_mercia",
+  "line": 5,
+  "progress": "100",
+  "text": "I found and killed #TARGET#. I collected the promised #REWARD# at #QUESTGIVER#"
+ },
+ {
+  "file": "bounty_varsilia",
+  "line": 1,
+  "progress": "0",
+  "text": "Bounty"
+ },
+ {
+  "file": "bounty_varsilia",
+  "line": 2,
+  "progress": "-5",
+  "text": "Find and kill #TARGET# to collect a bounty of #REWARD#. The information we have points at the target being #LOCATION#."
+ },
+ {
+  "file": "bounty_varsilia",
+  "line": 3,
+  "progress": "10",
+  "text": "I have a mission from #QUESTGIVER# to find and kill #TARGET# to obtain #REWARD#. The location of my target is #LOCATION#."
+ },
+ {
+  "file": "bounty_varsilia",
+  "line": 4,
+  "progress": "50",
+  "text": "I found and killed #TARGET#. I should collect the promised #REWARD# at #QUESTGIVER#"
+ },
+ {
+  "file": "bounty_varsilia",
+  "line": 5,
+  "progress": "100",
+  "text": "I found and killed #TARGET#. I collected the promised #REWARD# at #QUESTGIVER#"
+ },
+ {
+  "file": "bounty_witch_ilmara",
+  "line": 1,
+  "progress": "0",
+  "text": "Bounty"
+ },
+ {
+  "file": "bounty_witch_ilmara",
+  "line": 2,
+  "progress": "-5",
+  "text": "\"A Heretical Witch must be located and destroyed; hunt down #TARGET# and be rewarded with #REWARD#. The information we have points at the target being #LOCATION#. \""
+ },
+ {
+  "file": "bounty_witch_ilmara",
+  "line": 3,
+  "progress": "10",
+  "text": "I have a mission from #QUESTGIVER# to find and destroy #TARGET# to obtain #REWARD#. The location of my target is #LOCATION#."
+ },
+ {
+  "file": "bounty_witch_ilmara",
+  "line": 4,
+  "progress": "50",
+  "text": "I found and destroyed #TARGET#. I should collect the promised #REWARD# at #QUESTGIVER#"
+ },
+ {
+  "file": "bounty_witch_ilmara",
+  "line": 5,
+  "progress": "100",
+  "text": "I found and destroyed #TARGET#. I collected the promised #REWARD# at #QUESTGIVER#"
+ },
+ {
+  "file": "bullfighting",
+  "line": 1,
+  "progress": "0",
+  "text": "Bullfighting"
+ },
+ {
+  "file": "bullfighting",
+  "line": 2,
+  "progress": "10",
+  "text": "Sergeant Daukar, in New Garand Warriors' Guild, has given me the task to travel east from town and defeat a band of minotaur raiders somewhere on the road."
+ },
+ {
+  "file": "bullfighting",
+  "line": 3,
+  "progress": "11",
+  "text": "Sergeant Daukar, in New Garand Warriors' Guild, has given me the task to travel east from town and defeat a band of minotaur raiders somewhere on the road. I found and defeated one."
+ },
+ {
+  "file": "bullfighting",
+  "line": 4,
+  "progress": "12",
+  "text": "Sergeant Daukar, in New Garand Warriors' Guild, has given me the task to travel east from town and defeat a band of minotaur raiders somewhere on the road. I found and defeated two."
+ },
+ {
+  "file": "bullfighting",
+  "line": 5,
+  "progress": "13",
+  "text": "Sergeant Daukar, in New Garand Warriors' Guild, has given me the task to travel east from town and defeat a band of minotaur raiders somewhere on the road. I defeated all three of them, and should report back to her."
+ },
+ {
+  "file": "bullfighting",
+  "line": 6,
+  "progress": "100",
+  "text": "I killed three Minotaur Raiders for Sergeant Daukar, in the Warriors' Guild."
+ },
+ {
+  "file": "collectionist",
+  "line": 1,
+  "progress": "0",
+  "text": "The Collectionist"
+ },
+ {
+  "file": "collectionist",
+  "line": 2,
+  "progress": "10",
+  "text": "I must find three Ancient Idols for Sage Amaryl, in Nivarian. His reasearch says they must be around Lake Nivar, or the plains to the west."
+ },
+ {
+  "file": "collectionist",
+  "line": 3,
+  "progress": "11",
+  "text": "I must find three Ancient Idols for Sage Amaryl, in Nivarian. His reasearch says they must be around Lake Nivar, or the plains to the west. I already recovered one Idol."
+ },
+ {
+  "file": "collectionist",
+  "line": 4,
+  "progress": "12",
+  "text": "I must find three Ancient Idols for Sage Amaryl, in Nivarian. His reasearch says they must be around Lake Nivar, or the plains to the west. I already recovered two Idols."
+ },
+ {
+  "file": "collectionist",
+  "line": 5,
+  "progress": "13",
+  "text": "I must find three Ancient Idols for Sage Amaryl, in Nivarian. His reasearch says they must be around Lake Nivar, or the plains to the west. I already recovered all three."
+ },
+ {
+  "file": "collectionist",
+  "line": 6,
+  "progress": "20",
+  "text": "I returned all three Idols to Sage Amaryl in Nivarian, but a monster appeared!"
+ },
+ {
+  "file": "collectionist",
+  "line": 7,
+  "progress": "90",
+  "text": "I destroyed the monster summoned by the idols."
+ },
+ {
+  "file": "collectionist",
+  "line": 8,
+  "progress": "100",
+  "text": "I destroyed the monster summoned by the idols. It seems like Amaryl has learned his lesson."
+ },
+ {
+  "file": "coyote_hunt",
+  "line": 1,
+  "progress": "0",
+  "text": "Coyote Hunt"
+ },
+ {
+  "file": "coyote_hunt",
+  "line": 2,
+  "progress": "10",
+  "text": "The guard captain in Rhöneis has asked me to kill ten coyotes to obtain a reward."
+ },
+ {
+  "file": "coyote_hunt",
+  "line": 3,
+  "progress": "11",
+  "text": "The guard captain in Rhöneis has asked me to kill ten coyotes to obtain a reward. I already hunted down one."
+ },
+ {
+  "file": "coyote_hunt",
+  "line": 4,
+  "progress": "12",
+  "text": "The guard captain in Rhöneis has asked me to kill ten coyotes to obtain a reward. I already hunted down two."
+ },
+ {
+  "file": "coyote_hunt",
+  "line": 5,
+  "progress": "13",
+  "text": "The guard captain in Rhöneis has asked me to kill ten coyotes to obtain a reward. I already hunted down three."
+ },
+ {
+  "file": "coyote_hunt",
+  "line": 6,
+  "progress": "14",
+  "text": "The guard captain in Rhöneis has asked me to kill ten coyotes to obtain a reward. I already hunted down four."
+ },
+ {
+  "file": "coyote_hunt",
+  "line": 7,
+  "progress": "15",
+  "text": "The guard captain in Rhöneis has asked me to kill ten coyotes to obtain a reward. I already hunted down five."
+ },
+ {
+  "file": "coyote_hunt",
+  "line": 8,
+  "progress": "16",
+  "text": "The guard captain in Rhöneis has asked me to kill ten coyotes to obtain a reward. I already hunted down six."
+ },
+ {
+  "file": "coyote_hunt",
+  "line": 9,
+  "progress": "17",
+  "text": "The guard captain in Rhöneis has asked me to kill ten coyotes to obtain a reward. I already hunted down seven."
+ },
+ {
+  "file": "coyote_hunt",
+  "line": 10,
+  "progress": "18",
+  "text": "The guard captain in Rhöneis has asked me to kill ten coyotes to obtain a reward. I already hunted down eight."
+ },
+ {
+  "file": "coyote_hunt",
+  "line": 11,
+  "progress": "19",
+  "text": "The guard captain in Rhöneis has asked me to kill ten coyotes to obtain a reward. I already hunted down nine."
+ },
+ {
+  "file": "coyote_hunt",
+  "line": 12,
+  "progress": "20",
+  "text": "The guard captain in Rhöneis has asked me to kill ten coyote. I already killed ten so I can report back to her"
+ },
+ {
+  "file": "coyote_hunt",
+  "line": 13,
+  "progress": "100",
+  "text": "I hunted down ten wild coyotes in Rhöneis and the Captain rewarded me."
+ },
+ {
+  "file": "cursed_abbey",
+  "line": 1,
+  "progress": "0",
+  "text": "The Cursed Abbey"
+ },
+ {
+  "file": "cursed_abbey",
+  "line": 2,
+  "progress": "10",
+  "text": "Sister Genta, in Fögas, wants my help regarding the Wraiths coming from the forest at night. She believes the abandoned Abbey of Saint Admus might be related. Once a holy sanctuary in the deepest of the Fögas Forest, now it's a place avoided by everyone."
+ },
+ {
+  "file": "cursed_abbey",
+  "line": 3,
+  "progress": "20",
+  "text": "I'm investigating the Abbey in Fögas Forest. I met the Abbot, a terribly evil undead, but also invulnerable. He mentioned a pact with devils, and also said: 'Third door to the setting sun becomes the Gate to Hell'"
+ },
+ {
+  "file": "cursed_abbey",
+  "line": 4,
+  "progress": "30",
+  "text": "I'm investigating the Abbey in Fögas Forest. I met the Abbot, a terribly evil man in life, now cursing the Abbey and spreading evil through all the forest. He made a pact with devils, but for some reason his soul can stay in the Abbey, cursing the whole forest. I should find the reason."
+ },
+ {
+  "file": "cursed_abbey",
+  "line": 5,
+  "progress": "40",
+  "text": "I'm investigating the Abbey in Fögas Forest. I think I know why the Abbot's spirit refuses to leave: he made an oath, swearing he'd never leave the place. While he is Abbot, he will remain here, and it would take someone with an authority higher than his own to free him of his oath."
+ },
+ {
+  "file": "cursed_abbey",
+  "line": 6,
+  "progress": "50",
+  "text": "I'm investigating the Abbey in Fögas Forest. I met the Spirit of Saint Admus! He has freed the Abbot him of his Oath, so if I destroy him he will be sent to hell."
+ },
+ {
+  "file": "cursed_abbey",
+  "line": 7,
+  "progress": "90",
+  "text": "I destroyed the former Abbot in the Fögas Forest Abbey, and there're no more wraiths in the forest. I should report to Sister Genta, in the village."
+ },
+ {
+  "file": "cursed_abbey",
+  "line": 8,
+  "progress": "100",
+  "text": "I freed the Fögas Forest from the curse of the Abbey."
+ },
+ {
+  "file": "dark_matters",
+  "line": 1,
+  "progress": "0",
+  "text": "Dark matters"
+ },
+ {
+  "file": "dark_matters",
+  "line": 2,
+  "progress": "10",
+  "text": "Brother Gabriel, in New Garand, is feeling the presence of an evil creature, and an unholy altar, somewhere in the graveyard hills past the city Farmlands. He  asked me to investigate and stop this evil presence."
+ },
+ {
+  "file": "dark_matters",
+  "line": 3,
+  "progress": "15",
+  "text": "I found an undead Tolassian Priest that was performing magic on an altar. I destroyed him, but the evil aura remains, and I feel it could return. There is something else I must do to destroy him."
+ },
+ {
+  "file": "dark_matters",
+  "line": 4,
+  "progress": "20",
+  "text": "I stopped the evil ritual that the Tolassian Priest was conducting. Now I can report back to Brother Gabriel in New Garand."
+ },
+ {
+  "file": "dark_matters",
+  "line": 5,
+  "progress": "100",
+  "text": "I removed the threat of the Tolassian Priest in New Garand's graveyard, and I was rewarded by Brother Gabriel."
+ },
+ {
+  "file": "dont_shoot_messenger",
+  "line": 1,
+  "progress": "0",
+  "text": "Don't Shoot the Messenger!"
+ },
+ {
+  "file": "dont_shoot_messenger",
+  "line": 2,
+  "progress": "10",
+  "text": "Rolf Ehrar in Kingsbridge wants me to deliver a letter but I refused."
+ },
+ {
+  "file": "dont_shoot_messenger",
+  "line": 3,
+  "progress": "20",
+  "text": "I agreed to deliver a letter to Horton in New Garand Farmlands. The man usually camps by the sea. Rolf the Courier says that Horton will pay me 100 gold for this job..."
+ },
+ {
+  "file": "dont_shoot_messenger",
+  "line": 4,
+  "progress": "30",
+  "text": "It was an ambush! Horton,  was just a bandit probably working in league with Ehrar..."
+ },
+ {
+  "file": "dont_shoot_messenger",
+  "line": 5,
+  "progress": "50",
+  "text": "I confronted Erhar and decided to kill him as revenge for setting me up."
+ },
+ {
+  "file": "dont_shoot_messenger",
+  "line": 6,
+  "progress": "100",
+  "text": "I decided to let Erhar go, he rewarded me with a magical ring."
+ },
+ {
+  "file": "dont_shoot_messenger",
+  "line": 7,
+  "progress": "110",
+  "text": "I killed Erhar, he was part of Horton's bandit ring, eyeing lonely travellers and sending them to die at the hands of his criminal partners."
+ },
+ {
+  "file": "dubious_poetry",
+  "line": 1,
+  "progress": "0",
+  "text": "Dubious Poetry"
+ },
+ {
+  "file": "dubious_poetry",
+  "line": 2,
+  "progress": "10",
+  "text": "While exploring a cave in Jabal Hills, I found some... Rather crude love poems written by some mercian woman called Lady Leanna. They were on the corpse of a legionnaire scout."
+ },
+ {
+  "file": "dubious_poetry",
+  "line": 3,
+  "progress": "20",
+  "text": "I demanded a payment of 5,000 gold coins from Lady Leanna in exchange of the letter. She will get the money and meet me at night outside the city, by the river south of the walls."
+ },
+ {
+  "file": "dubious_poetry",
+  "line": 4,
+  "progress": "30",
+  "text": "I demanded a night of love from Lady Leanna in exchange of the letters. She will meet me at night outside the city, by the river south of the walls."
+ },
+ {
+  "file": "dubious_poetry",
+  "line": 5,
+  "progress": "100",
+  "text": "I gave Lady Leanna back her letter and she rewarded me."
+ },
+ {
+  "file": "dubious_poetry",
+  "line": 6,
+  "progress": "110",
+  "text": "Lady Leanna tried to murder me, setting up an ambush with assassins."
+ },
+ {
+  "file": "easy_as_pie",
+  "line": 1,
+  "progress": "0",
+  "text": "Easy as Pie"
+ },
+ {
+  "file": "easy_as_pie",
+  "line": 2,
+  "progress": "10",
+  "text": "Ronaëf, the Royal Cook in Freetown, has been ordered by the new queen to prepare a Golden Pie. It is an ancient, mythical recipe, that no one has cooked in a century. He is desperate for finding [BLUE]3 Golden Apples[]."
+ },
+ {
+  "file": "easy_as_pie",
+  "line": 3,
+  "progress": "15",
+  "text": "Ronaëf, the Royal Cook in Freetown, has been ordered by the new queen to prepare a Golden Pie. It is an ancient, mythical recipe, that no one has cooked in a century. He is desperate for finding [BLUE]3 Golden Apples[]. I've heard an interesting rumor about those apples coming from the shores of Lake Nivar in ancient times."
+ },
+ {
+  "file": "easy_as_pie",
+  "line": 4,
+  "progress": "100",
+  "text": "I helped Ronaëf to prepare a Golden Pie and survive the queen's whims."
+ },
+ {
+  "file": "easy_job",
+  "line": 1,
+  "progress": "0",
+  "text": "An easy job"
+ },
+ {
+  "file": "easy_job",
+  "line": 2,
+  "progress": "10",
+  "text": "Dansul the Wizard, in the enclave tower of Sagar Forest, has requested two [BLUE]merple weeds[] for his research. He says they usually grow in snow plains, near rivers that aren't frozen."
+ },
+ {
+  "file": "easy_job",
+  "line": 3,
+  "progress": "100",
+  "text": "I gave Dansul the Wizard two merple weeds, and was rewarded for it."
+ },
+ {
+  "file": "exotic_substances",
+  "line": 1,
+  "progress": "0",
+  "text": "Exotic Substances"
+ },
+ {
+  "file": "exotic_substances",
+  "line": 2,
+  "progress": "10",
+  "text": "I met Kalis the healer in the Friguld streets. She needs my help to gather some ingredients: a [BLUE]Giant mamba fang[], and a [BLUE]Coral Snake Fang[]. She believes it'll be possible to collect such ingredients in the Emerald Valley to the West."
+ },
+ {
+  "file": "exotic_substances",
+  "line": 3,
+  "progress": "100",
+  "text": "I gave Kalis her ingredients and she rewarded me with several potions."
+ },
+ {
+  "file": "exotic_substances",
+  "line": 4,
+  "progress": "110",
+  "text": "I gave Kalis her ingredients and she rewarded me with several potions. Later on, in Freetown, I found out she sells thems as narcotics for a high price, and I let her know I don't like it."
+ },
+ {
+  "file": "exotic_substances",
+  "line": 5,
+  "progress": "120",
+  "text": "I gave Kalis her ingredients and she rewarded me with several potions. Later on, in Freetown, I found out she sells thems as narcotics for a high price. Every time I bring her three [BLUE]Giant mamba fang[] and three [BLUE]Coral Snake Fang[], she'll pay me 1300 gold."
+ },
+ {
+  "file": "eye_tiger",
+  "line": 1,
+  "progress": "0",
+  "text": "Eye of the Tiger"
+ },
+ {
+  "file": "eye_tiger",
+  "line": 2,
+  "progress": "10",
+  "text": "Mallow, the alchemist at the garden in Nivarian can create a very potent potion if I bring him two sabercat eyes and a red orchid."
+ },
+ {
+  "file": "eye_tiger",
+  "line": 3,
+  "progress": "100",
+  "text": "I brought all the ingredients to Mallow in Nivarian, he can now prepare Potions of Heroism for me."
+ },
+ {
+  "file": "eye_tiger",
+  "line": 4,
+  "progress": "110",
+  "text": "I brought all the ingredients to Mallow in Nivarian, he can now prepare Potions of Heroism or Potions of the Tragic Hero for me."
+ },
+ {
+  "file": "fair_deal",
+  "line": 1,
+  "progress": "0",
+  "text": "A fair deal"
+ },
+ {
+  "file": "fair_deal",
+  "line": 2,
+  "progress": "10",
+  "text": "I must bring a [BLUE]white wolf pelt, a small ruby and 500 coins[] to Janod the Wizard in Kingsbridge. He will reward me with a magic cloak."
+ },
+ {
+  "file": "fair_deal",
+  "line": 3,
+  "progress": "100",
+  "text": "I brought Janod the required reagents, and obtained a Cloak of the Wolf"
+ },
+ {
+  "file": "fair_deal",
+  "line": 4,
+  "progress": "110",
+  "text": "Janod the Wizard no longer trusts me because of Adaon, so I couldn't finish the deal with him."
+ },
+ {
+  "file": "fat_brew",
+  "line": 1,
+  "progress": "0",
+  "text": "Probably the best potion in the world"
+ },
+ {
+  "file": "fat_brew",
+  "line": 2,
+  "progress": "10",
+  "text": "Tonel the Brewmaster at Whitetower can create a very potent liquor if I bring him two Chunks of Fat and a Merple."
+ },
+ {
+  "file": "fat_brew",
+  "line": 3,
+  "progress": "100",
+  "text": "I brought all the ingredients to Tonel in Whitetower, he can now prepare Whitetower Specials for me."
+ },
+ {
+  "file": "father_wolves",
+  "line": 1,
+  "progress": "0",
+  "text": "Father of Wolves"
+ },
+ {
+  "file": "father_wolves",
+  "line": 2,
+  "progress": "10",
+  "text": "Three-Claws is a Varannari Wise Man in Elder Forest. He told me some creature called 'Father of Wolves' is behind the evil and intelligent Black Wolves and Worgs that are present in Elder Forest."
+ },
+ {
+  "file": "father_wolves",
+  "line": 3,
+  "progress": "90",
+  "text": "I should bring the Demonic Wolf's heart to Three-Claws in Elder Forest."
+ },
+ {
+  "file": "father_wolves",
+  "line": 4,
+  "progress": "100",
+  "text": "I freed the Varannari from the threat of the Father of Wolves."
+ },
+ {
+  "file": "find_constanze",
+  "line": 1,
+  "progress": "0",
+  "text": "Find Constanze"
+ },
+ {
+  "file": "find_constanze",
+  "line": 2,
+  "progress": "10",
+  "text": "The daughter of a merchant in Kingsbridge disappeared in the road, I should investigate what happened to her."
+ },
+ {
+  "file": "find_constanze",
+  "line": 3,
+  "progress": "20",
+  "text": "I found Constanze and killed the bandits that were holding her captive, then set her free. I should talk to Margerithe in Kingsbridge for a reward."
+ },
+ {
+  "file": "find_constanze",
+  "line": 4,
+  "progress": "100",
+  "text": "I completed the quest, saving Constanze and collecting a fine reward."
+ },
+ {
+  "file": "flesh_is_weak",
+  "line": 1,
+  "progress": "0",
+  "text": "Flesh is weak."
+ },
+ {
+  "file": "flesh_is_weak",
+  "line": 2,
+  "progress": "10",
+  "text": "Brother Janus, in the Lannegar Shrine, has asked me to bring him three zombie flesh. I should be able to find zombies to the south of Lannegar, at Ydaya Tomb."
+ },
+ {
+  "file": "flesh_is_weak",
+  "line": 3,
+  "progress": "100",
+  "text": "I brought Brother Janus the three Zombie flesh, and I was rewarded."
+ },
+ {
+  "file": "forgotten_lore",
+  "line": 1,
+  "progress": "0",
+  "text": "Forgotten Lore"
+ },
+ {
+  "file": "forgotten_lore",
+  "line": 2,
+  "progress": "10",
+  "text": "The Loreseekers believe one of their members died years ago in the Tomb in Lannegar Valley. I should investigate."
+ },
+ {
+  "file": "forgotten_lore",
+  "line": 3,
+  "progress": "20",
+  "text": "\"I found Hendrik's remains and his journal. Hendrik was examining ancient Tolassian tombs, looking for information about a certain artifact called \"\"The Eye of Tol\"\". I should give this back to Anton Gerdt in Kingsbridge.\""
+ },
+ {
+  "file": "forgotten_lore",
+  "line": 4,
+  "progress": "30",
+  "text": "I brought back Hendrick's journal to Anton Gerdt, in [BLUE]Kingsbridge[]. He might have other jobs for me in the future."
+ },
+ {
+  "file": "forgotten_lore",
+  "line": 5,
+  "progress": "40",
+  "text": "I need to find out about Zaniel the Loreseeker. She was investigating local legends in Kingsbridge."
+ },
+ {
+  "file": "forgotten_lore",
+  "line": 6,
+  "progress": "45",
+  "text": "I heard that Zaniel the Loreseeker ventured into the Deadwood long ago, and never returned. The Deadwood is a place feared by everyone..."
+ },
+ {
+  "file": "forgotten_lore",
+  "line": 7,
+  "progress": "50",
+  "text": "I found Zaniel's body, and her journal. She was worried about the rise of the undead in the recent years, and was looking for a Tolassian ruin somewhere near the course of the Bluemist River, but she couldn't find it. I should return this journal to [BLUE]Anton Gerdt in Kingsbridge[]."
+ },
+ {
+  "file": "forgotten_lore",
+  "line": 8,
+  "progress": "60",
+  "text": "I returned Zaniel's journal to Anton Gerdt. He still needs to find the third missing Loreseeker"
+ },
+ {
+  "file": "forgotten_lore",
+  "line": 9,
+  "progress": "70",
+  "text": "Anton Gerdt is now on the track of the third missing Loreseeker. She was Loremaster Riella, a rather famous and respected wise woman who was trying to locate ancient Tolassian underground tunnels near New Garand."
+ },
+ {
+  "file": "forgotten_lore",
+  "line": 10,
+  "progress": "80",
+  "text": "I defeated the evil necromancer that was keeping Riella captive."
+ },
+ {
+  "file": "forgotten_lore",
+  "line": 11,
+  "progress": "90",
+  "text": "I defeated the evil necromancer that was keeping Riella captive, now I should save her and take her back to Anton Gerdt. He'll be waiting in the Loreseekers' Library, in New Garand."
+ },
+ {
+  "file": "forgotten_lore",
+  "line": 12,
+  "progress": "95",
+  "text": "I was trying to rescue Riella but she died. I should report all this to Anton Gerdt. He'll be waiting in the Loreseekers' Library, in New Garand."
+ },
+ {
+  "file": "forgotten_lore",
+  "line": 13,
+  "progress": "100",
+  "text": "I helped Anton Gerdt to find out about the three lost Loreseekers, and I saved Riella's life"
+ },
+ {
+  "file": "forgotten_lore",
+  "line": 14,
+  "progress": "110",
+  "text": "I helped Anton Gerdt to find out about the three lost Loreseekers, but I couldn't save Riella"
+ },
+ {
+  "file": "fort_assault",
+  "line": 1,
+  "progress": "0",
+  "text": "Fort Assault"
+ },
+ {
+  "file": "fort_assault",
+  "line": 2,
+  "progress": "10",
+  "text": "I am going to assault the orc fort in Kingsbridge, but first I need to talk with Sergeant Dumek, which will be waiting in front of the fort."
+ },
+ {
+  "file": "fort_assault",
+  "line": 3,
+  "progress": "20",
+  "text": "Sergeant Dumek has advanced with his men towards the orc fort, in Kingsbridge. Now it is my job to find and kill Warlord Xurta, to end the orc menace over the town."
+ },
+ {
+  "file": "fort_assault",
+  "line": 4,
+  "progress": "90",
+  "text": "I killed Warlord Xurta in the orc fort, and the orcs will now certainly flee. The battle is won, I should check for my promised rewards in Kingsbridge."
+ },
+ {
+  "file": "fort_assault",
+  "line": 5,
+  "progress": "100",
+  "text": "I led the assault on the orc fort, near Kingsbridge, and now the city is free from that menace."
+ },
+ {
+  "file": "gather_ingredients",
+  "line": 1,
+  "progress": "0",
+  "text": "Gather Ingredients"
+ },
+ {
+  "file": "gather_ingredients",
+  "line": 2,
+  "progress": "10",
+  "text": "Bring a blue orchid to the Lannegar alchemist. I should be able to find some right here, in Lannegar Valley."
+ },
+ {
+  "file": "gather_ingredients",
+  "line": 3,
+  "progress": "20",
+  "text": "Bring a red orchid to the Lannegar alchemist. They grow in the banks of the Bluemist River near the town of Kingsbridge."
+ },
+ {
+  "file": "gather_ingredients",
+  "line": 4,
+  "progress": "30",
+  "text": "Bring a luminescent fungus to the Lannegar alchemist. It's said they mostly grow in deep caves."
+ },
+ {
+  "file": "gather_ingredients",
+  "line": 5,
+  "progress": "40",
+  "text": "Bring a DeadWeed to the Lannegar alchemist. I believe this root grows only below graveyards..."
+ },
+ {
+  "file": "gather_ingredients",
+  "line": 6,
+  "progress": "100",
+  "text": "I brought all the ingredients to the Lannegar alchemist"
+ },
+ {
+  "file": "goblin_hunt",
+  "line": 1,
+  "progress": "0",
+  "text": "Goblin Hunt"
+ },
+ {
+  "file": "goblin_hunt",
+  "line": 2,
+  "progress": "10",
+  "text": "The guard captain in Lannegar has asked me to kill five goblins to obtain a reward."
+ },
+ {
+  "file": "goblin_hunt",
+  "line": 3,
+  "progress": "11",
+  "text": "The guard captain in Lannegar has asked me to kill five goblins to obtain a reward. I already killed one."
+ },
+ {
+  "file": "goblin_hunt",
+  "line": 4,
+  "progress": "12",
+  "text": "The guard captain in Lannegar has asked me to kill five goblins to obtain a reward. I already killed two."
+ },
+ {
+  "file": "goblin_hunt",
+  "line": 5,
+  "progress": "13",
+  "text": "The guard captain in Lannegar has asked me to kill five goblins to obtain a reward. I killed three, two more to go."
+ },
+ {
+  "file": "goblin_hunt",
+  "line": 6,
+  "progress": "14",
+  "text": "The guard captain in Lannegar has asked me to kill five goblins to obtain a reward. I hunted down four!"
+ },
+ {
+  "file": "goblin_hunt",
+  "line": 7,
+  "progress": "15",
+  "text": "The guard captain in Lannegar has asked me to kill five goblins to obtain a reward. I already killed five so I can report back to him"
+ },
+ {
+  "file": "goblin_hunt",
+  "line": 8,
+  "progress": "100",
+  "text": "I managed to kill five goblins and he Captain in Lannegar rewarded me. Maybe he has other missions to offer me now."
+ },
+ {
+  "file": "goblin_hunt2",
+  "line": 1,
+  "progress": "0",
+  "text": "The Lost Explorer"
+ },
+ {
+  "file": "goblin_hunt2",
+  "line": 2,
+  "progress": "10",
+  "text": "The guard captain in Lannegar has asked me to find out what happened to Teram the Scout, which went into the [BLUE]mine west of Lannegar[] several days ago."
+ },
+ {
+  "file": "goblin_hunt2",
+  "line": 3,
+  "progress": "20",
+  "text": "I found the scout, he was a prisoner of the goblins. I should take him to Captain Whitewater in Lannegar."
+ },
+ {
+  "file": "goblin_hunt2",
+  "line": 4,
+  "progress": "30",
+  "text": "Teram died while I was escorting him to Lannegar. I should report to Captain Whitewater in Lannegar."
+ },
+ {
+  "file": "goblin_hunt2",
+  "line": 5,
+  "progress": "100",
+  "text": "I rescued Teram and escorted him safely to Lannegar."
+ },
+ {
+  "file": "goblin_hunt2",
+  "line": 6,
+  "progress": "110",
+  "text": "I tried to rescue Teram the scout in the Lannegar Mine, but he died"
+ },
+ {
+  "file": "goblin_hunt3",
+  "line": 1,
+  "progress": "0",
+  "text": "Head-hunting"
+ },
+ {
+  "file": "goblin_hunt3",
+  "line": 2,
+  "progress": "10",
+  "text": "Captain Whitewater has trusted me with the most important mission so far: to bring him back the head of [BLUE]Flamedancer Itharrak[]. The goblin leader is hiding somewhere in the Lannegar mine."
+ },
+ {
+  "file": "goblin_hunt3",
+  "line": 3,
+  "progress": "50",
+  "text": "I did it! the flamedancer is dead. Time to report to the Captain in Lannegar."
+ },
+ {
+  "file": "goblin_hunt3",
+  "line": 4,
+  "progress": "100",
+  "text": "I slayed Itharrak the Flamedancer, and received a magical sword as reward."
+ },
+ {
+  "file": "honor_among_thieves",
+  "line": 1,
+  "progress": "0",
+  "text": "Honor among Thieves"
+ },
+ {
+  "file": "honor_among_thieves",
+  "line": 2,
+  "progress": "10",
+  "text": "\"Rolf Erhar is holed up in Freetown's thieves' guild, fearing retaliation from his former gang members if he walks out. He has asked me to find Nifuruc and rid him of the problem; in exchange, he offers an ancient red key from the Royal Crypts.\""
+ },
+ {
+  "file": "honor_among_thieves",
+  "line": 3,
+  "progress": "30",
+  "text": "I made a deal with Nifuruc in Freetown. I have to bring him [BLUE]1 Emerald, 1 Ruby, 1 Sapphire and 3 pearls[], and he'll spare Rolf for allegedly throwing the gems to the Nekhar river."
+ },
+ {
+  "file": "honor_among_thieves",
+  "line": 4,
+  "progress": "40",
+  "text": "I have decided to betray Rolf Erhar and hand him over to Nifuruc and his men. I should now go and talk to Rolf, in the Seventh House guildhouse in Freetown."
+ },
+ {
+  "file": "honor_among_thieves",
+  "line": 5,
+  "progress": "50",
+  "text": "I have decided to betray Rolf Erhar and hand him over to Nifuruc and his men."
+ },
+ {
+  "file": "honor_among_thieves",
+  "line": 6,
+  "progress": "52",
+  "text": "I betrayed Rolf, he is about to be killed by Nifuruc and his men"
+ },
+ {
+  "file": "honor_among_thieves",
+  "line": 7,
+  "progress": "55",
+  "text": "Rolf is dead, I should talk to Nifuruc about it."
+ },
+ {
+  "file": "honor_among_thieves",
+  "line": 8,
+  "progress": "70",
+  "text": "I challenged Nifuruc and his thugs in Freetown, and now must fight them."
+ },
+ {
+  "file": "honor_among_thieves",
+  "line": 9,
+  "progress": "80",
+  "text": "\"I convinced Nifuruc and his thugs to leave Rolf Erhar alone; now I should report back to him, in the Seventh House guildhouse in Freetown.\""
+ },
+ {
+  "file": "honor_among_thieves",
+  "line": 10,
+  "progress": "90",
+  "text": "\"I killed Nifuruc and his thugs; now I should report back to Rolf, in the Seventh House guildhouse in Freetown.\""
+ },
+ {
+  "file": "honor_among_thieves",
+  "line": 11,
+  "progress": "100",
+  "text": "I helped Rolf Erhar to get rid of his angry gang."
+ },
+ {
+  "file": "honor_among_thieves",
+  "line": 12,
+  "progress": "110",
+  "text": "I took revenge on Rolf Erhar, selling him out to Nifuruc."
+ },
+ {
+  "file": "house_shadows",
+  "line": 1,
+  "progress": "0",
+  "text": "Welcome to the House"
+ },
+ {
+  "file": "house_shadows",
+  "line": 2,
+  "progress": "10",
+  "text": "I found a very unusual statue in New Garand sewers, besides a closed grate. I believe, this may be related to the Seventh House, the infamous Thieve's Guild in New Garand."
+ },
+ {
+  "file": "house_shadows",
+  "line": 3,
+  "progress": "100",
+  "text": "I gained access to the hideout of the Seventh House in New Garand."
+ },
+ {
+  "file": "human_resources",
+  "line": 1,
+  "progress": "0",
+  "text": "Human Resources"
+ },
+ {
+  "file": "human_resources",
+  "line": 2,
+  "progress": "10",
+  "text": "I met some mercian bounty hunters camped in East Inori. Their leader Jarbad has asked me to break into the encampment of some criminals they're after. For now, I declined his offer."
+ },
+ {
+  "file": "human_resources",
+  "line": 3,
+  "progress": "15",
+  "text": "I agreed to storm the Varannari criminals' camp in East Inori. Jarbad insisted on killing their leader called Steel Thunder."
+ },
+ {
+  "file": "human_resources",
+  "line": 4,
+  "progress": "20",
+  "text": "The mercians in East Inori are slavers, and the Varannari their prey. I agreed to help them for a cut of their profit. Jarbad insisted on killing their leader called Steel Thunder."
+ },
+ {
+  "file": "human_resources",
+  "line": 5,
+  "progress": "30",
+  "text": "I decided to fight the mercians camped in East Inori."
+ },
+ {
+  "file": "human_resources",
+  "line": 6,
+  "progress": "40",
+  "text": "The Varannari in East Inori claim they're not criminals, and the mercians after them are not bounty hunters, but slavers."
+ },
+ {
+  "file": "human_resources",
+  "line": 7,
+  "progress": "50",
+  "text": "I confronted the Varannari leader Steel Thunder in East Inori, and now I must defeat her!"
+ },
+ {
+  "file": "human_resources",
+  "line": 8,
+  "progress": "70",
+  "text": "I killed Steel Thunder and I should claim my reward to Jarbad in East Inori."
+ },
+ {
+  "file": "human_resources",
+  "line": 9,
+  "progress": "80",
+  "text": "I killed Jarbad the Slaver, now Steel thunder and the other Varannari will be free to go."
+ },
+ {
+  "file": "human_resources",
+  "line": 10,
+  "progress": "100",
+  "text": "I defeated the Varannari in East Inori and was rewarded for it."
+ },
+ {
+  "file": "human_resources",
+  "line": 11,
+  "progress": "120",
+  "text": "I killed Jarbad and helped the Varannari in East Inori."
+ },
+ {
+  "file": "important_research",
+  "line": 1,
+  "progress": "0",
+  "text": "Important research"
+ },
+ {
+  "file": "important_research",
+  "line": 2,
+  "progress": "10",
+  "text": "Couq the Wizard, in the Enclave tower of Inori, has requested three chunks of [BLUE]living ice[] for his research. I have no idea where to find that."
+ },
+ {
+  "file": "important_research",
+  "line": 3,
+  "progress": "100",
+  "text": "I gave Couq the Wizard three pieces of living ice, and was rewarded for it."
+ },
+ {
+  "file": "initiates_end",
+  "line": 1,
+  "progress": "0",
+  "text": "An Initiate's End"
+ },
+ {
+  "file": "initiates_end",
+  "line": 2,
+  "progress": "10",
+  "text": "I must find the Initiate Glaydan's remains and recover the [BLUE]Silvery Mace[]. Very likely he is somewhere south of Kingsbridge, if he was returning from the Inori Desert."
+ },
+ {
+  "file": "initiates_end",
+  "line": 3,
+  "progress": "20",
+  "text": "I recovered the [BLUE]Silvery Mace[]. I should take it back to Sister Arta in the Kingsbridge Shrine."
+ },
+ {
+  "file": "initiates_end",
+  "line": 4,
+  "progress": "100",
+  "text": "I found Initiate Glaydan's Silvery mace and put his spirit to rest."
+ },
+ {
+  "file": "invitation",
+  "line": 1,
+  "progress": "0",
+  "text": "Call of the Blood"
+ },
+ {
+  "file": "invitation",
+  "line": 2,
+  "progress": "10",
+  "text": "Grissenda has been invited to Castle Storme by the Baroness, which happens to be her sister."
+ },
+ {
+  "file": "invitation",
+  "line": 3,
+  "progress": "20",
+  "text": "Baron Storme has welcomed us warmly and offered us a guest room. He said Baroness Eirenda will meet us soon."
+ },
+ {
+  "file": "invitation",
+  "line": 4,
+  "progress": "30",
+  "text": "Baron Storme has welcomed us warmly and offered us a guest room. He said Baroness Eirenda will meet us soon. But Radia, the Baroness' maid has told us to be on guard and not trust anyone inside the castle. She seems to need our help, we should probably talk to her later."
+ },
+ {
+  "file": "invitation",
+  "line": 5,
+  "progress": "40",
+  "text": "I decided to stop fooling around and challenge House Storme. We must now find a way to find Eirenda and escape the castle."
+ },
+ {
+  "file": "invitation",
+  "line": 6,
+  "progress": "50",
+  "text": "It was a trap! We were attacked in our bedroom by undead abominations. We must now find a way to find Eirenda and escape the castle."
+ },
+ {
+  "file": "invitation",
+  "line": 7,
+  "progress": "60",
+  "text": "\"We must find a way to find Eirenda and escape the castle. Radia, Eirenda's maid, is dead. She mentioned a \"\"place of eternal rest\"\" with her last breath.\""
+ },
+ {
+  "file": "invitation",
+  "line": 8,
+  "progress": "70",
+  "text": "We discovered a secret area in the castle. Unlike the fortress, this seems to be built by Tolassians, and be very ancient. It is strange to find a Tolassian ruin that isn't underground."
+ },
+ {
+  "file": "invitation",
+  "line": 9,
+  "progress": "80",
+  "text": "Castle Storme was built over the remains of the Tolassian Temple of Blood. The corrupt barons have been allied with this evil power for generations, and they are now about to sacrifice Eirenda to release their evil upon the whole region. We must stop them!"
+ },
+ {
+  "file": "invitation",
+  "line": 10,
+  "progress": "85",
+  "text": "I have confronted Baron Storme and the Vampire Lord and must now defeat them to save Eirenda."
+ },
+ {
+  "file": "invitation",
+  "line": 11,
+  "progress": "90",
+  "text": "The Baron is dead, I must now save Eirenda from the nearby cage."
+ },
+ {
+  "file": "invitation",
+  "line": 12,
+  "progress": "95",
+  "text": "Eirenda is now free, I should talk to her at the gates outside Castle Storme."
+ },
+ {
+  "file": "invitation",
+  "line": 13,
+  "progress": "100",
+  "text": "I saved Eirenda and stoped the threat of Storme."
+ },
+ {
+  "file": "item_ilmara",
+  "line": 1,
+  "progress": "0",
+  "text": "Find holy relic"
+ },
+ {
+  "file": "item_ilmara",
+  "line": 2,
+  "progress": "-5",
+  "text": "Visions have revealed the existence of a sacred relic, known as #TARGET#. For your efforts, you will be rewarded with #REWARD#. It is #LOCATION#."
+ },
+ {
+  "file": "item_ilmara",
+  "line": 3,
+  "progress": "10",
+  "text": "I have a mission from #QUESTGIVER# to find and recover the item #TARGET# to obtain #REWARD#. The location of my target is #LOCATION#."
+ },
+ {
+  "file": "item_ilmara",
+  "line": 4,
+  "progress": "50",
+  "text": "I found the item #TARGET#. I should collect the promised #REWARD# at #QUESTGIVER#"
+ },
+ {
+  "file": "item_ilmara",
+  "line": 5,
+  "progress": "100",
+  "text": "I found the item #TARGET#. I collected the promised #REWARD# at #QUESTGIVER#"
+ },
+ {
+  "file": "item_varsilia",
+  "line": 1,
+  "progress": "0",
+  "text": "Recover lost item"
+ },
+ {
+  "file": "item_varsilia",
+  "line": 2,
+  "progress": "-5",
+  "text": "One of our citizens was robbed of a valuable item, known as #TARGET#. Bring it back to collect a bounty of #REWARD#. It is #LOCATION#."
+ },
+ {
+  "file": "item_varsilia",
+  "line": 3,
+  "progress": "10",
+  "text": "I have a mission from #QUESTGIVER# to find and recover the item #TARGET# to obtain #REWARD#. The location of my target is #LOCATION#."
+ },
+ {
+  "file": "item_varsilia",
+  "line": 4,
+  "progress": "50",
+  "text": "I found the item #TARGET#. I should collect the promised #REWARD# at #QUESTGIVER#"
+ },
+ {
+  "file": "item_varsilia",
+  "line": 5,
+  "progress": "100",
+  "text": "I found the item #TARGET#. I collected the promised #REWARD# at #QUESTGIVER#"
+ },
+ {
+  "file": "key_to_past",
+  "line": 1,
+  "progress": "0",
+  "text": "A key to the past"
+ },
+ {
+  "file": "key_to_past",
+  "line": 2,
+  "progress": "10",
+  "text": "I learned that my grandfather was Tremadan of Myros, an imperial Arch-mage, hundreds of years old, and very powerful. But all I got from him is a mysterious key. Sadly, the man who could have told me more has been murdered by The Forsaken. One thing I know is he lived in a tower. Maybe, in a large library, I could find references to him, or where that tower was located. There's such libraries in the Kingdom's capitals, but gaining access to them isn't easy."
+ },
+ {
+  "file": "key_to_past",
+  "line": 3,
+  "progress": "15",
+  "text": "The Librarian Rur'âzar is researching for me where could be the Tower of Tremadan. He asked me for a couple Minotaur Horns in exchange, and warned it could take him a while to find the information."
+ },
+ {
+  "file": "key_to_past",
+  "line": 4,
+  "progress": "20",
+  "text": "Finally, I learned that Tremadan's tower was located somewhere in the Jabal Hills. At least, books say that my grandfather lived there, fifty years ago."
+ },
+ {
+  "file": "key_to_past",
+  "line": 5,
+  "progress": "25",
+  "text": "I entered Tremadan's Tower, and met a strange creature called Trix."
+ },
+ {
+  "file": "key_to_past",
+  "line": 6,
+  "progress": "30",
+  "text": "I entered Tremadan's Tower, and met a strange creature called Trix. He told me the access to the upper levels is sealed... I have the key, but apparently it's not enough, it must be magically charged. I agreed to bring him one of the three Crystals from the lower levels, powerful artifacts that Trix can use to reactivate the magical key."
+ },
+ {
+  "file": "key_to_past",
+  "line": 7,
+  "progress": "40",
+  "text": "Trix charged the key and activated the warded door of the Tower of Tremadan. Now I can go upstairs and know about my grandfather's legacy."
+ },
+ {
+  "file": "key_to_past",
+  "line": 8,
+  "progress": "50",
+  "text": "I entered the tower upper levels..."
+ },
+ {
+  "file": "key_to_past",
+  "line": 9,
+  "progress": "60",
+  "text": "There is a strange ghostly figure resembling an old man... May he be my grandfather's ghost?"
+ },
+ {
+  "file": "key_to_past",
+  "line": 10,
+  "progress": "100",
+  "text": "I talked to Tremadan's Phantom and finally have learned about my legacy. Or at least some of it, as he seems to keep some secrets from me."
+ },
+ {
+  "file": "lady_night",
+  "line": 1,
+  "progress": "0",
+  "text": "Lady of the Night"
+ },
+ {
+  "file": "lady_night",
+  "line": 2,
+  "progress": "10",
+  "text": "Captain Torden in Icemist is worried about the famous statue and wants a professional adventurer to look into it."
+ },
+ {
+  "file": "lady_night",
+  "line": 3,
+  "progress": "20",
+  "text": "I touched the statue at Icemist and heard two clear words. 'Amulet' and 'North'."
+ },
+ {
+  "file": "lady_night",
+  "line": 4,
+  "progress": "30",
+  "text": "The Lady of the Night told me her spirit is trapped inside the statue. She wants to be free, and for that she requires a part of her own body. She claims one still exists, far away to the west."
+ },
+ {
+  "file": "lady_night",
+  "line": 5,
+  "progress": "40",
+  "text": "\"The Lady of the Night told me her spirit is trapped inside the statue. She wants to be free, and for that she requires a part of her own body. She claims one still exists, far away to the west. I told Torden about all of this; he asked me to bring him the body part so he can destroy it.\""
+ },
+ {
+  "file": "lady_night",
+  "line": 6,
+  "progress": "60",
+  "text": "I found the heart. I must now go back to Icemist and choose between giving it to the statue, or to Torden."
+ },
+ {
+  "file": "lady_night",
+  "line": 7,
+  "progress": "90",
+  "text": "I brought Torden the heart and when we tried to destroy it, an evil spirit was released."
+ },
+ {
+  "file": "lady_night",
+  "line": 8,
+  "progress": "100",
+  "text": "I brought Torden the heart and I destroyed the ancient spirit that emerged from it."
+ },
+ {
+  "file": "lady_night",
+  "line": 9,
+  "progress": "150",
+  "text": "I freed the Lady of the Night."
+ },
+ {
+  "file": "last_legion",
+  "line": 1,
+  "progress": "0",
+  "text": "Last of the Legion"
+ },
+ {
+  "file": "last_legion",
+  "line": 2,
+  "progress": "10",
+  "text": "While most of the mercian Ninth Legion has left, many men still remain stuck in a fort in the Varann Woodland, south of the Elder Forest. Centurion Hyartis has asked for my help."
+ },
+ {
+  "file": "last_legion",
+  "line": 3,
+  "progress": "15",
+  "text": "\"While most of the mercian Ninth Legion has left, many men still remain stuck in a fort in the Varann Woodland, south of the Elder Forest. Centurion Hyartis has asked for my help; he has confessed he indeed does not see the natives as enemies, so maybe a peaceful solution should be better.\""
+ },
+ {
+  "file": "last_legion",
+  "line": 4,
+  "progress": "20",
+  "text": "I attacked Hunting Moon, the Varannari war leader in Elder Forest."
+ },
+ {
+  "file": "last_legion",
+  "line": 5,
+  "progress": "30",
+  "text": "I killed Hunting Moon, the Varannari war leader, and most of the natives in elder Forest will fall into chaos for a while. I should tell Centurion Hyartis that he can now retreat safely from Varann Woodlands."
+ },
+ {
+  "file": "last_legion",
+  "line": 6,
+  "progress": "40",
+  "text": "I convinced the Varannari leaders that the Mercian soldiers in Varann Woodlands should be allowed to retreat safely. They demanded a tribute, one hundred wolf pelts! That's a lot of pelts, I hope I don't have to hunt for them myself."
+ },
+ {
+  "file": "last_legion",
+  "line": 7,
+  "progress": "50",
+  "text": "I convinced Hunting Moon that the Mercian soldiers in Varann Woodlands should be allowed to retreat safely. They accepted a tribute and agreed to let them go."
+ },
+ {
+  "file": "last_legion",
+  "line": 8,
+  "progress": "60",
+  "text": "I came up with an idea... Maybe the mercians could remain in the Varann Woodlands instead of returning to Freetown or deserting. The Varannari Hunting Moon was reluctant but she trusted my judgment. The catch is that she demands their 'Clan Leader' to marry her, as a guarantee."
+ },
+ {
+  "file": "last_legion",
+  "line": 9,
+  "progress": "70",
+  "text": "I agreed with the Varannari that the invaders in Varann Woodlands must be exterminated. I will attack their chief from the inside, and as soon as the fighting begins the Varannari will launch their assault."
+ },
+ {
+  "file": "last_legion",
+  "line": 10,
+  "progress": "80",
+  "text": "I attacked Centurion Hyartis, together with the Varannari we should get rid of the Mercians in the region."
+ },
+ {
+  "file": "last_legion",
+  "line": 11,
+  "progress": "90",
+  "text": "I killed Centurion Hyartis. Hunting Moon, the Varannari warrior may reward me."
+ },
+ {
+  "file": "last_legion",
+  "line": 12,
+  "progress": "100",
+  "text": "I helped the Varannari to get rid of the Mercian soldiers in Varann Woodlands."
+ },
+ {
+  "file": "last_legion",
+  "line": 13,
+  "progress": "110",
+  "text": "I helped the Mercians to retreat from Varann Woodlands."
+ },
+ {
+  "file": "last_legion",
+  "line": 14,
+  "progress": "120",
+  "text": "The Varannari and the Mercians in the Varann Woodlands have become allies, thanks to my negotiation skills."
+ },
+ {
+  "file": "like_father",
+  "line": 1,
+  "progress": "0",
+  "text": "Like Father, Like Son"
+ },
+ {
+  "file": "like_father",
+  "line": 2,
+  "progress": "10",
+  "text": "A sorcerer called Azeran in Solliga is writing a book about his father, the famous wizard Ellodis Windmaker. He remembers his tales about a haunted mine by a village, and how he found some ancient ruins underground, rich with treasure. Some of his companions died, including his good friend Thalassos. Azeran would like some adventurers to locate the exact site and maybe bring some belongings from Thalassos, especially his medallion. He offers [BLUE]800 gold[] for it."
+ },
+ {
+  "file": "like_father",
+  "line": 3,
+  "progress": "20",
+  "text": "I believe I found the mine Azeran of Solliga is looking for: it may be behind a buried passage in Lannegar Mine. But convincing the foreman might not be easy."
+ },
+ {
+  "file": "like_father",
+  "line": 4,
+  "progress": "30",
+  "text": "I found the mine Azeran of Solliga is looking for behind a buried passage in Lannegar Mine. The foreman and his miners cleared the passage for me, so I can now go down and try to find Thalassos' remains and his medallion."
+ },
+ {
+  "file": "like_father",
+  "line": 5,
+  "progress": "40",
+  "text": "A very old man is living in the haunted mine galleries. He seems to be no other than Thalassos! However we scared him and he fled."
+ },
+ {
+  "file": "like_father",
+  "line": 6,
+  "progress": "50",
+  "text": "Thalassos says Ellodis Windmaker was a coward and betrayed them all, teleporting out of the ruins and leaving him behind... I don't know how will Azeran take these news about his father. Thalassos will meet me outside the Lannegar Mine."
+ },
+ {
+  "file": "like_father",
+  "line": 7,
+  "progress": "60",
+  "text": "I tried to get the medallion from Thalassos by force, but he fled me. I might be able to find him, or maybe track him down, if I go to the Lannegar mine entrance."
+ },
+ {
+  "file": "like_father",
+  "line": 8,
+  "progress": "90",
+  "text": "It was all a trap, Azeran is Ellodis pretending to be his own son! I must now defeat him."
+ },
+ {
+  "file": "like_father",
+  "line": 9,
+  "progress": "100",
+  "text": "Ellodis was an evil mage, old and cunning, which impersonated his own son. I am not sure what he wanted the medallion for, but he said it was a key. I defeated him, but he escaped."
+ },
+ {
+  "file": "like_father",
+  "line": 10,
+  "progress": "110",
+  "text": "Ellodis was an evil mage, old and cunning, which impersonated his own son. I am not sure what he wanted the medallion for, but he said it was a key. I made a deal with him and we went separate ways."
+ },
+ {
+  "file": "lost_codex",
+  "line": 1,
+  "progress": "0",
+  "text": "The Mathrisian Codex"
+ },
+ {
+  "file": "lost_codex",
+  "line": 2,
+  "progress": "10",
+  "text": "I met the Loreseeker Derina Gasham in the Southern Dragon Mountains. She's trying to locate the lost tome called the Mathrisian Codex, which she believes lies somewhere in the Ashen Cape not far from the coast."
+ },
+ {
+  "file": "lost_codex",
+  "line": 3,
+  "progress": "20",
+  "text": "I found strange carvings near an ancient, petrified skeleton in the Ashen Cape. I deciphered them: '...preserved from burning air... Buried under unusual... '"
+ },
+ {
+  "file": "lost_codex",
+  "line": 4,
+  "progress": "30",
+  "text": "I have found the ancient Codex. I should give it to Derina, in Southern Dragon Mountains."
+ },
+ {
+  "file": "lost_codex",
+  "line": 5,
+  "progress": "100",
+  "text": "I recovered the mythical Mathrisian Codex!"
+ },
+ {
+  "file": "lost_coven",
+  "line": 1,
+  "progress": "0",
+  "text": "The Lost Coven"
+ },
+ {
+  "file": "lost_coven",
+  "line": 2,
+  "progress": "10",
+  "text": "Tangir is a Loreseeker I met in the Great Library. He is trying to locate a secret coven, which some legends locate somewhere between Varsilia and Thuram. They were experts in summoning Earth Elementals. If I can bring him any relevant information regarding the Lost Coven, he'll reward me."
+ },
+ {
+  "file": "lost_coven",
+  "line": 3,
+  "progress": "15",
+  "text": "I have found an ancient tome that tells the story of the Lost Coven. Tangir the Loreseeker, in New Garand's Great Library, will certainly reward me for this."
+ },
+ {
+  "file": "lost_coven",
+  "line": 4,
+  "progress": "100",
+  "text": "Tangir the Loreseeker rewarded me for uncovering the history of the Lost Coven."
+ },
+ {
+  "file": "lost_good_book",
+  "line": 1,
+  "progress": "0",
+  "text": "Lost in a Good Book"
+ },
+ {
+  "file": "lost_good_book",
+  "line": 2,
+  "progress": "10",
+  "text": "Arkados from the thieves' guild has asked me to find out what happened to a missing comrade of his, named Sulidar.  He entered the [BLUE]Grey Library in Freetown[], and never returned to the guildhouse, although it's possible he left the city."
+ },
+ {
+  "file": "lost_good_book",
+  "line": 3,
+  "progress": "20",
+  "text": "\"Arkados from the thieves' guild has asked me to find out what happened to a missing comrade of his, named Sulidar. I found a secret passage in the Freetown library; maybe he found it before me.\""
+ },
+ {
+  "file": "lost_good_book",
+  "line": 4,
+  "progress": "30",
+  "text": "Arkados from the thieves' guild has asked me to find out what happened to a missing comrade of his, named Sulidar. I found a secret room and a strange book that teleported me to a snowy landscape."
+ },
+ {
+  "file": "lost_good_book",
+  "line": 5,
+  "progress": "40",
+  "text": "Arkados from the thieves' guild has asked me to find out what happened to a missing comrade of his, named Sulidar. I found him, a couple of giants is keeping him as prisoner in the Wyvern Mountains."
+ },
+ {
+  "file": "lost_good_book",
+  "line": 6,
+  "progress": "43",
+  "text": "\"I found Sulidar, the thief missing from Freetown. He is being held captive by two hungry giants at the Wyvern Mountains; unless I can bring them back their sack of winter rations, they'll likely end up eating him. They claim the sack was stolen by 'little evil men' that inhabit these mountains.\""
+ },
+ {
+  "file": "lost_good_book",
+  "line": 7,
+  "progress": "45",
+  "text": "\"I found Sulidar, the thief missing from Freetown. He is being held captive by two hungry giants at the Wyvern Mountains; but I found their sack of winter rations, I hope they'll now agree to set him free.\""
+ },
+ {
+  "file": "lost_good_book",
+  "line": 8,
+  "progress": "50",
+  "text": "I decided to fight the two giants in the Wyvern Mountains that are keeping Sulidar the thief captive."
+ },
+ {
+  "file": "lost_good_book",
+  "line": 9,
+  "progress": "70",
+  "text": "The strange giants freed Sulidar the thief. I should talk to him."
+ },
+ {
+  "file": "lost_good_book",
+  "line": 10,
+  "progress": "80",
+  "text": "Sulidar died when I was trying to save him. I should go back to Arkados in the Seventh House guildhouse of Freetown to report about all this."
+ },
+ {
+  "file": "lost_good_book",
+  "line": 11,
+  "progress": "90",
+  "text": "I rescued Sulidar and sent him back to Freetown. I should go back to Arkados in the Seventh House guildhouse of Freetown to report about all this."
+ },
+ {
+  "file": "lost_good_book",
+  "line": 12,
+  "progress": "100",
+  "text": "I rescued Sulidar from his book-adventure."
+ },
+ {
+  "file": "lost_good_book",
+  "line": 13,
+  "progress": "200",
+  "text": "I tried to rescue Sulidar the thief from his book-adventure, but he died."
+ },
+ {
+  "file": "lost_kingdom",
+  "line": 1,
+  "progress": "0",
+  "text": "The Lost Kingdom"
+ },
+ {
+  "file": "lost_kingdom",
+  "line": 2,
+  "progress": "10",
+  "text": "King M'dmoo in the depths of the Maze of Lamth wants me to locate the Lost Kingdom of the minotaurs and recover for him the ancient crown of the Kings of Galade."
+ },
+ {
+  "file": "lost_kingdom",
+  "line": 3,
+  "progress": "20",
+  "text": "I found the ancient crown! I should bring it back to King M'dmoo in the depths of the Maze of Lamth."
+ },
+ {
+  "file": "lost_kingdom",
+  "line": 4,
+  "progress": "90",
+  "text": "I returned the ancient crown to King M'dmoo. Now I can claim a reward from him."
+ },
+ {
+  "file": "lost_kingdom",
+  "line": 5,
+  "progress": "100",
+  "text": "I returned the ancient crown of the Lost Kingdom to King M'dmoo."
+ },
+ {
+  "file": "mad_wizard",
+  "line": 1,
+  "progress": "0",
+  "text": "A Mad Wizard"
+ },
+ {
+  "file": "mad_wizard",
+  "line": 2,
+  "progress": "10",
+  "text": "Janod, in Kingsbridge, was robbed by Adaon and now demands his [BLUE]Orb of Shadows[] to be returned, or be paid [BLUE]10,000 coins[]. Adaon sold the artifact to some stranger in the New Garand sewers. Until I do this, I may be considered a criminal by the Kingdom of Thuram and the Wizards' Guild."
+ },
+ {
+  "file": "mad_wizard",
+  "line": 3,
+  "progress": "20",
+  "text": "I found the man which bought the Orb of Shadows from Adaon: it's Butterfingers, in New Garand Sewers. Unfortunately the orb is inside a room where lies some danger, a thief there has killed Butterfingers' guards and remains locked."
+ },
+ {
+  "file": "mad_wizard",
+  "line": 4,
+  "progress": "30",
+  "text": "I entered the room... Let's see if the thief surrenders."
+ },
+ {
+  "file": "mad_wizard",
+  "line": 5,
+  "progress": "40",
+  "text": "I talked to the thief inide the locked door. Unfortunately, he has transformed into a gigantic werewolf."
+ },
+ {
+  "file": "mad_wizard",
+  "line": 6,
+  "progress": "50",
+  "text": "I defeated the werewolf, the Orb of Shadows must be around here."
+ },
+ {
+  "file": "mad_wizard",
+  "line": 7,
+  "progress": "60",
+  "text": "I found the Orb of Shadows, I should return it to Janod in Kingsbridge to clean my name."
+ },
+ {
+  "file": "mad_wizard",
+  "line": 8,
+  "progress": "100",
+  "text": "I paid 10,000 gold to Janod instead of returning the Orb of Shadows"
+ },
+ {
+  "file": "mad_wizard",
+  "line": 9,
+  "progress": "110",
+  "text": "I returned the Orb of Shadows to Janod the Wizard"
+ },
+ {
+  "file": "mad_wizard",
+  "line": 10,
+  "progress": "200",
+  "text": "I decided to fight Janod instead of returning the Orb of Shadows."
+ },
+ {
+  "file": "mangled_god",
+  "line": 1,
+  "progress": "0",
+  "text": "The Dead God"
+ },
+ {
+  "file": "mangled_god",
+  "line": 2,
+  "progress": "10",
+  "text": "I read an ancient text, which talked about the [BLUE]Eye of Tol[] and the [BLUE]Crown of Tol[]. He seemed to be the god worshipped by the Tolassians, and when he was destroyed, the eye was shattered. But the Crown came into the custody of his High Priest. Sadly, I have no idea where to find more information about this."
+ },
+ {
+  "file": "mangled_god",
+  "line": 3,
+  "progress": "20",
+  "text": "Bishop Bareid in Nivarian has been receiving visions about the [BLUE]Crown of Tol[]. He believes it is hidden in a forgotten temple, half-buried amidst broken hills in the coasts of Inori. However such place might not be reachable by land, and Varsilian sailors wouldn't venture there for fear of pirates."
+ },
+ {
+  "file": "mangled_god",
+  "line": 4,
+  "progress": "30",
+  "text": "Captain Dorse, in Friguld, has agreed to take me to the lost temple where the Crown of Tol might rest. However, he can't wait for me in such a place so I might need magical means to return safely."
+ },
+ {
+  "file": "mangled_god",
+  "line": 5,
+  "progress": "40",
+  "text": "Captain Dorse, in Friguld, has agreed to take me to the lost temple where the Crown of Tol might rest. I thought I had found the Crown but it was a trap! the real Crown of Tol must be further inside the temple."
+ },
+ {
+  "file": "mangled_god",
+  "line": 6,
+  "progress": "50",
+  "text": "I retrieved the broken Crown of Tol. The item is cursed, draining my strength slowly! I should get rid of this item or I'll die, and I suspect the curse will continue if I keep it in a vault or chest, as it still recognizes me as owner. Probably the only way is giving it to Bishop Bareid in Nivarian."
+ },
+ {
+  "file": "mangled_god",
+  "line": 7,
+  "progress": "100",
+  "text": "I delivered the crown to Bishop Bareid, ridding the world of a potential threat."
+ },
+ {
+  "file": "mangled_god",
+  "line": 8,
+  "progress": "110",
+  "text": "I returned Tol's Crown to his legitimate owner..."
+ },
+ {
+  "file": "masters_laboratory",
+  "line": 1,
+  "progress": "0",
+  "text": "The Masters' Laboratory"
+ },
+ {
+  "file": "masters_laboratory",
+  "line": 2,
+  "progress": "10",
+  "text": "There is a metal door in the upper floor of Tremadan's Tower that leads to the archwizard's laboratory. Unfortunately, to open it, I need one of the powerful Crystals that can be found in the depths under the tower."
+ },
+ {
+  "file": "masters_laboratory",
+  "line": 3,
+  "progress": "20",
+  "text": "I opened the door to Tremadan's Laboratory! I wonder what I'll find inside."
+ },
+ {
+  "file": "masters_laboratory",
+  "line": 4,
+  "progress": "30",
+  "text": "I found an alchemy table in which the Arch-Mage was working. However I was unable to decipher his notes. Maybe Trix can help me with that."
+ },
+ {
+  "file": "masters_laboratory",
+  "line": 5,
+  "progress": "40",
+  "text": "I found an alchemy table in which the Arch-Mage was working. He was trying to create an artifact, but still missed several ingredients: 'Three of the noblest gems, three tears from the Sea Queen, three coats of the pale hunters'."
+ },
+ {
+  "file": "masters_laboratory",
+  "line": 6,
+  "progress": "100",
+  "text": "I completed the artifact Tremadan was creating: a Bag of Holding!"
+ },
+ {
+  "file": "message_in_bottle",
+  "line": 1,
+  "progress": "0",
+  "text": "Message in a bottle"
+ },
+ {
+  "file": "message_in_bottle",
+  "line": 2,
+  "progress": "10",
+  "text": "A fisherman called Waters from New Garand found a red bottle with a note inside. The message is mostly erased but it looks like someone is being held captive somewhere along the coast and needs help. But the coast is very big and the note could be very old. Nevertheless, I'll be alert in case I see something suspicious."
+ },
+ {
+  "file": "message_in_bottle",
+  "line": 3,
+  "progress": "50",
+  "text": "I visited some fishermen in the imperial coast and they had a barrel full of red bottles like the one Waters told me about. I'll speak to them in case it was just a coincidence."
+ },
+ {
+  "file": "message_in_bottle",
+  "line": 4,
+  "progress": "60",
+  "text": "I confronted the fishermen, and they attacked me. These are trained fighters, probably mercenaries.  Once I defeat them, I should find out what's going on."
+ },
+ {
+  "file": "message_in_bottle",
+  "line": 5,
+  "progress": "90",
+  "text": "There was a young man locked up inside the chest! Probably he sent the message. I set him free, I wonder who is he."
+ },
+ {
+  "file": "message_in_bottle",
+  "line": 6,
+  "progress": "100",
+  "text": "I rescued Roger Leafstrike, the son of a noble family, from a band of kidnappers. He told me that his capture wasn't accidental as the kidnappers seemed very organized and received letters from New Garand."
+ },
+ {
+  "file": "message_in_bottle",
+  "line": 7,
+  "progress": "110",
+  "text": "I told Waters about Roger Leafstrike's rescue and he said that he was very pleased to have helped me find him. I think he'll spread the tale around town."
+ },
+ {
+  "file": "mightier_sword",
+  "line": 1,
+  "progress": "0",
+  "text": "Mightier than the Sword"
+ },
+ {
+  "file": "mightier_sword",
+  "line": 2,
+  "progress": "10",
+  "text": "A Phantasmal Scribe in the Iron Valley crypt has asked me to return his ancient [BLUE]Ancient Quill Pen[]. It is probably laying somewhere in the ruined crypt."
+ },
+ {
+  "file": "mightier_sword",
+  "line": 3,
+  "progress": "15",
+  "text": "I have found the scribe's quill. I should maybe return it to him, in the crypt of the Iron Valley."
+ },
+ {
+  "file": "mightier_sword",
+  "line": 4,
+  "progress": "100",
+  "text": "I allowed the spirit of the scribe to rest easy."
+ },
+ {
+  "file": "mightier_sword",
+  "line": 5,
+  "progress": "200",
+  "text": "I fought the spectral scribe."
+ },
+ {
+  "file": "missing_missionary",
+  "line": 1,
+  "progress": "0",
+  "text": "The Missing Missionary"
+ },
+ {
+  "file": "missing_missionary",
+  "line": 2,
+  "progress": "10",
+  "text": "Brother De Frere in Icemist is worried about a missionary called Brother Ladan. He left a year ago to try to spread the Faith of the Three among the Thuramiams, but he never returned."
+ },
+ {
+  "file": "missing_missionary",
+  "line": 3,
+  "progress": "90",
+  "text": "I found the Holy symbol of Brother Ladan in the ruins of Deepfrost. I should probably tell Brother De Frere about this, in Icemist."
+ },
+ {
+  "file": "missing_missionary",
+  "line": 4,
+  "progress": "100",
+  "text": "I found out what happened to Brother Ladan in Deepfrost."
+ },
+ {
+  "file": "moon_children",
+  "line": 1,
+  "progress": "0",
+  "text": "The Moon Children"
+ },
+ {
+  "file": "moon_children",
+  "line": 2,
+  "progress": "10",
+  "text": "Sister Calvin, a priestess from Nivaria, travelled to the northwest to spread the faith of The Three among the wildmen. Brother Palver is worried about her long absence, and has asked me to go find her."
+ },
+ {
+  "file": "moon_children",
+  "line": 3,
+  "progress": "15",
+  "text": "I have found sister Calvin's holy symbol. She fell prey to the werewolves of the highlands. I should return this to Brother Palver in Nivarian."
+ },
+ {
+  "file": "moon_children",
+  "line": 4,
+  "progress": "100",
+  "text": "I retrieved Sister Calvin's holy simbol and took it back to Nivarian."
+ },
+ {
+  "file": "odd_couple",
+  "line": 1,
+  "progress": "0",
+  "text": "An Odd Couple"
+ },
+ {
+  "file": "odd_couple",
+  "line": 2,
+  "progress": "10",
+  "text": "I've met a very strange pair of friends living in a hut in the Zamohr Mountains, close to the Trollfens. One is the famous swordmaster Renda Windstrike, the other... A troll!"
+ },
+ {
+  "file": "odd_couple",
+  "line": 3,
+  "progress": "20",
+  "text": "I've met a very strange pair living in the Zamohr Mountains. One of them is a troll called Gurr. But there's something odd, he behaves peacefully and understands imperial language. I believe he may actually not be a troll, but a transmutated human. The monster does not talk, but he gave me a brass key and pointed to the other side of the river."
+ },
+ {
+  "file": "odd_couple",
+  "line": 4,
+  "progress": "30",
+  "text": "The brass key that Gurr the Troll gave me opens a locked grate in a cave inside the Zamohr Mountains."
+ },
+ {
+  "file": "odd_couple",
+  "line": 5,
+  "progress": "35",
+  "text": "The brass key that Gurr the Troll gave me opens a locked grate in a cave inside the Zamohr Mountains. I confronted there a wizard that may be the one that cursed Gurr."
+ },
+ {
+  "file": "odd_couple",
+  "line": 6,
+  "progress": "40",
+  "text": "I found a small troll 'doll' that might be related to the curse afflicting Gurr, in the Zamohr Mountains."
+ },
+ {
+  "file": "odd_couple",
+  "line": 7,
+  "progress": "100",
+  "text": "I partially restored Gurr's humanity, as he can now talk and think clearly. But his body is still that of a troll. He decided to stay in the wilds, maybe one day he'll figure out a way to restore his body."
+ },
+ {
+  "file": "odd_couple",
+  "line": 8,
+  "progress": "110",
+  "text": "I decided I couldn't tolerate the presence of such awful abominations such as Gurr the troll, in Zamohr Mountains... Trolls are trolls and must die. And those defending them, must die as well. I attacked Gurr."
+ },
+ {
+  "file": "odd_couple",
+  "line": 9,
+  "progress": "200",
+  "text": "I killed Gurr the troll, someone had to put the monster out of its misery."
+ },
+ {
+  "file": "orbs_galade",
+  "line": 1,
+  "progress": "0",
+  "text": "The Orbs of Galade"
+ },
+ {
+  "file": "orbs_galade",
+  "line": 2,
+  "progress": "10",
+  "text": "The High Priestess in the depths of the Maze of Lamth has asked me to return the two missing Orbs of Galade. She believes they're still within the maze."
+ },
+ {
+  "file": "orbs_galade",
+  "line": 3,
+  "progress": "20",
+  "text": "The High Priestess in the depths of the Maze of Lamth has asked me to return the two missing Orbs of Galade. I already returned one."
+ },
+ {
+  "file": "orbs_galade",
+  "line": 5,
+  "progress": "100",
+  "text": "I returned the Orbs of Galade to the Minotaur High Priestess."
+ },
+ {
+  "file": "outpost_defense",
+  "line": 1,
+  "progress": "0",
+  "text": "Defending the Outpost"
+ },
+ {
+  "file": "outpost_defense",
+  "line": 2,
+  "progress": "10",
+  "text": "Sergeant Morg, in Nivarian Warriors Guild, as asked me to travel to the Iross Highlands and help his men to defend the outpost near the northern mountains. He has advised me to never travel the Highlands by night."
+ },
+ {
+  "file": "outpost_defense",
+  "line": 3,
+  "progress": "20",
+  "text": "I reached the encampment in Iross Highlands, they seem to be poorly prepared to confront the werewolf menace but I'll stand by their side. They expect an attack any night now."
+ },
+ {
+  "file": "outpost_defense",
+  "line": 4,
+  "progress": "30",
+  "text": "I reached the encampment in Iross Highlands, they seem to be poorly prepared to confront the werewolf menace but I'll stand by their side. They expect an attack any night now. Maybe their odds would be better if I brought them three silver longswords."
+ },
+ {
+  "file": "outpost_defense",
+  "line": 5,
+  "progress": "40",
+  "text": "I reached the encampment in Iross Highlands, I gave silver longswords to the soldiers and now they stand a chance to defeat the werewolves. They expect an attack any night now."
+ },
+ {
+  "file": "outpost_defense",
+  "line": 6,
+  "progress": "45",
+  "text": "I was in the outpost in Iross Highlands when suddenly the werewolves attacked! They'll keep coming until I kill their leader."
+ },
+ {
+  "file": "outpost_defense",
+  "line": 7,
+  "progress": "50",
+  "text": "I managed to defeat the werewolf leader and all the other werewolves fled. I should go back to Nivarian and report to the Sergeant Morg."
+ },
+ {
+  "file": "outpost_defense",
+  "line": 8,
+  "progress": "100",
+  "text": "I helped the Warriors' Guild to defend their outpost in Iross Highlands."
+ },
+ {
+  "file": "outpost_defense",
+  "line": 9,
+  "progress": "200",
+  "text": "I failed in my quest to defend the Warriors' Guild outpost in Iross Highlands."
+ },
+ {
+  "file": "path_deer",
+  "line": 1,
+  "progress": "0",
+  "text": "Path of the Deer"
+ },
+ {
+  "file": "path_deer",
+  "line": 2,
+  "progress": "10",
+  "text": "I met the Father of All Clans, Laughing Deer. He is an old man that seems to be asleep, or in trance, in Elder forest."
+ },
+ {
+  "file": "path_deer",
+  "line": 3,
+  "progress": "20",
+  "text": "I visited the Spirit World and talked to Laughing Deer."
+ },
+ {
+  "file": "path_deer",
+  "line": 4,
+  "progress": "30",
+  "text": "I visited the Spirit World and talked to Laughing Deer. He wants me to retrieve an item with the mark of the Deer. The hero which owned that item fell in distant land, battling a dragon."
+ },
+ {
+  "file": "path_deer",
+  "line": 5,
+  "progress": "40",
+  "text": "I delivered the sword to Laughing Deer; he revealed to me it belonged to his brother. I must now submerge it into the Dark Pool in the Witches' Coven."
+ },
+ {
+  "file": "path_deer",
+  "line": 6,
+  "progress": "50",
+  "text": "I found the secret hideout inside Witches' Coven. A guardian is blocking my way to the Dark Pool, I must destroy it."
+ },
+ {
+  "file": "path_deer",
+  "line": 7,
+  "progress": "60",
+  "text": "I defeated the Guardian. I must now submerge the sword into the Dark Pool in the Witches' Coven."
+ },
+ {
+  "file": "path_deer",
+  "line": 8,
+  "progress": "90",
+  "text": "I cleansed the Dark Pool, forever weakening the witches' power to create Nightmares."
+ },
+ {
+  "file": "path_deer",
+  "line": 9,
+  "progress": "100",
+  "text": "I cleansed the Dark Pool, forever weakening the witches' power to create Nightmares. Laughing Deer thanked me."
+ },
+ {
+  "file": "path_deer",
+  "line": 10,
+  "progress": "110",
+  "text": "I cleansed the Dark Pool, forever weakening the witches' power to create Nightmares. Laughing Deer rewarded me by blessing his brother's blade."
+ },
+ {
+  "file": "pig_wife",
+  "line": 1,
+  "progress": "0",
+  "text": "Swine Trouble"
+ },
+ {
+  "file": "pig_wife",
+  "line": 2,
+  "progress": "10",
+  "text": "Mifadis in Whitetower seems to have accidentally transformed his wife into a pig."
+ },
+ {
+  "file": "pig_wife",
+  "line": 3,
+  "progress": "15",
+  "text": "Mifadis in Whitetower seems to have accidentally transformed his wife into a pig. I asked about this to Lady Ilemma in Icemist, and she says her spells never lasts more than 5 minutes. There must be an explanation..."
+ },
+ {
+  "file": "pig_wife",
+  "line": 4,
+  "progress": "50",
+  "text": "An old herbalist told me he saw a farmer bring the pig, as a payment of some kind to the wizard of the house. Later, he saw a woman run naked and jump into the river, then swim downstream to the west. If it was Rosy, she can't be too far away."
+ },
+ {
+  "file": "pig_wife",
+  "line": 5,
+  "progress": "70",
+  "text": "I found Rosy. She seems to be greatly enjoying her life with two young and handsome woodcutters. She asked me to lie to her husband, so she can keep enjoying this new life."
+ },
+ {
+  "file": "pig_wife",
+  "line": 6,
+  "progress": "80",
+  "text": "I told Mifadis the truth about Rosy. He asked me to bring his wife back, even by force if needed."
+ },
+ {
+  "file": "pig_wife",
+  "line": 7,
+  "progress": "85",
+  "text": "I confronted Rosy and now her two 'friends' are attacking me!"
+ },
+ {
+  "file": "pig_wife",
+  "line": 8,
+  "progress": "90",
+  "text": "I convinced Rosy to return with her husband. I should tell Mifadis about this."
+ },
+ {
+  "file": "pig_wife",
+  "line": 9,
+  "progress": "95",
+  "text": "I lied to Mifadis, telling him the spell can't be reversed. Rosy promised to reward me."
+ },
+ {
+  "file": "pig_wife",
+  "line": 10,
+  "progress": "100",
+  "text": "I returned Rosy to Mifadis in Whitetower."
+ },
+ {
+  "file": "pig_wife",
+  "line": 11,
+  "progress": "110",
+  "text": "I helped Rosy to stay with her woodsmen friends."
+ },
+ {
+  "file": "pig_wife",
+  "line": 12,
+  "progress": "120",
+  "text": "I told Mifadis the truth about Rosy but I refused to take part in their squabbles."
+ },
+ {
+  "file": "poisoned_river",
+  "line": 1,
+  "progress": "0",
+  "text": "The Poisoned River"
+ },
+ {
+  "file": "poisoned_river",
+  "line": 2,
+  "progress": "10",
+  "text": "Captain Demetrius in New Anthur has trusted me a mission of great importance: to find out why the Wyverntail River has been poisonous for over 60 years, and to make its waters clean again. The river is north of the town."
+ },
+ {
+  "file": "poisoned_river",
+  "line": 3,
+  "progress": "50",
+  "text": "Captain Demetrius in New Anthur has trusted me a mission of great importance: to find out why the Wyverntail River has been poisonous for over 60 years, and to make its waters clean again. I have found an ancient tower that seems to be the origin of the poisoning."
+ },
+ {
+  "file": "poisoned_river",
+  "line": 4,
+  "progress": "90",
+  "text": "\"I stopped the poisoning of the Wyverntail river; I should report back to Captain Demetrius in New Anthur.\""
+ },
+ {
+  "file": "poisoned_river",
+  "line": 5,
+  "progress": "100",
+  "text": "\"I stopped the poisoning of the Wyverntail river; I was rewarded by Captain Demetrius in New Anthur.\""
+ },
+ {
+  "file": "price_of_freedom",
+  "line": 1,
+  "progress": "0",
+  "text": "The Price of Freedom"
+ },
+ {
+  "file": "price_of_freedom",
+  "line": 2,
+  "progress": "10",
+  "text": "Praetor Silena, a mercian officer from Jabal, has told me that some native Varannari are outside the wall, planning something. I am not sure what I can do about it... Or what I should do about it."
+ },
+ {
+  "file": "price_of_freedom",
+  "line": 3,
+  "progress": "20",
+  "text": "I managed to convince the young Varannari hunters to simple leave without trying their rescue plan. Probably the Praetor in Jabal will give me a reward."
+ },
+ {
+  "file": "price_of_freedom",
+  "line": 4,
+  "progress": "30",
+  "text": "I agreed to help the Varannari to escape the slave pit in Jabal. They want me to distract the Praetor while they finish their tunnel."
+ },
+ {
+  "file": "price_of_freedom",
+  "line": 5,
+  "progress": "60",
+  "text": "I managed to distract the Praetor away from the slaves, I should quickly meet with the Varannari outside the wall now, so they use their tunnel."
+ },
+ {
+  "file": "price_of_freedom",
+  "line": 6,
+  "progress": "70",
+  "text": "I betrayed the Varannari hunters, telling the Praetor where they hide. Now it's my task to destroy them."
+ },
+ {
+  "file": "price_of_freedom",
+  "line": 7,
+  "progress": "75",
+  "text": "I found and attacked the Varannari hunters that were near Jabal."
+ },
+ {
+  "file": "price_of_freedom",
+  "line": 8,
+  "progress": "80",
+  "text": "I killed the Varannari hunters that were causing trouble around Jabal. Probably the Praetor in Jabal will give me a reward."
+ },
+ {
+  "file": "price_of_freedom",
+  "line": 9,
+  "progress": "100",
+  "text": "I helped the Varannari slaves escape from Jabal."
+ },
+ {
+  "file": "price_of_freedom",
+  "line": 10,
+  "progress": "110",
+  "text": "I prevented the Varannari slaves from escaping the Jabal slave pit."
+ },
+ {
+  "file": "primal_forge",
+  "line": 1,
+  "progress": "0",
+  "text": "The Primal Forge"
+ },
+ {
+  "file": "primal_forge",
+  "line": 2,
+  "progress": "10",
+  "text": "I found a strange creature in the caves under Southern Dragon Mountains, an extremeley ancient goblinoid called Stridsibum. He told me he lost his smithing hammer."
+ },
+ {
+  "file": "primal_forge",
+  "line": 3,
+  "progress": "20",
+  "text": "Stridsibum in the caves under Southern Dragon Mountains can craft for me a longsword, a shortsword or greatsword, but only if I bring one of such weapons made of 'beautiful metal', whatever that means. He also needs ten small diamonds. I hope it's worth it!"
+ },
+ {
+  "file": "primal_forge",
+  "line": 4,
+  "progress": "100",
+  "text": "I found a strange creature in the caves under Southern Dragon Mountains, an extremeley ancient goblinoid called Stridsibum. He claims he can craft for me a longsword, a shortsword or greatsword, but only if I bring him first a bluesteel version of the weapon plus ten small diamonds."
+ },
+ {
+  "file": "primal_forge",
+  "line": 5,
+  "progress": "210",
+  "text": "I attacked Stridsibum the Father of Goblins."
+ },
+ {
+  "file": "primal_forge",
+  "line": 6,
+  "progress": "220",
+  "text": "I killed Stridsibum the Father of Goblins."
+ },
+ {
+  "file": "princess_sea",
+  "line": 1,
+  "progress": "0",
+  "text": "The Princess of the Sea"
+ },
+ {
+  "file": "princess_sea",
+  "line": 2,
+  "progress": "10",
+  "text": "An odd fortune teller in New Anthur has told me about some damsel in distress, a princess no less. I wouldn't care much about such predictions, but she mentioned she can be found on the Imperial Road to the south, close to the sea."
+ },
+ {
+  "file": "princess_sea",
+  "line": 3,
+  "progress": "20",
+  "text": "I met Princess Elleira on the Steel Coast. She seems to have been cursed, but I decided not to get involved for now."
+ },
+ {
+  "file": "princess_sea",
+  "line": 4,
+  "progress": "30",
+  "text": "I met Princess Elleira on the Steel Coast. She seems to have been cursed by a monster called Kakrak, whose lair is in the nearby imperial sea fortress. She will be free of the curse if I can retrieve her pendant."
+ },
+ {
+  "file": "princess_sea",
+  "line": 5,
+  "progress": "50",
+  "text": "I defeated Kakrak and obtained Elleira's pendant. I should bring it to her, she awaits on the Steel Coast."
+ },
+ {
+  "file": "princess_sea",
+  "line": 6,
+  "progress": "100",
+  "text": "I broke Elleira's curse... But it was not the outcome I expected."
+ },
+ {
+  "file": "prisoner_orcs",
+  "line": 1,
+  "progress": "0",
+  "text": "Prisoner of Orcs"
+ },
+ {
+  "file": "prisoner_orcs",
+  "line": 2,
+  "progress": "10",
+  "text": "Niur was a woodsman that was captured by orcs months ago. I was told that maybe he has been enslaved in an underground orc lair somewhere around the Bluemist River."
+ },
+ {
+  "file": "prisoner_orcs",
+  "line": 3,
+  "progress": "50",
+  "text": "I found Niur, now I have to take him back to his friend Usham the woodsman, in Southern Bluemist river."
+ },
+ {
+  "file": "prisoner_orcs",
+  "line": 4,
+  "progress": "90",
+  "text": "I rescued Niur, probably may get a reward for it."
+ },
+ {
+  "file": "prisoner_orcs",
+  "line": 5,
+  "progress": "100",
+  "text": "I rescued Niur and the woodsmen rewarded me with an Amulet of the Forest."
+ },
+ {
+  "file": "prisoner_orcs",
+  "line": 6,
+  "progress": "200",
+  "text": "Niur died when I was trying to rescue him from the orc lair, and I failed the quest."
+ },
+ {
+  "file": "prisoners_dilemma",
+  "line": 1,
+  "progress": "0",
+  "text": "The Prisoners' Dilemma"
+ },
+ {
+  "file": "prisoners_dilemma",
+  "line": 2,
+  "progress": "10",
+  "text": "I found a woman called Eirama in Freetown. Her husband went south into the Zamohr mountains to sell a cargo of wine to a bandit clan, and never returned. She fears such shady deals with outlaws have ended the worst possible way."
+ },
+ {
+  "file": "prisoners_dilemma",
+  "line": 3,
+  "progress": "20",
+  "text": "I found two prisoners in the dungeons of Bluerock Castle, in Zamohr Mountains. Both claim to be Zenmo, the missing wine trader, and both claim the other is actually a flesh-eating monster. Which one should I believe?"
+ },
+ {
+  "file": "prisoners_dilemma",
+  "line": 4,
+  "progress": "30",
+  "text": "I freed Zenmo, I should take him back to his wife Eirama in Freetown."
+ },
+ {
+  "file": "prisoners_dilemma",
+  "line": 5,
+  "progress": "90",
+  "text": "Zenmo the trader died while I was escorting him back to his wife Eirama in Freetown. I should tell her."
+ },
+ {
+  "file": "prisoners_dilemma",
+  "line": 6,
+  "progress": "100",
+  "text": "I returned Zenmo safely to his wife, and was rewarded."
+ },
+ {
+  "file": "prisoners_dilemma",
+  "line": 7,
+  "progress": "200",
+  "text": "Zenmo the trader died while I was escorting him back to his wife. Eirama gave me a small reward for my efforts."
+ },
+ {
+  "file": "prodigal_daughter",
+  "line": 1,
+  "progress": "0",
+  "text": "The Prodigal Daughter"
+ },
+ {
+  "file": "prodigal_daughter",
+  "line": 2,
+  "progress": "10",
+  "text": "The Undermother, in the caves of Northern Bluemist, has asked me to find and destroy one of her strongest daughters: a Mirmek Queen called Zuz'sare. She assured me the young Queen ate a shard of the [BLUE]eye of Tol[] and keeps it inside her belly. Unfortunately, she fled the Great Nest and she has no clues about her whereabouts."
+ },
+ {
+  "file": "prodigal_daughter",
+  "line": 3,
+  "progress": "20",
+  "text": "I've heard a rumor that might be about Zuz'sare, the fugitive Mirmek the Undermother wants dead. A giant insect enveloped in flames appeared months ago, devastating the woods and then hiding into a cave at Iross Highlands, north of Föga."
+ },
+ {
+  "file": "prodigal_daughter",
+  "line": 4,
+  "progress": "30",
+  "text": "The Undermother wants me to kill a fugitive Mirmek called Zuz'sare, and I'm following a lead towards a cave at Iross Highlands. Maybe I am late, as the locals tell a story about a woman they call the Flame Prophet getting rid of the Beast."
+ },
+ {
+  "file": "prodigal_daughter",
+  "line": 5,
+  "progress": "40",
+  "text": "The Undermother wants me to kill a fugitive Mirmek called Zuz'sare, and I'm following a lead towards a cave at Iross Highlands. I followed the scorched trail but a woman called the Flame Prophet seems to have got rid of the Beast."
+ },
+ {
+  "file": "prodigal_daughter",
+  "line": 6,
+  "progress": "50",
+  "text": "Zuz'sare has transformed permanently into a human, and is known as the Flame Prophet. I agreed with her plan to destroy the Undermother. If I bring her [BLUE]3 Vorator Eggs[] she can prepare me a charm that can weaken her."
+ },
+ {
+  "file": "prodigal_daughter",
+  "line": 7,
+  "progress": "60",
+  "text": "Zuz'sare has transformed permanently into a human, and is known as the Flame Prophet. I agreed with her plan to destroy the Undermother. She prepared for me a charm that can weaken her."
+ },
+ {
+  "file": "prodigal_daughter",
+  "line": 8,
+  "progress": "70",
+  "text": "I decided to fight the Flame Prophet, in the cave in Iross Highlands. She happens to be the Mirmek Zuz'sare, transformed permanently into a human."
+ },
+ {
+  "file": "prodigal_daughter",
+  "line": 9,
+  "progress": "80",
+  "text": "I killed Zuz'sare, I should go and tell the Undermother about it. She is in her lair in Northern Bluemist."
+ },
+ {
+  "file": "prodigal_daughter",
+  "line": 10,
+  "progress": "90",
+  "text": "I confronted the Undermother herself!"
+ },
+ {
+  "file": "prodigal_daughter",
+  "line": 11,
+  "progress": "100",
+  "text": "I destroyed Zuz'sare for the Undermother."
+ },
+ {
+  "file": "prodigal_daughter",
+  "line": 12,
+  "progress": "110",
+  "text": "I destroyed the infamous Undermother."
+ },
+ {
+  "file": "restless_dead",
+  "line": 1,
+  "progress": "0",
+  "text": "The Restless Dead"
+ },
+ {
+  "file": "restless_dead",
+  "line": 2,
+  "progress": "10",
+  "text": "There have been nocturnal sightings of a powerful spectre at [BLUE]South Jabal Hills[]. Toel, leader of Freetown's Warrior Guild, sent a few experienced men to face the creature but they had to flee for their lives. He wants me to finish this menace."
+ },
+ {
+  "file": "restless_dead",
+  "line": 3,
+  "progress": "20",
+  "text": "I found the spectre of Sir Morfados. Right before I defeated him, he exclaimed some incoherent sentences: 'I am no Traitor', 'I am loyal to the Empire' and also 'I deserve rest'. Somehow, I don't think I have permanently finished off his menace."
+ },
+ {
+  "file": "restless_dead",
+  "line": 4,
+  "progress": "30",
+  "text": "I learned about Sir Morfados. He died over a hundred years ago, in the [BLUE]Battle of Deadwood[]. History says he joined the rebels, but was defeated by the Imperial forces. Apparently his ghost disagrees with the historical accounts: until his spirit is placated somehow, I doubt he'll depart our world."
+ },
+ {
+  "file": "restless_dead",
+  "line": 5,
+  "progress": "50",
+  "text": "I learned about Sir Morfados. He died over a hundred years ago, in the [BLUE]Battle of Deadwood[]. History says he joined the rebels, but was defeated by the Imperial forces. Apparently his ghost disagrees with the historical accounts: until his spirit is placated somehow, I doubt he'll depart our world."
+ },
+ {
+  "file": "restless_dead",
+  "line": 6,
+  "progress": "60",
+  "text": "\"I found Sir Morfados' remains; such a formidable head and square jaw would be recognizable everywhere. His bones were in the Pit of Traitors, together with all the rebels defeated by the empire. Maybe he wasn't a traitor, and that's why his spirit is restless.\""
+ },
+ {
+  "file": "restless_dead",
+  "line": 7,
+  "progress": "90",
+  "text": "I left Sir Morfados' remains in a niche, at the Halls of Heroes. I feel like, finally, that will put his soul to a merciful rest. I should inform Toel about this, at the Freetown's Warriors' Guild."
+ },
+ {
+  "file": "restless_dead",
+  "line": 8,
+  "progress": "100",
+  "text": "I gave proper sepulture to Sir Morfados, allowing his spirit to rest."
+ },
+ {
+  "file": "restoring_faith",
+  "line": 1,
+  "progress": "0",
+  "text": "Restoring the Faith"
+ },
+ {
+  "file": "restoring_faith",
+  "line": 2,
+  "progress": "10",
+  "text": "Hirge, the young priestess of the Three, is in desperate need of recovering the lost Holy Symbol from Sir Tamrel. She believes it must be in posession of the undead, out into the desert."
+ },
+ {
+  "file": "restoring_faith",
+  "line": 3,
+  "progress": "50",
+  "text": "I found Sir Tamrel's medallion, the Holy Symbol that Hirge asked me to find. She'll be very happy to recover it in the encampment in Great Inori."
+ },
+ {
+  "file": "restoring_faith",
+  "line": 4,
+  "progress": "100",
+  "text": "I returned the Holy symbol to the priestess of the Three in Great Inori"
+ },
+ {
+  "file": "safe_bet",
+  "line": 1,
+  "progress": "0",
+  "text": "A safe bet"
+ },
+ {
+  "file": "safe_bet",
+  "line": 2,
+  "progress": "10",
+  "text": "Therod Nom, a Varsilian noble that is now in Rhöneis, wanted me to bring him a [BLUE]minotaur horn[], but I refused. I won't help him to cheat on his bet with Sir Nellas Gissar."
+ },
+ {
+  "file": "safe_bet",
+  "line": 3,
+  "progress": "20",
+  "text": "Therod Nom, a Varsilian noble that is now in Rhöneis, wants me to bring him a [BLUE]minotaur horn[]."
+ },
+ {
+  "file": "safe_bet",
+  "line": 4,
+  "progress": "100",
+  "text": "I gave Therod Nom a minotaur horn so he would win his bet."
+ },
+ {
+  "file": "safe_bet",
+  "line": 5,
+  "progress": "110",
+  "text": "I told Sir Nellas Gissar in New Garand about the cheating intentions of Sir Therod Nom, he gave me a small reward for my honesty."
+ },
+ {
+  "file": "safe_passage",
+  "line": 1,
+  "progress": "0",
+  "text": "Safe Passage"
+ },
+ {
+  "file": "safe_passage",
+  "line": 2,
+  "progress": "10",
+  "text": "A mercian traveller called Liserpix wants to return back to Freetown, and has asked me to escort her safely through the dangerous roads ahead . I don't need to take her all the way to Freetown, just past the [BLUE]guard post in South Jabal Hills[]."
+ },
+ {
+  "file": "safe_passage",
+  "line": 3,
+  "progress": "20",
+  "text": "While guiding Liserpix towards the mercian capital, we were ambushed by bandits."
+ },
+ {
+  "file": "safe_passage",
+  "line": 4,
+  "progress": "40",
+  "text": "I safely guided Liserpix to the guard post in Jabal Hills. Now expecting payment."
+ },
+ {
+  "file": "safe_passage",
+  "line": 5,
+  "progress": "100",
+  "text": "I safely guided Liserpix to the guard post in Jabal Hills, and she rewarded me with a fine sum."
+ },
+ {
+  "file": "safe_passage",
+  "line": 6,
+  "progress": "150",
+  "text": "I attacked Liserpix because disagreed with the money she offered."
+ },
+ {
+  "file": "safe_passage",
+  "line": 7,
+  "progress": "200",
+  "text": "Liserpix died when I was escorting her to Freetown"
+ },
+ {
+  "file": "sand_vermin",
+  "line": 1,
+  "progress": "0",
+  "text": "Sand Vermin"
+ },
+ {
+  "file": "sand_vermin",
+  "line": 2,
+  "progress": "10",
+  "text": "Praetor Jenard, in Sydarun, has asked me to put an end to the Mirmek infestation. Apparently the giant monsters have nested in the caves south of town."
+ },
+ {
+  "file": "sand_vermin",
+  "line": 3,
+  "progress": "100",
+  "text": "I destroyed the Mirmek nests near Sydarun, and was rewarded with a magical ring."
+ },
+ {
+  "file": "secrets_dead",
+  "line": 1,
+  "progress": "0",
+  "text": "Secrets of the Dead"
+ },
+ {
+  "file": "secrets_dead",
+  "line": 2,
+  "progress": "96",
+  "text": "Both the Great Library in New Garand, and the Grey Library in Freetown are involved in a bitter rivalry about recovering four lost tomes revealing ancient necromantic secrets. I can probably obtain a reward from either of them for such tomes."
+ },
+ {
+  "file": "secrets_dead",
+  "line": 3,
+  "progress": "97",
+  "text": "Both the Great Library in New Garand, and the Grey Library in Freetown are involved in a bitter rivalry about recovering four lost tomes revealing ancient necromantic secrets. I already returned one of them."
+ },
+ {
+  "file": "secrets_dead",
+  "line": 4,
+  "progress": "98",
+  "text": "Both the Great Library in New Garand, and the Grey Library in Freetown are involved in a bitter rivalry about recovering four lost tomes revealing ancient necromantic secrets. I already returned two of them."
+ },
+ {
+  "file": "secrets_dead",
+  "line": 5,
+  "progress": "99",
+  "text": "Both the Great Library in New Garand, and the Grey Library in Freetown are involved in a bitter rivalry about recovering four lost tomes revealing ancient necromantic secrets. I already returned three of them."
+ },
+ {
+  "file": "secrets_dead",
+  "line": 6,
+  "progress": "100",
+  "text": "Both the Great Library in New Garand, and the Grey Library in Freetown were involved in a bitter rivalry about recovering four lost tomes revealing ancient necromantic secrets. I already returned them."
+ },
+ {
+  "file": "seed_of_trust",
+  "line": 1,
+  "progress": "0",
+  "text": "The seed of trust"
+ },
+ {
+  "file": "seed_of_trust",
+  "line": 2,
+  "progress": "10",
+  "text": "A seeds trader called Rodney has asked me to escort him safely to his destination. He needs me to take him to a settlement located in Northern Bluemist river. The old road that goes to Lannegar Mine continues to the west, towards the camp."
+ },
+ {
+  "file": "seed_of_trust",
+  "line": 3,
+  "progress": "20",
+  "text": "I safely guided Rodney the merchant to the camp in Northern Bluemist. Now expecting payment"
+ },
+ {
+  "file": "seed_of_trust",
+  "line": 4,
+  "progress": "100",
+  "text": "I safely guided Rodney the merchant to the camp in Northern Bluemist. However, I believe he took advantage of me, as he didn't pay me as much as he promised."
+ },
+ {
+  "file": "seed_of_trust",
+  "line": 5,
+  "progress": "110",
+  "text": "I safely guided Rodney the merchant to the camp in Northern Bluemist. He tried to pay me less than the agreed fee, but I outsmarted him."
+ },
+ {
+  "file": "seed_of_trust",
+  "line": 6,
+  "progress": "200",
+  "text": "Rodney the seed-trader died. I failed the mission."
+ },
+ {
+  "file": "sewer_horrors",
+  "line": 1,
+  "progress": "0",
+  "text": "Sewer of Horrors"
+ },
+ {
+  "file": "sewer_horrors",
+  "line": 2,
+  "progress": "10",
+  "text": "Sir Whitestorm has told me the story of the Icemist sewers, and the terrible fate of his son."
+ },
+ {
+  "file": "sewer_horrors",
+  "line": 3,
+  "progress": "20",
+  "text": "Sir Whitestorm has told me the story of the Icemist sewers, and the terrible fate of his son. I told him I want to go down to the Underlevels and he opened the grate for me, warning me there's no way back."
+ },
+ {
+  "file": "sewer_horrors",
+  "line": 4,
+  "progress": "30",
+  "text": "I descended below Icemist Sewers and reached what must be the city Underlevels. I should try to find Breno, if he's still alive."
+ },
+ {
+  "file": "sewer_horrors",
+  "line": 5,
+  "progress": "40",
+  "text": "I founf Breno. Unfortunately he agrees with Folcarad: there is no way out of the Underlevel. I decided not to join forces with him just yet."
+ },
+ {
+  "file": "sewer_horrors",
+  "line": 6,
+  "progress": "50",
+  "text": "I met Breno, and we joined forces. He told me the most dangerous faction here is the Temple of the Flame, but to reach it I need three magical rubies."
+ },
+ {
+  "file": "sewer_horrors",
+  "line": 7,
+  "progress": "60",
+  "text": "I activated the bridge that can take me to the Temple of the Flame."
+ },
+ {
+  "file": "sewer_horrors",
+  "line": 8,
+  "progress": "70",
+  "text": "I defeated the Saradan, the Lord of the Temple of the Flame. Unfortunately, I am still unable to escape the Underlevels."
+ },
+ {
+  "file": "sewer_horrors",
+  "line": 9,
+  "progress": "80",
+  "text": "I entered the elemental Plane of Fire! I don't think I can survive for a long time here."
+ },
+ {
+  "file": "sewer_horrors",
+  "line": 10,
+  "progress": "90",
+  "text": "I returned to the Material Plane!"
+ },
+ {
+  "file": "sewer_horrors",
+  "line": 11,
+  "progress": "100",
+  "text": "I saved Breno and went through the Sewer of Horrors."
+ },
+ {
+  "file": "shaking_bones",
+  "line": 1,
+  "progress": "0",
+  "text": "Shaking bones"
+ },
+ {
+  "file": "shaking_bones",
+  "line": 2,
+  "progress": "10",
+  "text": "Brother Gudazar, in Rhöneis, asked me to bring him [BLUE]12 Skeleton skulls[]. He wants them to prepare magical wards against undead, and has promised me an enchanted shield to ward against Death magic."
+ },
+ {
+  "file": "shaking_bones",
+  "line": 3,
+  "progress": "100",
+  "text": "I brought the 12 requested skeleton skulls to Brother Gudazar in Rhöneis."
+ },
+ {
+  "file": "shards_fate",
+  "line": 1,
+  "progress": "0",
+  "text": "The Shards of Fate"
+ },
+ {
+  "file": "shards_fate",
+  "line": 2,
+  "progress": "10",
+  "text": "I am trying to reconstruct an ancient artifact known as the [BLUE]Eye of Tol[]. It is a mirror that can reveal any knowledge, so I need it to find the hideout of [BLUE]The Forsaken[] before they open the [BLUE]Deep Gate[] and destroy our world. Once I have a shard, I must place it in the frame of the upper floor of Tremadan's Tower."
+ },
+ {
+  "file": "shards_fate",
+  "line": 3,
+  "progress": "11",
+  "text": "I am trying to reconstruct an ancient artifact known as the [BLUE]Eye of Tol[]. I already put one shard in the mirror frame, eleven more to go."
+ },
+ {
+  "file": "shards_fate",
+  "line": 4,
+  "progress": "12",
+  "text": "I am trying to reconstruct an ancient artifact known as the [BLUE]Eye of Tol[]. I already put two shards in the mirror frame, ten more to go."
+ },
+ {
+  "file": "shards_fate",
+  "line": 5,
+  "progress": "13",
+  "text": "I am trying to reconstruct an ancient artifact known as the [BLUE]Eye of Tol[]. I already put three shards in the mirror frame, nine more to go."
+ },
+ {
+  "file": "shards_fate",
+  "line": 6,
+  "progress": "14",
+  "text": "I am trying to reconstruct an ancient artifact known as the [BLUE]Eye of Tol[]. I already put four shards in the mirror frame, eight more to go."
+ },
+ {
+  "file": "shards_fate",
+  "line": 7,
+  "progress": "15",
+  "text": "I am trying to reconstruct an ancient artifact known as the [BLUE]Eye of Tol[]. I already put five shards in the mirror frame, seven more to go."
+ },
+ {
+  "file": "shards_fate",
+  "line": 8,
+  "progress": "16",
+  "text": "I am trying to reconstruct an ancient artifact known as the [BLUE]Eye of Tol[]. I already put six shards in the mirror frame, six more to go."
+ },
+ {
+  "file": "shards_fate",
+  "line": 9,
+  "progress": "17",
+  "text": "I am trying to reconstruct an ancient artifact known as the [BLUE]Eye of Tol[]. I already put seven shards in the mirror frame, five more to go."
+ },
+ {
+  "file": "shards_fate",
+  "line": 10,
+  "progress": "18",
+  "text": "I am trying to reconstruct an ancient artifact known as the [BLUE]Eye of Tol[]. I already put eight shards in the mirror frame, four more to go."
+ },
+ {
+  "file": "shards_fate",
+  "line": 11,
+  "progress": "19",
+  "text": "I am trying to reconstruct an ancient artifact known as the [BLUE]Eye of Tol[]. I already put nine shards in the mirror frame, three more to go."
+ },
+ {
+  "file": "shards_fate",
+  "line": 12,
+  "progress": "20",
+  "text": "I am trying to reconstruct an ancient artifact known as the [BLUE]Eye of Tol[]. I already put ten shards in the mirror frame, two more to go."
+ },
+ {
+  "file": "shards_fate",
+  "line": 13,
+  "progress": "21",
+  "text": "I am trying to reconstruct an ancient artifact known as the [BLUE]Eye of Tol[]. I already put eleven shards in the mirror frame, one more to go."
+ },
+ {
+  "file": "shards_fate",
+  "line": 14,
+  "progress": "22",
+  "text": "I reconstructed the [BLUE]Eye of Tol[]. Now I can talk to the illusion left by my grandfather, so we can try to find the Forsaken."
+ },
+ {
+  "file": "shards_fate",
+  "line": 15,
+  "progress": "100",
+  "text": "I learned the location of the Forsaken. It is an ancient wrecked vessel from the Muud'ari, called the Ark of Lothasan."
+ },
+ {
+  "file": "shield_mind",
+  "line": 1,
+  "progress": "0",
+  "text": "Shielding the Mind"
+ },
+ {
+  "file": "shield_mind",
+  "line": 2,
+  "progress": "10",
+  "text": "Jachimo, in the town of New Anthur, wants me to bring him [BLUE]Three Tesur flowers[]. They are very rare, and can only be found in deserts near rocky areas."
+ },
+ {
+  "file": "shield_mind",
+  "line": 3,
+  "progress": "20",
+  "text": "Jachimo, in the town of New Anthur, wants me to bring him [BLUE]four Chitin Carapaces[] from giant worms. They usually live underground and legends mention them around New Anthur."
+ },
+ {
+  "file": "shield_mind",
+  "line": 4,
+  "progress": "100",
+  "text": "I brought all the ingredients to Jachimo and he rewarded me well. He can now prepare more Potions of Clarity for me."
+ },
+ {
+  "file": "smugglers_night",
+  "line": 1,
+  "progress": "0",
+  "text": "Smugglers in the Night"
+ },
+ {
+  "file": "smugglers_night",
+  "line": 2,
+  "progress": "10",
+  "text": "Kardagis, in New Garand Sewers, suspects there is some smugglers operating beyond the control of the House. She wants them stopped. I still haven't agreed to this job."
+ },
+ {
+  "file": "smugglers_night",
+  "line": 3,
+  "progress": "20",
+  "text": "Kardagis, in New Garand Sewers,has asked me to stop a band of smugglers, or make them pay to the House. their leader is called Rodo and they probably operate at night, here in the docks or maybe outside town."
+ },
+ {
+  "file": "smugglers_night",
+  "line": 4,
+  "progress": "30",
+  "text": "I found Rodo, the smuggler, in Northern Inori. Let's see what he has to say."
+ },
+ {
+  "file": "smugglers_night",
+  "line": 5,
+  "progress": "40",
+  "text": "I made a deal with Rodo. He agreed to send a percentage of their business to the Seventh House. I should inform Kardagis, in New Garand Sewers."
+ },
+ {
+  "file": "smugglers_night",
+  "line": 6,
+  "progress": "45",
+  "text": "It was not possible to strike a deal, I attacker Rodo. I should inform Kardagis, in New Garand Sewers."
+ },
+ {
+  "file": "smugglers_night",
+  "line": 7,
+  "progress": "50",
+  "text": "I killed Rodo and his men. I should inform Kardagis, in New Garand Sewers."
+ },
+ {
+  "file": "smugglers_night",
+  "line": 8,
+  "progress": "100",
+  "text": "I helped the Seventh House with the problem with smugglers, and I was rewarded for it."
+ },
+ {
+  "file": "smugglers_night",
+  "line": 9,
+  "progress": "110",
+  "text": "I helped the Seventh House with the problem with smugglers, finding a peaceful solution, and I was rewarded for it."
+ },
+ {
+  "file": "snake_gang",
+  "line": 1,
+  "progress": "0",
+  "text": "The Snake Gang"
+ },
+ {
+  "file": "snake_gang",
+  "line": 2,
+  "progress": "10",
+  "text": "There's a feared band of thieves around Friguld, and the Governor offers reward of [BLUE]3,000 gold[] for the head of their leader, called The Snake."
+ },
+ {
+  "file": "snake_gang",
+  "line": 3,
+  "progress": "20",
+  "text": "I learned an interesting rumor about the Snake gang. One of their members used to frequent a girl called Zilda. She can be found in the Friguld dock at nights."
+ },
+ {
+  "file": "snake_gang",
+  "line": 4,
+  "progress": "30",
+  "text": "I found Zilda in the Friguld docks, but she refused to share any information with me about the gang."
+ },
+ {
+  "file": "snake_gang",
+  "line": 5,
+  "progress": "40",
+  "text": "I know the location of the Snake Gang: an old ruin in the Emerald Valley. But the magical door will only open if I say the password 'Trelaxx' while pouring [BLUE]scorpion venom[] over it."
+ },
+ {
+  "file": "snake_gang",
+  "line": 6,
+  "progress": "50",
+  "text": "I know the location of the Snake Gang: an old ruin in the Emerald Valley. But the magical door will only open if I say the password 'Trelaxx' while pouring water over it."
+ },
+ {
+  "file": "snake_gang",
+  "line": 7,
+  "progress": "60",
+  "text": "I met the leader of the thieves band, the infamous Snake. She has offered me to join them in the assault to the Golden Cove Bank, and I accepted. We will meet inside the bank."
+ },
+ {
+  "file": "snake_gang",
+  "line": 8,
+  "progress": "70",
+  "text": "I joined forces with the Snake to rob the Golden Cove Bank. The way out is blocked, but she told me there is an escape in the secret treasure vault. I need to find it!"
+ },
+ {
+  "file": "snake_gang",
+  "line": 9,
+  "progress": "80",
+  "text": "I confronted the Snake and her gang in the lair in Emerald Valley."
+ },
+ {
+  "file": "snake_gang",
+  "line": 10,
+  "progress": "90",
+  "text": "I slaughtered the Snake and her gang, I should probably go to the Governor's manor to claim the reward. They'll probably want the Serpent's necklace as proof."
+ },
+ {
+  "file": "snake_gang",
+  "line": 11,
+  "progress": "100",
+  "text": "I got rid of the Snake and her gang and was rewarded by the Governor of Friguld."
+ },
+ {
+  "file": "snake_gang",
+  "line": 12,
+  "progress": "110",
+  "text": "I robbed the Golden Cove Bank!"
+ },
+ {
+  "file": "spicing_things_up",
+  "line": 1,
+  "progress": "0",
+  "text": "Spicing Things Up"
+ },
+ {
+  "file": "spicing_things_up",
+  "line": 2,
+  "progress": "10",
+  "text": "Fritha Rhayader is a spice trader from New Garand. She will pay me 500 gold coins if I recover the ancient medallion from her grandfather, which disappeared over 50 years ago"
+ },
+ {
+  "file": "spicing_things_up",
+  "line": 3,
+  "progress": "20",
+  "text": "Fritha Rhayader is a spice trader from New Garand. She will pay me 500 gold coins if I recover the ancient medallion from her grandfather, which disappeared over 50 years ago. But Jethro, a rival merchant, offers me a bigger sum."
+ },
+ {
+  "file": "spicing_things_up",
+  "line": 4,
+  "progress": "50",
+  "text": "I recovered the Rhayader medallion, from an abandoned smuggler hideout in the desert. I should give it to Fritha, in New Garand."
+ },
+ {
+  "file": "spicing_things_up",
+  "line": 5,
+  "progress": "100",
+  "text": "I returned the Rhayader medallion, and Fritha rewarded me with 500 gold."
+ },
+ {
+  "file": "spicing_things_up",
+  "line": 6,
+  "progress": "110",
+  "text": "I decided to give the Rhayader medallion to Jethro, a trader which is Fritha's rival. He paid me 800 gold."
+ },
+ {
+  "file": "spiders_sack",
+  "line": 1,
+  "progress": "0",
+  "text": "Spiders' sac"
+ },
+ {
+  "file": "spiders_sack",
+  "line": 2,
+  "progress": "10",
+  "text": "I must bring [BLUE]3 venom sacks[] to Gilmour in New Garand. Maybe I can get them from spiders in Inori desert or Jabal Hills."
+ },
+ {
+  "file": "spiders_sack",
+  "line": 3,
+  "progress": "100",
+  "text": "I gave Gilmour the venom sacks and he rewarded me for it."
+ },
+ {
+  "file": "spirit_weapons",
+  "line": 1,
+  "progress": "0",
+  "text": "The Sacred Weapons"
+ },
+ {
+  "file": "spirit_weapons",
+  "line": 2,
+  "progress": "10",
+  "text": "Red Moon, the protector of the town of Lamis, has asked me to retrieve one of the sacred weapons that can help her to defend the town against the Shadows. She doesn't know where they are, but they may be in the Lamis area, hopefully. She described the weapons as a great Claymore and a Warhammer, both made of golden metal and shimmering with blue energy."
+ },
+ {
+  "file": "spirit_weapons",
+  "line": 3,
+  "progress": "100",
+  "text": "I retrieved one of the Sacred Weapons for Red Moon, at Lamis."
+ },
+ {
+  "file": "stopping_prejudice",
+  "line": 1,
+  "progress": "0",
+  "text": "Stopping Prejudice"
+ },
+ {
+  "file": "stopping_prejudice",
+  "line": 2,
+  "progress": "10",
+  "text": "Barahid the Wizard wants me to recover Terezza's research notes. She was investigating in an unknown location north of the Great Plains, somewhere in the Thyr Ridges."
+ },
+ {
+  "file": "stopping_prejudice",
+  "line": 3,
+  "progress": "50",
+  "text": "I found Terezza's research notes. I should return them to Barahid in the Great Plains Enclave of the Wizard's Guild."
+ },
+ {
+  "file": "stopping_prejudice",
+  "line": 4,
+  "progress": "100",
+  "text": "I returned Barahid the research notes about Vorators."
+ },
+ {
+  "file": "temple_sleepers",
+  "line": 1,
+  "progress": "0",
+  "text": "Temple of the Sleepers"
+ },
+ {
+  "file": "temple_sleepers",
+  "line": 2,
+  "progress": "10",
+  "text": "In the City of the Ancients I heard about a place called the Temple of the Sleepers. I have no idea where it might be located, but according to the Golem Trader I could find more details in the palace's library. Maybe that's the place where I can find Azeran, if it is related to the Purple Medallion."
+ },
+ {
+  "file": "temple_sleepers",
+  "line": 3,
+  "progress": "20",
+  "text": "While exploring the City of the Ancients I found a passage in an old book that mentions the Temple. Unfortunately its location is not clear, but it mentions that it can't be entered without a Purple Medallion and a special prayer. However the prayer's page has been torn. Maybe it's still around."
+ },
+ {
+  "file": "temple_sleepers",
+  "line": 4,
+  "progress": "30",
+  "text": "I found the torn page and learned the prayer: 'Five Sleepers under the Mountain shield us from all evil, may their slumber and peace be eternal'. This must be recited to access the Temple of the Sleepers, while holding a Purple Medallion. Unfortunately I still don't know where the temple is located."
+ },
+ {
+  "file": "temple_sleepers",
+  "line": 5,
+  "progress": "40",
+  "text": "I found the torn page and learned the prayer: 'Five Sleepers under the Mountain shield us from all evil, may their slumber and peace be eternal'. This must be spoken to access the Temple of the Sleepers, while holding a Purple Medallion. I found a clue about its location: a jungle valley with a river encircled by mountains. It must be some remote area to the far south."
+ },
+ {
+  "file": "temple_sleepers",
+  "line": 6,
+  "progress": "50",
+  "text": "I gained access to the Temple of the Sleepers, in the Gorge of the Silent Kings. The medallion I had was consumed, so if I ever find another blue-barrier gate I may need another medallion to go through it."
+ },
+ {
+  "file": "temple_sleepers",
+  "line": 7,
+  "progress": "60",
+  "text": "I found a deep pit blocking my way into the tomb; to cross it I need to activate its bridge somehow. I wonder if Azeran managed to cross this pit."
+ },
+ {
+  "file": "temple_sleepers",
+  "line": 8,
+  "progress": "70",
+  "text": "I crossed the pit. My way back is now blocked! I can only go forward and maybe take revenge on Azeran for fooling me and killing Thalassos."
+ },
+ {
+  "file": "temple_sleepers",
+  "line": 9,
+  "progress": "80",
+  "text": "I met Azeran and confronted him in the deepest of the Temple."
+ },
+ {
+  "file": "temple_sleepers",
+  "line": 10,
+  "progress": "90",
+  "text": "I don't know what Azeran was planning to do, but I defeated him before he could finish. I wonder what... or who is in that sarcophagus."
+ },
+ {
+  "file": "temple_sleepers",
+  "line": 11,
+  "progress": "100",
+  "text": "The Sleeper is safe now. His power defies imagination; is he a God? I'll probably never know, but there were originally five Sleepers, and the others are no more. I believe Azeran was trying to absorb his power and maybe become a God himself, but luckily I stopped him in the nick of time."
+ },
+ {
+  "file": "thick_skin",
+  "line": 1,
+  "progress": "0",
+  "text": "Thick skin"
+ },
+ {
+  "file": "thick_skin",
+  "line": 2,
+  "progress": "10",
+  "text": "Bregos Greyhand is a masterful tailor in Jabal. He can make leather armor out of trollskin, which gives excellent protection against acids and venoms. He says he can make a piece for me, in exchange of [BLUE]3 Troll Skins and 2,000 coins[]."
+ },
+ {
+  "file": "thick_skin",
+  "line": 3,
+  "progress": "100",
+  "text": "Bregos Greyhand made some trollhide armor for me."
+ },
+ {
+  "file": "those_in_need",
+  "line": 1,
+  "progress": "0",
+  "text": "Those in Need"
+ },
+ {
+  "file": "those_in_need",
+  "line": 2,
+  "progress": "10",
+  "text": "The village elder in Storme has mentioned that there's a nasty group of bandits plundering them. They're probably not very far away."
+ },
+ {
+  "file": "those_in_need",
+  "line": 3,
+  "progress": "15",
+  "text": "The village elder in Storme has mentioned that there's a nasty group of bandits plundering them. They're probably not very far away. I promised I wouldn't just go and attack them, and instead will try to solve this peacefully."
+ },
+ {
+  "file": "those_in_need",
+  "line": 4,
+  "progress": "20",
+  "text": "I found the bandit leader, Raegar, and I confronted him about the banditry."
+ },
+ {
+  "file": "those_in_need",
+  "line": 5,
+  "progress": "25",
+  "text": "I fought the bandits in Storme, hopefully they'll now leave the villagers alone."
+ },
+ {
+  "file": "those_in_need",
+  "line": 6,
+  "progress": "30",
+  "text": "I killed the bandits, I will now go back and report to the elder in Storme."
+ },
+ {
+  "file": "those_in_need",
+  "line": 7,
+  "progress": "40",
+  "text": "The bandits told me an interesting tale. They're war veterans, but now turned into hungry vagabonds. Maybe I can try to talk the village elder into a solution."
+ },
+ {
+  "file": "those_in_need",
+  "line": 8,
+  "progress": "50",
+  "text": "I intimidated the bandits in Storme, and they left, hopefully forever. I will now go back and report to the elder in the village."
+ },
+ {
+  "file": "those_in_need",
+  "line": 9,
+  "progress": "70",
+  "text": "I tried to convince the Storme village elder to accept the veterans, but he refused. I can try to go and scare them away or kill them, or simply forget about all this matter."
+ },
+ {
+  "file": "those_in_need",
+  "line": 10,
+  "progress": "90",
+  "text": "I convinced the Storme village elder to accept the war vetarans in the village. I should now go and tell their leader, Raegar, about this."
+ },
+ {
+  "file": "those_in_need",
+  "line": 11,
+  "progress": "100",
+  "text": "I removed the bandits that were plundering the Storme village."
+ },
+ {
+  "file": "those_in_need",
+  "line": 12,
+  "progress": "110",
+  "text": "I decided to negotiate a deal between the villagers and the outlaws, as they were really just a hungry band of veteran soldiers. I think it is the best solution for everyone."
+ },
+ {
+  "file": "those_in_need",
+  "line": 13,
+  "progress": "200",
+  "text": "I intimidated the villagers in Storme and they gave me money and pelts. Look at me, I'm a real bandit!"
+ },
+ {
+  "file": "those_in_need",
+  "line": 14,
+  "progress": "210",
+  "text": "I failed to help the villagers in Storme to deal with the bandits."
+ },
+ {
+  "file": "three_versus_eleven",
+  "line": 1,
+  "progress": "0",
+  "text": "Three versus Eleven"
+ },
+ {
+  "file": "three_versus_eleven",
+  "line": 2,
+  "progress": "10",
+  "text": "The Church of The Three has been in need of a temple in New Garand for a long time. The perfect place would be the temple to the Imperial Religion, barely used anymore. Maybe I could inquire about this to the city governor, in the Royal Castle."
+ },
+ {
+  "file": "three_versus_eleven",
+  "line": 3,
+  "progress": "20",
+  "text": "The Church of The Three is trying to gain control of the New Garand temple for a long time. The city governor told me that it could be possible... If three prominent citizens sign up a petition supporting it."
+ },
+ {
+  "file": "three_versus_eleven",
+  "line": 4,
+  "progress": "21",
+  "text": "The Church of The Three is trying to gain control of the New Garand temple for a long time. The city governor told me that it could be possible... If three prominent citizens sign up a petition supporting it. I have one petition letter, two more to go."
+ },
+ {
+  "file": "three_versus_eleven",
+  "line": 5,
+  "progress": "22",
+  "text": "The Church of The Three is trying to gain control of the New Garand temple for a long time. The city governor told me that it could be possible... If three prominent citizens sign up a petition supporting it. I have two petition letters, one more to go."
+ },
+ {
+  "file": "three_versus_eleven",
+  "line": 6,
+  "progress": "23",
+  "text": "The Church of The Three is trying to gain control of the New Garand temple for a long time. The city governor told me that it could be possible... If three prominent citizens sign up a petition supporting it. I have three petition letters, I should go back to meet the governor in the Royal Castle."
+ },
+ {
+  "file": "three_versus_eleven",
+  "line": 7,
+  "progress": "100",
+  "text": "The city governor and the King have signed a decree: the New Garand temple is now under the control of the Church of The Three."
+ },
+ {
+  "file": "three_versus_eleven",
+  "line": 8,
+  "progress": "200",
+  "text": "I failed to gain the New Garand temple for the Church of the Three"
+ },
+ {
+  "file": "track_forsaken",
+  "line": 1,
+  "progress": "0",
+  "text": "Cold Trail"
+ },
+ {
+  "file": "track_forsaken",
+  "line": 2,
+  "progress": "10",
+  "text": "Sir Sorom, in Solliga, has asked me to investigate why the giants in the Eastern Wyvern Mountains have become restless. It is rumored that, many years ago, a sect called the Forsaken had a secret hideout in the mountains."
+ },
+ {
+  "file": "track_forsaken",
+  "line": 3,
+  "progress": "20",
+  "text": "I climbed up a partially obstructed pass in the mountains. Let's see if the forsaken truly had a hideout up there, and what this has to do with the Giants."
+ },
+ {
+  "file": "track_forsaken",
+  "line": 4,
+  "progress": "30",
+  "text": "I found a castle up in the Wyvern Mountains, maybe this was the Forsaken lair but it seems to have been abandoned for many years."
+ },
+ {
+  "file": "track_forsaken",
+  "line": 5,
+  "progress": "40",
+  "text": "Icylons and led by someone called Hidalix seem to be behind the problem with the Ice Giants."
+ },
+ {
+  "file": "track_forsaken",
+  "line": 6,
+  "progress": "90",
+  "text": "I destroyed Hidalix, Icylons won't be able to take control of the Giants anymore. I should inform Sir sorom, in Solliga."
+ },
+ {
+  "file": "track_forsaken",
+  "line": 7,
+  "progress": "100",
+  "text": "Sir Sorom rewarded me for ending the giant menace. He suggested I should visit the Arcane Knights in Icemist if I want training."
+ },
+ {
+  "file": "trader_golem",
+  "line": 1,
+  "progress": "0",
+  "text": "A Hard Bargainer"
+ },
+ {
+  "file": "trader_golem",
+  "line": 2,
+  "progress": "10",
+  "text": "I found an unusual trader in the ruined city below the Lannegar mine: an Iron Golem. I wonder if I can learn from him some of the secrets of this place."
+ },
+ {
+  "file": "trader_golem",
+  "line": 3,
+  "progress": "20",
+  "text": "The trader golem has some directives that run his behavior. Apparently he won't give me any information, just trade with me."
+ },
+ {
+  "file": "trader_golem",
+  "line": 4,
+  "progress": "30",
+  "text": "I just thought that maybe I could trade gold in exchange of information. He agreed, for 500 gold he'll answer my questions."
+ },
+ {
+  "file": "trader_golem",
+  "line": 5,
+  "progress": "40",
+  "text": "I just thought that maybe I could trade gold in exchange of information. He agreed, for 500 gold he'll answer my questions. Now I can ask him about this place!"
+ },
+ {
+  "file": "trader_golem",
+  "line": 6,
+  "progress": "50",
+  "text": "The golem asked me for a Lifestone, an artifact that allowed golems like him to leave the City. He unfortunately does not know where to find them."
+ },
+ {
+  "file": "trader_golem",
+  "line": 7,
+  "progress": "60",
+  "text": "I found a Lifestone! I should bring it to the golem trader in the ruins below the Lannegar Mine."
+ },
+ {
+  "file": "trader_golem",
+  "line": 8,
+  "progress": "100",
+  "text": "The Trader Golem has left the ruins and wants to resume his trading elsewhere."
+ },
+ {
+  "file": "trial_error",
+  "line": 1,
+  "progress": "0",
+  "text": "Trial and Error"
+ },
+ {
+  "file": "trial_error",
+  "line": 2,
+  "progress": "10",
+  "text": "Adaon just learned that his uncle Bagadar has been imprisoned in the Port Malan Prison. While he says otherwise, maybe Adaon would like to go and try to help him out."
+ },
+ {
+  "file": "trial_error",
+  "line": 3,
+  "progress": "20",
+  "text": "\"Bagadar sold a treasure map to a young noble called Sir Aramas, which disappeared shortly after. The authorities believe Bagadar sent him into an ambush; he was already found guilty. To save him we need to find some evidence; we should follow the steps of Sir Adamas deep into Korne Forest.\""
+ },
+ {
+  "file": "trial_error",
+  "line": 4,
+  "progress": "30",
+  "text": "The ursans in Heart of Korne keep several prisoners, maybe Sir Aramas is there or they have a clue on his whereabouts."
+ },
+ {
+  "file": "trial_error",
+  "line": 5,
+  "progress": "40",
+  "text": "The prisoners told me Sir Aramas escaped and ventured into the sanctuary of the Ursans, a place they believe was built by their ancestors. There's some hidden mechanism in the walls of the Throne Room which opens the access to this sanctuary."
+ },
+ {
+  "file": "trial_error",
+  "line": 6,
+  "progress": "50",
+  "text": "I opened the gate to the sanctuary of the ursans in Eastern Korne. I hope I can find Sir Aramas there, or at least some evidence of Bagadar's innocence."
+ },
+ {
+  "file": "trial_error",
+  "line": 7,
+  "progress": "60",
+  "text": "We entered the place called 'sanctuary' by the ursans, which is clearly some an Imperial building in ruins. There's no apparent way out!  I hope I can some evidence of Bagadar's innocence."
+ },
+ {
+  "file": "trial_error",
+  "line": 8,
+  "progress": "80",
+  "text": "I found the remains and the journal of Sir Aramas, I should take this quickly to the Governor of the prison, in Western Korne, near Port Malan."
+ },
+ {
+  "file": "trial_error",
+  "line": 9,
+  "progress": "90",
+  "text": "The governor was convinced of the innocence of Bagadar and agreed to set him free. We should go and tell Bagadar the happy news."
+ },
+ {
+  "file": "trial_error",
+  "line": 10,
+  "progress": "100",
+  "text": "We saved Bagadar from the false accusations, but Adaon decided to leave behind his criminal past."
+ },
+ {
+  "file": "turning_scales",
+  "line": 1,
+  "progress": "0",
+  "text": "Turning the Scales"
+ },
+ {
+  "file": "turning_scales",
+  "line": 2,
+  "progress": "10",
+  "text": "Armorer Rolgam in Freetown is trying to recover the lost imperial art of crafting fire-proof armor. He is unsure about the results, but is willing to try if I bring him [BLUE]5 Fire Drake scales[]."
+ },
+ {
+  "file": "turning_scales",
+  "line": 3,
+  "progress": "20",
+  "text": "Armorer Rolgam in Freetown is trying to recover the lost imperial art of crafting fire-proof armor. He is unsure about the results, but is willing to try if I bring him [BLUE]5 Fire Drake scales[]. Legends say, Red Drakes are worshipped by goblins somewhere in Gorx Lair, near Northwest Sagar Forest. Of course, it could all be myth."
+ },
+ {
+  "file": "turning_scales",
+  "line": 4,
+  "progress": "100",
+  "text": "Armorer Rolgam in Freetown made a Red Leather shield for me."
+ },
+ {
+  "file": "want_letter_back",
+  "line": 1,
+  "progress": "0",
+  "text": "A mysterious letter"
+ },
+ {
+  "file": "want_letter_back",
+  "line": 2,
+  "progress": "5",
+  "text": "I received a mysterious letter from Magistrate Odo Steinz in the city of [BLUE]New Garand[]. It summons me to receive an important inheritance."
+ },
+ {
+  "file": "want_letter_back",
+  "line": 3,
+  "progress": "10",
+  "text": "I received a mysterious letter from Magistrate Odo Steinz in the city of [BLUE]New Garand[]. It summons me to receive an inheritance, but a thief called [BLUE]Adaon[] stole the letter from me."
+ },
+ {
+  "file": "want_letter_back",
+  "line": 4,
+  "progress": "20",
+  "text": "Adaon has been in Kingsbridge, and he still has the letter he stole from me. He seems to be spending my money happily... And fast. I should find him in [BLUE]New Garand[] before he grabs my inheritance and disappears. I should find Magistrate Steinz's house in [BLUE]New Garand[] before he does."
+ },
+ {
+  "file": "want_letter_back",
+  "line": 5,
+  "progress": "22",
+  "text": "That damn Adaon is already in New Garand and probably trying to get my money. I should find Magistrate Odo Steinz before he does. But, where? It is a very big town. I was told to ask for directions."
+ },
+ {
+  "file": "want_letter_back",
+  "line": 6,
+  "progress": "30",
+  "text": "I finally learned where is the house of the Magistrate. It is on the East side of town, a large manor, near the north wall. I hope Adaon hasn't got my money yet!"
+ },
+ {
+  "file": "want_letter_back",
+  "line": 7,
+  "progress": "40",
+  "text": "It's a trap! I was captured and stripped of all my equipment. I have no idea where I am..."
+ },
+ {
+  "file": "want_letter_back",
+  "line": 8,
+  "progress": "50",
+  "text": "Thanks to Amarisa the Traveller I escaped my cell, but I am still in an unknown and dangerous place."
+ },
+ {
+  "file": "want_letter_back",
+  "line": 9,
+  "progress": "60",
+  "text": "I found Adaon, that damn thief. I am not sure if I can trust him at all, but he says the cell to his cage is in the room to the west."
+ },
+ {
+  "file": "want_letter_back",
+  "line": 10,
+  "progress": "70",
+  "text": "I decided to free Adaon. Maybe he can be useful to me,a fter all."
+ },
+ {
+  "file": "want_letter_back",
+  "line": 11,
+  "progress": "77",
+  "text": "I am close to escape the cultists, but they appear to have a leader that won't make it easy for me."
+ },
+ {
+  "file": "want_letter_back",
+  "line": 12,
+  "progress": "80",
+  "text": "I defeated their leader . The name of this cruel organization is The Forsaken, and they're ruled by the Magister, which probably is the man who drugged me. I wonder if he's still in the Magistrate's house..."
+ },
+ {
+  "file": "want_letter_back",
+  "line": 13,
+  "progress": "90",
+  "text": "I found my way out of the dungeon, through the city sewers. Adaon has left, but I can have him to join my party in the future. Now, I wonder if that 'Magister' is still in the Magistrate's house..."
+ },
+ {
+  "file": "want_letter_back",
+  "line": 14,
+  "progress": "100",
+  "text": "The inheritance was not at all what I expected. I was captured by The Forsaken but I escaped. There was a key magically hidden in the magistrate's house, which only appeared when I approached."
+ },
+ {
+  "file": "warrior_honor",
+  "line": 1,
+  "progress": "0",
+  "text": "A Warrior's Honor"
+ },
+ {
+  "file": "warrior_honor",
+  "line": 2,
+  "progress": "10",
+  "text": "Grissenda, a Warrior from Kingsbridge, tried to recover a valuable magical ring from her ancestors. She entered the ruins in Northern Bluemist and faced the undead, but she failed, and seems to be demoralized by it."
+ },
+ {
+  "file": "warrior_honor",
+  "line": 3,
+  "progress": "20",
+  "text": "I recovered Grissenda's ring, I should tell her. She's probably still waiting, by the ruins' entrance, in Northern Bluemist."
+ },
+ {
+  "file": "warrior_honor",
+  "line": 4,
+  "progress": "100",
+  "text": "I completed the quest, and decided to keep the ring. Grissenda seemed relieved."
+ },
+ {
+  "file": "warrior_honor",
+  "line": 5,
+  "progress": "110",
+  "text": "I returned the ring to Grissenda. She was very grateful, and told me I can count on her help whenever I want to. She usually dwells in Kingsbridge."
+ },
+ {
+  "file": "web_terror",
+  "line": 1,
+  "progress": "0",
+  "text": "A Web of Terror"
+ },
+ {
+  "file": "web_terror",
+  "line": 2,
+  "progress": "5",
+  "text": "While I was at an outpost in the South Jabal Hills, a large group of spiders attacked!"
+ },
+ {
+  "file": "web_terror",
+  "line": 3,
+  "progress": "10",
+  "text": "Centurion Kanum told me the disturbing events happening in Jabal Hills, as well as how an elite squad of explorers was wiped out. The only survivor, Decurion Sargos, was maimed and lost an eye. What is worse, became insane, and disappeared."
+ },
+ {
+  "file": "web_terror",
+  "line": 4,
+  "progress": "20",
+  "text": "Centurion Kanum told me the disturbing events happening in Jabal Hills, as well as how an elite squad of explorers was wiped out. The only survivor, Decurion Sargos, was maimed and lost an eye. What is worse, became insane, and disappeared. I found the grotto and the dead scouts, but a magical barrier blocks my way in."
+ },
+ {
+  "file": "web_terror",
+  "line": 5,
+  "progress": "25",
+  "text": "I found Decurion Sargos, he is now a crazed homeless in the streets of New Garand. I angried him and now we have to fight!"
+ },
+ {
+  "file": "web_terror",
+  "line": 6,
+  "progress": "30",
+  "text": "I found Decurion Sargos, he is now a crazed homeless in the streets of New Garand. I convinced him to meet me in the South Jabal grove, because he knows how to open a magical barrier that, otherwise, is impassable."
+ },
+ {
+  "file": "web_terror",
+  "line": 7,
+  "progress": "40",
+  "text": "Sargos has opened the magical barrier, now I can step inside the grove, and find out what evil power lurks inside."
+ },
+ {
+  "file": "web_terror",
+  "line": 8,
+  "progress": "50",
+  "text": "Sargos is a traitor! There was a spiderlike creature inside his skull, and he brought me here as a sacrifice, in exchange of his own freedom. Now I am trapped, and can't get out."
+ },
+ {
+  "file": "web_terror",
+  "line": 9,
+  "progress": "60",
+  "text": "I fought Sargos, and took from him a strange magical gem before he fled."
+ },
+ {
+  "file": "web_terror",
+  "line": 10,
+  "progress": "70",
+  "text": "I opened the magical barrier, now I can step inside the grove, and find out what evil power lurks inside."
+ },
+ {
+  "file": "web_terror",
+  "line": 11,
+  "progress": "80",
+  "text": "I met the evil Varannari sorceress that is at the center of the web of terror... Lady Xidar."
+ },
+ {
+  "file": "web_terror",
+  "line": 12,
+  "progress": "90",
+  "text": "I defeated Lady Xidar, and should probably report back to Centurion Kanum"
+ },
+ {
+  "file": "web_terror",
+  "line": 13,
+  "progress": "100",
+  "text": "I stopped the menace from the crazed Varannari druids. They may still lurk in the grotto, but they are weakened enough to not be a danger to the Kingdoms."
+ },
+ {
+  "file": "where_is_amarisa",
+  "line": 1,
+  "progress": "0",
+  "text": "Where is Amarisa?"
+ },
+ {
+  "file": "where_is_amarisa",
+  "line": 2,
+  "progress": "10",
+  "text": "A young magician called Amarisa used her last power to help me escape from my cell. I am her only hope now... I should try to reach her cell before they take her away."
+ },
+ {
+  "file": "where_is_amarisa",
+  "line": 3,
+  "progress": "20",
+  "text": "A young magician called Amarisa used her last power to help me escape from my cell. But when I finally reached her cell, she was gone. Probably The Forsaken took her away."
+ },
+ {
+  "file": "where_is_amarisa",
+  "line": 4,
+  "progress": "25",
+  "text": "The Librarian Rur'âzar is researching for me about The Forsaken, which I believe is holding Amarisa captive. He asked me for three Fire Salts in exchange, and warned it could take him a while to find the information."
+ },
+ {
+  "file": "where_is_amarisa",
+  "line": 5,
+  "progress": "30",
+  "text": "\"I found some information about The Forsaken, the strange organization that abducted me and still keeps Amarisa captive. The clues point at the Wyvern Mountains; However, the information is decades old, so it may very well be an abandoned lair from these strange Forsaken.\""
+ },
+ {
+  "file": "where_is_amarisa",
+  "line": 6,
+  "progress": "40",
+  "text": "Amarisa is my sister, and the Forsaken plan to use her blood in a ritual that will destroy our world. I must find her and save her!"
+ },
+ {
+  "file": "where_is_amarisa",
+  "line": 7,
+  "progress": "50",
+  "text": "The only way to find my sister is to reconstruct the Eye of Tol. Once I find the location of the Forsaken, I will find her as well."
+ },
+ {
+  "file": "where_is_amarisa",
+  "line": 8,
+  "progress": "60",
+  "text": "I found out that Amarisa tried to sabotage the Magister's plans, but she failed and was locked up. At least she is still alive."
+ },
+ {
+  "file": "where_is_amarisa",
+  "line": 9,
+  "progress": "70",
+  "text": "I found Amarisa! She's locked in a cell, inside the Ark. I must disable the magical barrier holding her, somehow."
+ },
+ {
+  "file": "where_is_amarisa",
+  "line": 10,
+  "progress": "80",
+  "text": "I released Amarisa. Now I should talk to her."
+ },
+ {
+  "file": "where_is_amarisa",
+  "line": 11,
+  "progress": "85",
+  "text": "I decided to ask Amarisa to join me for the final battle with the Magister."
+ },
+ {
+  "file": "where_is_amarisa",
+  "line": 12,
+  "progress": "90",
+  "text": "It turns out Amarisa has chosen to side with the humans, and escaped to try to destroy the Gate. I must stop her before she succeeds."
+ },
+ {
+  "file": "where_is_amarisa",
+  "line": 13,
+  "progress": "95",
+  "text": "It turns out Amarisa has chosen to side with the humans, and escaped to try to destroy the Gate. I am fighting her now."
+ },
+ {
+  "file": "where_is_amarisa",
+  "line": 14,
+  "progress": "100",
+  "text": "I saved my sister Amarisa. I hope I can save the world and get to know her better."
+ },
+ {
+  "file": "where_is_amarisa",
+  "line": 15,
+  "progress": "200",
+  "text": "Amarisa died. It might have been a mistake to put her life in such a risk."
+ },
+ {
+  "file": "where_is_amarisa",
+  "line": 16,
+  "progress": "210",
+  "text": "I defeated Amarisa, she won't stand in my way to become immortal and abandon this dying world."
+ },
+ {
+  "file": "where_is_giles",
+  "line": 1,
+  "progress": "0",
+  "text": "Where is Giles"
+ },
+ {
+  "file": "where_is_giles",
+  "line": 2,
+  "progress": "10",
+  "text": "Latimer, a wealthy trader from New Garand, is in search of his son Giles, who disappeared five years ago. He offers [BLUE]1500 gold coins[] but only if he is found alive. The only clue he gave me is that a girl called Chea disappeared as well. Chea is not a very common name... but I am sure I have met a Chea before, somewhere."
+ },
+ {
+  "file": "where_is_giles",
+  "line": 3,
+  "progress": "50",
+  "text": "I found Chea, she is now a guard in Lannegar. She told me that she and Giles were adventurers, and together entered a cave in North Sagar Forest. Some large creature was inside, and she fled, but Giles never came out."
+ },
+ {
+  "file": "where_is_giles",
+  "line": 4,
+  "progress": "60",
+  "text": "I found Giles' remains... I could return them to his father Latimer, in New Garand, but I doubt he'll reward me, and I am not sure how the man will react. Maybe I should talk to Chea instead, in Lannegar. I must make a decision."
+ },
+ {
+  "file": "where_is_giles",
+  "line": 5,
+  "progress": "90",
+  "text": "I gave Giles' remains to Chea, she convinced me that the best thing to do now is lie to his father Latimer in New Garand, and tell him that Giles is alive. She gave me an old letter he wrote, so his father will believe me. I should do that now."
+ },
+ {
+  "file": "where_is_giles",
+  "line": 6,
+  "progress": "100",
+  "text": "Latimer rewarded me for returning his son's remains."
+ },
+ {
+  "file": "where_is_giles",
+  "line": 7,
+  "progress": "110",
+  "text": "I returned Giles remains to Chea, and lied to his father, telling him he is still alive."
+ },
+ {
+  "file": "where_is_giles",
+  "line": 8,
+  "progress": "-100",
+  "text": "I made Latimer so furious, that he won't hire me to find his son."
+ },
+ {
+  "file": "where_is_giles",
+  "line": 9,
+  "progress": "200",
+  "text": "I made Latimer so furious, that he won't hire me to find his son."
+ },
+ {
+  "file": "where_put_sword",
+  "line": 1,
+  "progress": "0",
+  "text": "Where did I put my sword..."
+ },
+ {
+  "file": "where_put_sword",
+  "line": 2,
+  "progress": "10",
+  "text": "Sir Andrew Mason, in New Garand, lost his ancestral blade to some unknown thieves. I haven't accepted this mission yet."
+ },
+ {
+  "file": "where_put_sword",
+  "line": 3,
+  "progress": "20",
+  "text": "Sir Andrew Mason, in New Garand, lost his ancestral blade to some unknown thieves, I promised I'd try to find it. All I know is they vanished while being pursued."
+ },
+ {
+  "file": "where_put_sword",
+  "line": 4,
+  "progress": "50",
+  "text": "I found Sir Mason's sword in the sewers, I should return it to him. He can be found near New Garand's temple."
+ },
+ {
+  "file": "where_put_sword",
+  "line": 5,
+  "progress": "100",
+  "text": "I gave back Sir Mason his sword. I hope he's more careful where he puts it from now on."
+ },
+ {
+  "file": "wild_mystery",
+  "line": 1,
+  "progress": "0",
+  "text": "A Wild Mystery"
+ },
+ {
+  "file": "wild_mystery",
+  "line": 2,
+  "progress": "10",
+  "text": "Many savage beast around the northern course of the Bluemist River are behaving strangely. Mirmek, coyotes, both of them seem to be more agressive than usual."
+ },
+ {
+  "file": "wild_mystery",
+  "line": 3,
+  "progress": "20",
+  "text": "I learned that some grey-robed figure may be behind the strange behavior of the beasts around the northern course of the Bluemist River."
+ },
+ {
+  "file": "wild_mystery",
+  "line": 4,
+  "progress": "90",
+  "text": "I found the Varannari Druid responsible of the agressive animal behavior near Rhöneis."
+ },
+ {
+  "file": "wild_mystery",
+  "line": 5,
+  "progress": "100",
+  "text": "I defeated the Varannari Druid responsible of the agressive animal behavior near Rhöneis. Now I'm sure there will be less coyote packs assaulting travellers."
+ },
+ {
+  "file": "wolf_hunt",
+  "line": 1,
+  "progress": "0",
+  "text": "I am the best hunter in the world..."
+ },
+ {
+  "file": "wolf_hunt",
+  "line": 2,
+  "progress": "10",
+  "text": "Deep-Shadow, the Varannari in Sagar forest challenged me to bring a perfect wolf pelt, to prove I am a better hunter than him. I'm not sure what will happen if I bring it, to be honest..."
+ },
+ {
+  "file": "wolf_hunt",
+  "line": 3,
+  "progress": "100",
+  "text": "The Varannari were impressed at my wolf-hunting skills"
+ },
+ {
+  "file": "world_stage",
+  "line": 1,
+  "progress": "0",
+  "text": "The World is a Stage"
+ },
+ {
+  "file": "world_stage",
+  "line": 2,
+  "progress": "10",
+  "text": "I walked into a play being represented in New Anthur, and Cordelia pretended I was one of the actors."
+ },
+ {
+  "file": "world_stage",
+  "line": 3,
+  "progress": "15",
+  "text": "I walked into a play being represented in New Anthur, and Cordelia pretended I was one of the actors. However I stopped the act quickly, as I don't like such things. A spectator called Polonius seemed to be happy about the outcome."
+ },
+ {
+  "file": "world_stage",
+  "line": 4,
+  "progress": "20",
+  "text": "I walked into a play being represented in New Anthur, and Cordelia pretended I was one of the actors. I pretended as well, playing the role of a character. I should probably talk to her."
+ },
+ {
+  "file": "world_stage",
+  "line": 5,
+  "progress": "30",
+  "text": "\"I must find the missing actor Laertes in New Anthur. He said this representation of \"\"Sir Rudolph and the Manticore\"\" would be the best ever, and people would talk of it for generations, but he didn't explain why. Then he entered New Anthur and hasn't returned yet.\""
+ },
+ {
+  "file": "world_stage",
+  "line": 6,
+  "progress": "40",
+  "text": "I am trying to locate Laertes the actor, missing from New Anthur. I found an old man in the docks that met him and told him about an islet in which long ago there was a Manticore nest. Laertes asked the man for directions and sailed away."
+ },
+ {
+  "file": "world_stage",
+  "line": 7,
+  "progress": "50",
+  "text": "I have decided to sail to the islet and try to find Laertes. The old man agreed to carry me on his boat. I hope I can find him alive."
+ },
+ {
+  "file": "world_stage",
+  "line": 8,
+  "progress": "55",
+  "text": "I have met Laertes and challenged him to a duel to the death."
+ },
+ {
+  "file": "world_stage",
+  "line": 9,
+  "progress": "60",
+  "text": "I have met Laertes. Much like Sir Rudolph in the play, he has found that the corpse of the Manticore he sought, was actually a live Manticore! He refuses to leave without trying to hunt the beast."
+ },
+ {
+  "file": "world_stage",
+  "line": 10,
+  "progress": "70",
+  "text": "Laertes and I defeated the monster together! He returned to the Islander camp in New Anthur, I should probably talk to him once he is back to the stage."
+ },
+ {
+  "file": "world_stage",
+  "line": 11,
+  "progress": "100",
+  "text": "Laertes returned and is now preparing the ultimate performance."
+ },
+ {
+  "file": "world_stage",
+  "line": 12,
+  "progress": "110",
+  "text": "Laertes died... I should probably tell Cordelia about this. Or maybe that aristocrat Polonius would be more grateful for hearing the news."
+ },
+ {
+  "file": "world_stage",
+  "line": 13,
+  "progress": "200",
+  "text": "The islanders in New Anthur lost their main actor, and will be forced to leave their camp soon."
+ }
+]

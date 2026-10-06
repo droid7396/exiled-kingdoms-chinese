@@ -1,0 +1,782 @@
+[
+ {
+  "src": "world/regions.txt",
+  "id": "w_varsilia",
+  "name": "Western Varsilia"
+ },
+ {
+  "src": "world/regions.txt",
+  "id": "n_varsilia",
+  "name": "Northern Varsilia"
+ },
+ {
+  "src": "world/regions.txt",
+  "id": "s_varsilia",
+  "name": "Southern Varsilia"
+ },
+ {
+  "src": "world/regions.txt",
+  "id": "e_varsilia",
+  "name": "Eastern Varsilia"
+ },
+ {
+  "src": "world/regions.txt",
+  "id": "c_mercia",
+  "name": "Central Mercia"
+ },
+ {
+  "src": "world/regions.txt",
+  "id": "e_mercia",
+  "name": "Eastern Mercia"
+ },
+ {
+  "src": "world/regions.txt",
+  "id": "c_ilmara",
+  "name": "Central Ilmara"
+ },
+ {
+  "src": "world/regions.txt",
+  "id": "e_ilmara",
+  "name": "Eastern Ilmara"
+ },
+ {
+  "src": "world/regions.txt",
+  "id": "wild",
+  "name": "Wildlands"
+ },
+ {
+  "src": "world/regions.txt",
+  "id": "n_wild",
+  "name": "Northern Wildlands"
+ },
+ {
+  "src": "world/regions.txt",
+  "id": "e_wild",
+  "name": "Eastern Wildlands"
+ },
+ {
+  "src": "world/regions.txt",
+  "id": "inori",
+  "name": "Inori Desert"
+ },
+ {
+  "src": "world/regions.txt",
+  "id": "s_wild",
+  "name": "Southern Wildlands"
+ },
+ {
+  "src": "world/regions.txt",
+  "id": "w_thuram",
+  "name": "Western Thuram"
+ },
+ {
+  "src": "world/regions.txt",
+  "id": "e_thuram",
+  "name": "Eastern Thuram"
+ },
+ {
+  "src": "world/regions.txt",
+  "id": "w_ilmara",
+  "name": "Western Ilmara"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "E9",
+  "name": "South Jabal Hills"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "E10",
+  "name": "North Jabal Hills"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "F8",
+  "name": "Sydarun Oasis"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "F9",
+  "name": "Deadwood"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "F10",
+  "name": "Rhöneis Plains"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "G8",
+  "name": "Northern Inori"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "G9",
+  "name": "Kingsbridge"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "G10",
+  "name": "Northern Bluemist River"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "H8",
+  "name": "New Garand Farmlands"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "H9",
+  "name": "Southern Bluemist River"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "H10",
+  "name": "Lannegar Valley"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "H11",
+  "name": "Northwest Sagar Forest"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "I8",
+  "name": "Imperial Coast"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "I9",
+  "name": "Mount Storme"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "I10",
+  "name": "South Sagar Forest"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "I11",
+  "name": "North Sagar Forest"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "NG",
+  "name": "New Garand"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "FT",
+  "name": "Freetown"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "NI",
+  "name": "Nivarian"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "G11",
+  "name": "Crimson Hills"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "D10",
+  "name": "Nekhar Valley"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "D9",
+  "name": "Iron Valley"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "D8",
+  "name": "Zamohr Mountains"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "E8",
+  "name": "The Trollfens"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "I12",
+  "name": "Wyvern Mountains"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "J11",
+  "name": "Wyverntail Valley"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "J10",
+  "name": "New Anthur Bay"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "J9",
+  "name": "Steel Coast"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "J8",
+  "name": "Nilomar Cape"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "G7",
+  "name": "Great Inori"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "D11",
+  "name": "Fögas Forest"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "E11",
+  "name": "Great Plains"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "F11",
+  "name": "Nivar Wetlands"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "E12",
+  "name": "Thyr Ridges"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "D12",
+  "name": "Iross Highlands"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "H10_mine",
+  "name": "Lannegar Mine"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "G11_tower",
+  "name": "Abandoned Tower"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "D11_abbey",
+  "name": "Abbey of Saint Admus"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "D8_castle",
+  "name": "Castle Bluerock"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "E12_cave",
+  "name": "Cave of Echoes"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "E10_tower",
+  "name": "Tower of Tremadan"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "G10_cave",
+  "name": "Deepburrow Cave"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "D11_abbey_cave",
+  "name": "Hellish Cave"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "FT_seventh",
+  "name": "The Seventh House"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "F11_tomb",
+  "name": "Azagul tomb"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "D12_cave",
+  "name": "Lambar Cave"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "G7_tomb",
+  "name": "Irazur Tomb"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "NG_sewers",
+  "name": "New Garand Sewers"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "D9_crypt",
+  "name": "Mercian Royal Crypt"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "F9_mausoleum",
+  "name": "Mausoleum"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "E11_tower",
+  "name": "Great Plains Enclave"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "I12_cave",
+  "name": "Xialdar Cave"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "NG_temple",
+  "name": "New Garand's Temple"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "G10_tomb",
+  "name": "Kleyou tomb"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "E10_maze_1",
+  "name": "Maze of Lamth"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "FT_library",
+  "name": "The Grey Library"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "NG_loreseekers",
+  "name": "The Great Library"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "FT_warriors",
+  "name": "The Warrior's Guild"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "J8_cave",
+  "name": "Bloodpaw Cave"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "D8_cave1",
+  "name": "Nilorth Cave"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "F8_cave",
+  "name": "Deepsands Cave"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "H8_tomb",
+  "name": "Nayau Tomb"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "H11_cave_1",
+  "name": "Gorx lair"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "J9_castle",
+  "name": "Imperial Fortress"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "J10_island",
+  "name": "A Small Islet"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "J9_cave",
+  "name": "Askatir Mine"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "I12_cauldron",
+  "name": "The Deep Cauldron"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "J11_tower",
+  "name": "Wyverntail Complex"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "E9_cave",
+  "name": "Jabal Grotto"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "H10_tomb",
+  "name": "Ydaya tomb"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "G9_cave",
+  "name": "Bandit Hideout"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "F10_cave",
+  "name": "Rhonata Cave"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "NG_house",
+  "name": "New Garand House"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "H9_lair",
+  "name": "Urzuganar Lair"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "NG_castle",
+  "name": "Royal Castle yard"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "I10_tutorial",
+  "name": "A forest road"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "NG_dungeon",
+  "name": "Unknown dungeon"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "NG_warriors",
+  "name": "The Warrior's Guild"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "I11_cave",
+  "name": "Merdxan cave"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "E10_cave_fire",
+  "name": "The Flame Pits"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "E8_cave",
+  "name": "Gurguth Cave"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "D9_tower",
+  "name": "Iron Enclave"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "NG_house_1",
+  "name": "Magistrate Steinz's House"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "I10_tower",
+  "name": "Sagar Enclave"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "G8_tower",
+  "name": "Inori Enclave"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "G8_hideout",
+  "name": "Abandoned smuggler hideout"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "NI_hall",
+  "name": "The Hall of Wisdom"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "NI_warriors",
+  "name": "Warriors' Guild"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "H7",
+  "name": "Eastern Inori"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "H6",
+  "name": "Golden Cove"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "G6",
+  "name": "Emerald Valley"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "G6_cave",
+  "name": "Kurgua Cave"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "H7_temple",
+  "name": "Forgotten Temple"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "H6_bank",
+  "name": "Golden Cove Bank"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "H6_manor",
+  "name": "Governor's Manor"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "NI_house",
+  "name": "Nivarian House"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "H5",
+  "name": "Dragon Coast"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "H4",
+  "name": "Southern Dragon Mountains"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "H3",
+  "name": "Ashen Wastes"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "I3",
+  "name": "Ashen Cape"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "H4_cave",
+  "name": "Bappasalar Cave"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "H3_cave",
+  "name": "Sunken Citadel"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "I3_ark",
+  "name": "Ark of Lothasan"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "I3_ark2",
+  "name": "Ark of Lothasan - Upper Deck"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "I3_ark3",
+  "name": "Ark of Lothasan - Reactor"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "E10_maze_2",
+  "name": "Maze of Lamth, level 2"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "E10_cave_ice",
+  "name": "Frozen Depths"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "I13",
+  "name": "Icemist Fjord"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "H13",
+  "name": "White Plains"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "G13",
+  "name": "Deepfrost Glacier"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "H12",
+  "name": "Whitetower Valley"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "IM",
+  "name": "Icemist"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "IM_sewer",
+  "name": "Sewer of Horrors"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "G13_tomb",
+  "name": "Desecrated Ruins"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "IM_manor",
+  "name": "Greyrune Manor"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "IM_underlevel",
+  "name": "Icemist Underlevels"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "IM_planeoffire",
+  "name": "Elemental Plane of Fire"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "H4_test",
+  "name": "Test Area"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "D13",
+  "name": "Sanctuary Peak"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "C13",
+  "name": "Mount Orogg"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "J7",
+  "name": "Western Korne"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "K7",
+  "name": "Eastern Korne"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "I9_castle",
+  "name": "Castle Storme"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "I9_temple",
+  "name": "Temple of Blood"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "FT_arena",
+  "name": "Freetown Arena"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "D13_sanctuary",
+  "name": "Sanctuary of Irossia"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "C13_pits",
+  "name": "Forbidden Pit"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "K7_cave",
+  "name": "Heart of Korne"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "K7_observatory",
+  "name": "The Observatory"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "K11",
+  "name": "Solligan Stripe"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "J12",
+  "name": "Eastern Wyvern Mountains"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "F6",
+  "name": "Gorge of the Silent Kings"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "C10",
+  "name": "Varann Woodland"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "C11",
+  "name": "Elder Forest"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "C12",
+  "name": "Backwoods Coven"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "J12_castle",
+  "name": "Forsaken Fortress"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "H10_mine_2",
+  "name": "Haunted Galleries"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "H10_mine_3",
+  "name": "City of the Ancients"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "F6_temple",
+  "name": "Temple of the Sleepers"
+ },
+ {
+  "src": "world/areas.txt",
+  "id": "C12_cave",
+  "name": "The Undergrove"
+ }
+]

@@ -1,0 +1,3627 @@
+[
+ {
+  "id": "100",
+  "name": "Leather Cuirass",
+  "desc": "Not the best armor in the world, but hey, it's cheap."
+ },
+ {
+  "id": "101",
+  "name": "Leather Leggings",
+  "desc": "Good idea to protect yourself from the waist down. That's where goblins hit."
+ },
+ {
+  "id": "102",
+  "name": "Leather Bracers",
+  "desc": "Makes you look like a badass."
+ },
+ {
+  "id": "103",
+  "name": "Leather Boots",
+  "desc": "Stylish! Tall leather boots are always in."
+ },
+ {
+  "id": "104",
+  "name": "Leather Cap",
+  "desc": "It makes your head look fat."
+ },
+ {
+  "id": "105",
+  "name": "Hardened Leather Cuirass",
+  "desc": "Boiled, hardened leather. Sure it's great protection, but it smells funny."
+ },
+ {
+  "id": "106",
+  "name": "Hardened Leather Leggings",
+  "desc": "Boiled, hardened leather. Sure it's great protection, but it smells funny."
+ },
+ {
+  "id": "107",
+  "name": "Hardened Leather Gauntlets",
+  "desc": "Boiled, hardened leather. Sure it's great protection, but it smells funny."
+ },
+ {
+  "id": "108",
+  "name": "Hardened Leather Boots",
+  "desc": "Boiled, hardened leather. Sure it's great protection, but it smells funny."
+ },
+ {
+  "id": "109",
+  "name": "Hardened Leather Cap",
+  "desc": "Boiled, hardened leather. Sure it's great protection, but it smells funny."
+ },
+ {
+  "id": "110",
+  "name": "Chainmail Shirt",
+  "desc": "Protects you, and makes you look cool. Clanks a little, but you get used to that."
+ },
+ {
+  "id": "111",
+  "name": "Chainmail Leggings",
+  "desc": "Protects you, and makes you look cool. Clanks a little, but you get used to that."
+ },
+ {
+  "id": "112",
+  "name": "Chainmail Gauntlets",
+  "desc": "Protects you, and makes you look cool. Clanks a little, but you get used to that."
+ },
+ {
+  "id": "113",
+  "name": "Chainmail Boots",
+  "desc": "Protects you, and makes you look cool. Clanks a little, but you get used to that."
+ },
+ {
+  "id": "114",
+  "name": "Chainmail Coif",
+  "desc": "Protects you, and makes you look cool. Clanks a little, but you get used to that."
+ },
+ {
+  "id": "115",
+  "name": "Platemail Vest",
+  "desc": "Heavy metal plates linked with mail."
+ },
+ {
+  "id": "116",
+  "name": "Platemail Leggings",
+  "desc": "Heavy metal plates linked with mail."
+ },
+ {
+  "id": "117",
+  "name": "Platemail Gauntlets",
+  "desc": "Heavy metal plates linked with mail."
+ },
+ {
+  "id": "118",
+  "name": "Platemail Boots",
+  "desc": "Heavy metal plates linked with mail."
+ },
+ {
+  "id": "119",
+  "name": "Knight Helm",
+  "desc": "Heavy metal plates linked with mail."
+ },
+ {
+  "id": "120",
+  "name": "Buckler",
+  "desc": "You can't call this a shield with a straight face."
+ },
+ {
+  "id": "121",
+  "name": "Iron Shield",
+  "desc": "An iron shield."
+ },
+ {
+  "id": "122",
+  "name": "Forest Chain Shirt",
+  "desc": "Light and flexible armor."
+ },
+ {
+  "id": "123",
+  "name": "Forest Chain Leggings",
+  "desc": "Light and flexible armor."
+ },
+ {
+  "id": "124",
+  "name": "Forest Chain Gauntlets",
+  "desc": "Light and flexible armor."
+ },
+ {
+  "id": "125",
+  "name": "Forest Chain Boots",
+  "desc": "Light and flexible armor."
+ },
+ {
+  "id": "126",
+  "name": "Forest Chain Coif",
+  "desc": "Light and flexible armor."
+ },
+ {
+  "id": "127",
+  "name": "Blessed Chain Shirt",
+  "desc": "What the good guys wear..."
+ },
+ {
+  "id": "128",
+  "name": "Blessed Chain Leggings",
+  "desc": "Even pants can be righteous."
+ },
+ {
+  "id": "129",
+  "name": "Blessed Chain Gauntlets",
+  "desc": "Smack or bless, your choice."
+ },
+ {
+  "id": "130",
+  "name": "Blessed Chain Boots",
+  "desc": "Perfect for kicking the ass of evil!"
+ },
+ {
+  "id": "131",
+  "name": "Blessed Chain Coif",
+  "desc": "Important, because the bad guys are after your head..."
+ },
+ {
+  "id": "132",
+  "name": "Trollskin Cuirass",
+  "desc": "This can stop most toxic attacks. But it can't stop a few unwelcoming stares."
+ },
+ {
+  "id": "133",
+  "name": "Trollskin Leggings",
+  "desc": "This can stop most toxic attacks. But it can't stop a few unwelcoming stares."
+ },
+ {
+  "id": "134",
+  "name": "Trollskin Gauntlets",
+  "desc": "This can stop most toxic attacks. But it can't stop a few unwelcoming stares."
+ },
+ {
+  "id": "135",
+  "name": "Trollskin Boots",
+  "desc": "This can stop most toxic attacks. But it can't stop a few unwelcoming stares."
+ },
+ {
+  "id": "136",
+  "name": "Trollskin Cap",
+  "desc": "This can stop most toxic attacks. But it can't stop a few unwelcoming stares."
+ },
+ {
+  "id": "137",
+  "name": "Tolassian Chain Shirt",
+  "desc": "Light and flexible armor."
+ },
+ {
+  "id": "138",
+  "name": "Tolassian Chain Leggings",
+  "desc": "Light and flexible armor."
+ },
+ {
+  "id": "139",
+  "name": "Tolassian Chain Gauntlets",
+  "desc": "Light and flexible armor."
+ },
+ {
+  "id": "140",
+  "name": "Tolassian Chain Boots",
+  "desc": "Light and flexible armor."
+ },
+ {
+  "id": "141",
+  "name": "Tolassian Chain Coif",
+  "desc": "Light and flexible armor."
+ },
+ {
+  "id": "142",
+  "name": "Blessed Platemail Vest",
+  "desc": "What the good guys wear..."
+ },
+ {
+  "id": "143",
+  "name": "Blessed Platemail Leggings",
+  "desc": "Even pants can be righteous."
+ },
+ {
+  "id": "144",
+  "name": "Blessed Platemail Gauntlets",
+  "desc": "Smack or bless, your choice."
+ },
+ {
+  "id": "145",
+  "name": "Blessed Platemail Boots",
+  "desc": "Perfect for kicking the ass of evil!"
+ },
+ {
+  "id": "146",
+  "name": "Assassin's Cuirass",
+  "desc": "Light and flexible dark leather armor."
+ },
+ {
+  "id": "147",
+  "name": "Assassin's Leggings",
+  "desc": "Light and flexible dark leather armor."
+ },
+ {
+  "id": "148",
+  "name": "Assassin's Gauntlets",
+  "desc": "Light and flexible dark leather armor."
+ },
+ {
+  "id": "149",
+  "name": "Assassin's Boots",
+  "desc": "Light and flexible dark leather armor."
+ },
+ {
+  "id": "150",
+  "name": "Assassin's Hood",
+  "desc": "Light and flexible dark leather armor."
+ },
+ {
+  "id": "151",
+  "name": "Legion Breastplate",
+  "desc": "\"Mercian plate is considered the best; judging by this piece,  it really is.\""
+ },
+ {
+  "id": "152",
+  "name": "Legion Leggings",
+  "desc": "\"Mercian plate is considered the best; judging by this piece,  it really is.\""
+ },
+ {
+  "id": "153",
+  "name": "Legion Gauntlets",
+  "desc": "\"Mercian plate is considered the best; judging by this piece,  it really is.\""
+ },
+ {
+  "id": "154",
+  "name": "Legion Boots",
+  "desc": "\"Mercian plate is considered the best; judging by this piece,  it really is.\""
+ },
+ {
+  "id": "155",
+  "name": "Legion Helm",
+  "desc": "\"Mercian plate is considered the best; judging by this piece,  it really is.\""
+ },
+ {
+  "id": "156",
+  "name": "Velites Chain Shirt",
+  "desc": "Worn by the Legions' elite scouts."
+ },
+ {
+  "id": "157",
+  "name": "Velites Chain Leggings",
+  "desc": "Worn by the Legions' elite scouts."
+ },
+ {
+  "id": "158",
+  "name": "Velites Chain Gauntlets",
+  "desc": "Worn by the Legions' elite scouts."
+ },
+ {
+  "id": "159",
+  "name": "Velites Chain Boots",
+  "desc": "Worn by the Legions' elite scouts."
+ },
+ {
+  "id": "160",
+  "name": "Velites Chain Coif",
+  "desc": "Worn by the Legions' elite scouts."
+ },
+ {
+  "id": "161",
+  "name": "Blessed Platemail Helm",
+  "desc": "Wear this to dissipate all evil thoughts... Except pride."
+ },
+ {
+  "id": "162",
+  "name": "Myrosian Breastplate",
+  "desc": "Myros was a land of fabled blacksmiths, the finest in the Empire."
+ },
+ {
+  "id": "163",
+  "name": "Primal Ice Chain Shirt",
+  "desc": "It better not melt!"
+ },
+ {
+  "id": "164",
+  "name": "Primal Ice Chain Leggings",
+  "desc": "It better not melt!"
+ },
+ {
+  "id": "165",
+  "name": "Primal Ice Chain Gauntlets",
+  "desc": "It better not melt!"
+ },
+ {
+  "id": "166",
+  "name": "Primal Ice Chain Boots",
+  "desc": "It better not melt!"
+ },
+ {
+  "id": "167",
+  "name": "Primal Ice Chain Coif",
+  "desc": "It better not melt!"
+ },
+ {
+  "id": "168",
+  "name": "Myrosian Gauntlets",
+  "desc": "Myros was a land of fabled blacksmiths, the finest in the Empire."
+ },
+ {
+  "id": "169",
+  "name": "Myrosian Leggings",
+  "desc": "Myros was a land of fabled blacksmiths, the finest in the Empire."
+ },
+ {
+  "id": "170",
+  "name": "Myrosian Boots",
+  "desc": "Myros was a land of fabled blacksmiths, the finest in the Empire."
+ },
+ {
+  "id": "171",
+  "name": "Myrosian Helm",
+  "desc": "Myros was a land of fabled blacksmiths, the finest in the Empire."
+ },
+ {
+  "id": "172",
+  "name": "Traitor's Chain Shirt",
+  "desc": "Once worn by those that rebelled against the Empire."
+ },
+ {
+  "id": "173",
+  "name": "Traitor's Chain Leggings",
+  "desc": "Once worn by those that rebelled against the Empire."
+ },
+ {
+  "id": "174",
+  "name": "Traitor's Chain Gauntlets",
+  "desc": "Once worn by those that rebelled against the Empire."
+ },
+ {
+  "id": "175",
+  "name": "Traitor's Chain Boots",
+  "desc": "Once worn by those that rebelled against the Empire."
+ },
+ {
+  "id": "176",
+  "name": "Traitor's Chain Coif",
+  "desc": "Once worn by those that rebelled against the Empire."
+ },
+ {
+  "id": "180",
+  "name": "Shield of the Forge",
+  "desc": "Licking flames have blackened it around the edges."
+ },
+ {
+  "id": "181",
+  "name": "Shield of the Storm",
+  "desc": "It tickles your hand when you hold it. But in the right way."
+ },
+ {
+  "id": "182",
+  "name": "Charred Buckler",
+  "desc": "This thing is not very big or heavy, but it looks magical."
+ },
+ {
+  "id": "183",
+  "name": "Lesser Shield of Life",
+  "desc": "It displays the symbol of The Three."
+ },
+ {
+  "id": "184",
+  "name": "Steel Shield",
+  "desc": "Nothing like a wall of steel between you and harm."
+ },
+ {
+  "id": "185",
+  "name": "Hero's Shield",
+  "desc": "Ancient Imperial steel catches everyone's attention."
+ },
+ {
+  "id": "186",
+  "name": "Petrified Wood Buckler",
+  "desc": "Made of deadwood trunks, enchanted by unknown magic."
+ },
+ {
+  "id": "187",
+  "name": "Shield of Life",
+  "desc": "It displays the symbol of The Three."
+ },
+ {
+  "id": "188",
+  "name": "Red Leather Buckler",
+  "desc": "It repels away flames like no other material."
+ },
+ {
+  "id": "189",
+  "name": "Red Leather Shield",
+  "desc": "It repels away flames like no other material."
+ },
+ {
+  "id": "190",
+  "name": "Large Chitin Shield",
+  "desc": "It's better not to think what it's made of."
+ },
+ {
+  "id": "191",
+  "name": "Scutum",
+  "desc": "A deteriorated, yet usable shield used by Imperial infantry."
+ },
+ {
+  "id": "192",
+  "name": "Chitin Shield",
+  "desc": "It's better not to think what it's made of."
+ },
+ {
+  "id": "193",
+  "name": "Anointed Shield",
+  "desc": "It displays the symbol of The Three."
+ },
+ {
+  "id": "194",
+  "name": "Infernal Aegis",
+  "desc": "Weightless, yet indestructible."
+ },
+ {
+  "id": "201",
+  "name": "Goblin Flesh-Cutter",
+  "desc": "A wicked, crude weapon."
+ },
+ {
+  "id": "202",
+  "name": "Goblin Lizardskin Boots",
+  "desc": "Good protection against fire, but they make your steps sound funny."
+ },
+ {
+  "id": "203",
+  "name": "Thief's Blade",
+  "desc": "Stylish and fast silvery weapon."
+ },
+ {
+  "id": "204",
+  "name": "Sharp Orc Knife",
+  "desc": "Ugly and scary orc cleaver."
+ },
+ {
+  "id": "205",
+  "name": "Bone Shiv",
+  "desc": "A sharp pointy thing made of human bone. Probably not very sanitary..."
+ },
+ {
+  "id": "206",
+  "name": "Varaol's Boots",
+  "desc": "If you kick someone with this, they will surely notice."
+ },
+ {
+  "id": "207",
+  "name": "Lionskin Cuirass",
+  "desc": "Hear me roar!"
+ },
+ {
+  "id": "208",
+  "name": "Mystic Vest",
+  "desc": "Wizards find it awesome, everyone else... nerdy."
+ },
+ {
+  "id": "209",
+  "name": "Breastplate of the Forge",
+  "desc": "Wearing this, flames will just tickle. Okay, not really."
+ },
+ {
+  "id": "210",
+  "name": "Cowl of Fellowship",
+  "desc": "Wearing this, people smile at you all the time. Unsettling."
+ },
+ {
+  "id": "211",
+  "name": "Troll Cleaver",
+  "desc": "This horrid weapon can be wielded as a shortsword. If you're a madman."
+ },
+ {
+  "id": "212",
+  "name": "Heroic Helm",
+  "desc": "This ancient armor looks as if it was polished yesterday."
+ },
+ {
+  "id": "213",
+  "name": "Lionskin Leggings",
+  "desc": "Hear me roar!"
+ },
+ {
+  "id": "214",
+  "name": "Boots of Balance",
+  "desc": "If your adventuring career flops, with these, you can become a tightrope walker."
+ },
+ {
+  "id": "215",
+  "name": "Ironfoot Boots",
+  "desc": "They stick magically to the ground when you're not walking."
+ },
+ {
+  "id": "216",
+  "name": "Sharkskin Boots",
+  "desc": "You can make up all kind of stories if you wear these at the tavern."
+ },
+ {
+  "id": "217",
+  "name": "Ruined Dragoon Boots",
+  "desc": "The Imperial Dragoons were impervious to flames, legends say."
+ },
+ {
+  "id": "218",
+  "name": "The Undermother's Hide",
+  "desc": "No wonder she was so tough. But now it's yours!"
+ },
+ {
+  "id": "219",
+  "name": "Anointed Cuirass",
+  "desc": "Light armor. Not the best protection, but carries a powerful blessing."
+ },
+ {
+  "id": "400",
+  "name": "Dirk",
+  "desc": "Sharp blade,  always ready for an opening."
+ },
+ {
+  "id": "401",
+  "name": "Main Gauche",
+  "desc": "It might scratch more than one itch."
+ },
+ {
+  "id": "402",
+  "name": "Lightning Dirk",
+  "desc": "Enchanted to stun your enemies"
+ },
+ {
+  "id": "403",
+  "name": "Hatchet",
+  "desc": "If you think offense is the best defense..."
+ },
+ {
+  "id": "404",
+  "name": "Toecutter",
+  "desc": "Time to play dirty."
+ },
+ {
+  "id": "405",
+  "name": "Flaming Hatchet",
+  "desc": "Mist Hunters often use this weapon when they chase trolls."
+ },
+ {
+  "id": "406",
+  "name": "Bluesteel Dirk",
+  "desc": "Parrying dagger, always ready for a treacherous blow."
+ },
+ {
+  "id": "407",
+  "name": "Flaming Dirk",
+  "desc": "Parrying dagger with a fiery enchantment."
+ },
+ {
+  "id": "408",
+  "name": "Cursed Fang",
+  "desc": "Small, but loaded with wicked magic."
+ },
+ {
+  "id": "409",
+  "name": "Main Gauche of Shadows",
+  "desc": "The perfect weapon for the ambushing assassin."
+ },
+ {
+  "id": "501",
+  "name": "Iron Dagger",
+  "desc": "Maybe the lamest weapon in the world. It kills... out of boredom."
+ },
+ {
+  "id": "502",
+  "name": "Iron Shortsword",
+  "desc": "You're not going to impress anyone with this weapon."
+ },
+ {
+  "id": "503",
+  "name": "Iron Longsword",
+  "desc": "Probably a farmer would think this is a great weapon."
+ },
+ {
+  "id": "504",
+  "name": "Iron Greatsword",
+  "desc": "Huge and scary. Poor quality, but looks like it can deliver."
+ },
+ {
+  "id": "505",
+  "name": "Iron Mace",
+  "desc": "A chunk of metal with a handle. Subtle."
+ },
+ {
+  "id": "506",
+  "name": "Iron Hammer",
+  "desc": "Fearsome! If old and rusty tools scare you, that is."
+ },
+ {
+  "id": "507",
+  "name": "Iron Maul",
+  "desc": "Anyone wielding this is dangerous. Especially for themselves."
+ },
+ {
+  "id": "508",
+  "name": "Iron Axe",
+  "desc": "You'll terrorize all the trees wielding this."
+ },
+ {
+  "id": "509",
+  "name": "Iron Greataxe",
+  "desc": "Like the song says: careful with that axe."
+ },
+ {
+  "id": "521",
+  "name": "Steel Dagger",
+  "desc": "Sharp steel weapon."
+ },
+ {
+  "id": "522",
+  "name": "Steel Shortsword",
+  "desc": "Sharp steel weapon."
+ },
+ {
+  "id": "523",
+  "name": "Steel Longsword",
+  "desc": "Sharp steel weapon."
+ },
+ {
+  "id": "524",
+  "name": "Steel Greatsword",
+  "desc": "Sharp steel two-handed weapon."
+ },
+ {
+  "id": "525",
+  "name": "Steel Mace",
+  "desc": "A chunk of metal with a handle. Subtle."
+ },
+ {
+  "id": "526",
+  "name": "Steel Hammer",
+  "desc": "Time for hammering some nails... Or skulls."
+ },
+ {
+  "id": "527",
+  "name": "Steel Maul",
+  "desc": "Time for hammering some nails... Or skulls."
+ },
+ {
+  "id": "528",
+  "name": "Steel Axe",
+  "desc": "You'll terrorize all trees wielding this."
+ },
+ {
+  "id": "529",
+  "name": "Steel Greataxe",
+  "desc": "Like the song says: careful with that axe."
+ },
+ {
+  "id": "531",
+  "name": "Bluesteel Dagger",
+  "desc": "Masterfully crafted, light and sharp."
+ },
+ {
+  "id": "532",
+  "name": "Bluesteel Shortsword",
+  "desc": "Masterfully crafted, light and sharp."
+ },
+ {
+  "id": "533",
+  "name": "Bluesteel Longsword",
+  "desc": "Masterfully crafted, light and sharp."
+ },
+ {
+  "id": "534",
+  "name": "Bluesteel Greatsword",
+  "desc": "Masterfully crafted, light and sharp two-handed blade."
+ },
+ {
+  "id": "535",
+  "name": "Bluesteel Mace",
+  "desc": "Light to wield, heavy when it hits!"
+ },
+ {
+  "id": "536",
+  "name": "Bluesteel Hammer",
+  "desc": "Light to wield, heavy when it hits!"
+ },
+ {
+  "id": "537",
+  "name": "Bluesteel Maul",
+  "desc": "Time for hammering some nails."
+ },
+ {
+  "id": "538",
+  "name": "Bluesteel Axe",
+  "desc": "Masterfully crafted, light and sharp."
+ },
+ {
+  "id": "539",
+  "name": "Bluesteel Greataxe",
+  "desc": "Masterfully crafted, light and sharp two-handed greataxe."
+ },
+ {
+  "id": "540",
+  "name": "Bonegrinder",
+  "desc": "Heavy hammer, balanced for use with one hand. Great nutcracker."
+ },
+ {
+  "id": "541",
+  "name": "Gurguth's Maul",
+  "desc": "Massive weapon, there's nothing this can't crush."
+ },
+ {
+  "id": "571",
+  "name": "Vulcan Dagger",
+  "desc": "Made of volcanic rocks. Ignites small flames on enemies."
+ },
+ {
+  "id": "572",
+  "name": "Shock Dagger",
+  "desc": "Shocking! Literally. Okay, terrible joke."
+ },
+ {
+  "id": "573",
+  "name": "Dagger of Corrosion",
+  "desc": "Made from the resin of the Nyom tree."
+ },
+ {
+  "id": "574",
+  "name": "Dagger of Ice",
+  "desc": "Just holding it hurts!"
+ },
+ {
+  "id": "575",
+  "name": "Dagger of Poison",
+  "desc": "Better not to ask where this came from..."
+ },
+ {
+  "id": "576",
+  "name": "Bluesteel Poisonous Dagger",
+  "desc": "The stuff used by professionals."
+ },
+ {
+  "id": "577",
+  "name": "Deathclaw",
+  "desc": "Whoever made this wasn't a nice person."
+ },
+ {
+  "id": "578",
+  "name": "Hunter's Fang",
+  "desc": "This Varannari-made weapon has felled the most dangerous beasts."
+ },
+ {
+  "id": "579",
+  "name": "Beastgrinder",
+  "desc": "A bluesteel mace, enchanted with animal symbols."
+ },
+ {
+  "id": "580",
+  "name": "Sword of Shock",
+  "desc": "When you wave it around, it sparkles and hums."
+ },
+ {
+  "id": "581",
+  "name": "Icy Greatsword",
+  "desc": "Impressive blade, seemingly made of smoking blue ice."
+ },
+ {
+  "id": "582",
+  "name": "Shortsword of Frost",
+  "desc": "This blade is colder than a merchant's heart."
+ },
+ {
+  "id": "583",
+  "name": "Sword of Flames",
+  "desc": "A flaming sword. What else needs to be said?"
+ },
+ {
+  "id": "584",
+  "name": "Winter Stone",
+  "desc": "A magical mace forged in the Thyr mountains."
+ },
+ {
+  "id": "585",
+  "name": "Crushing Ember",
+  "desc": "This mace releases licking flames when it strikes."
+ },
+ {
+  "id": "586",
+  "name": "Silvery Mace",
+  "desc": "So light to wield... so heavy when it hits!"
+ },
+ {
+  "id": "587",
+  "name": "Magma Shortsword",
+  "desc": "Scary! You're glad to be on the non-molten end."
+ },
+ {
+  "id": "588",
+  "name": "Sir Mason's Longsword",
+  "desc": "A bit old-fashioned, but otherwise a fine blade."
+ },
+ {
+  "id": "589",
+  "name": "Orcslicer",
+  "desc": "Enchanted steel blade, probably of Imperial craftmanship."
+ },
+ {
+  "id": "590",
+  "name": "Cruelty",
+  "desc": "A rune-engraved greatsword with fiery enchantments."
+ },
+ {
+  "id": "591",
+  "name": "Thunder",
+  "desc": "Magically engraved with lightning runes."
+ },
+ {
+  "id": "592",
+  "name": "Blood Thunder",
+  "desc": "Magically engraved with lightning runes."
+ },
+ {
+  "id": "593",
+  "name": "Magma Longsword",
+  "desc": "Kills and cooks in a single swing."
+ },
+ {
+  "id": "594",
+  "name": "Righteousness",
+  "desc": "Carries the emblem of the ancient Imperial dynasty. Surely a fake... right?"
+ },
+ {
+  "id": "595",
+  "name": "Vulcan Maul",
+  "desc": "Made of volcanic rocks. Ignites small flames on enemies."
+ },
+ {
+  "id": "596",
+  "name": "Icy Maul",
+  "desc": "Your enemies will have the shivers, no doubt."
+ },
+ {
+  "id": "597",
+  "name": "Rancor",
+  "desc": "A rune-engraved greatsword with fiery enchantments."
+ },
+ {
+  "id": "600",
+  "name": "Sacrificial Dagger",
+  "desc": "Probably used by Varannari druids to venerate The Three."
+ },
+ {
+  "id": "601",
+  "name": "Short Bow",
+  "desc": "Little more than a toy. Really."
+ },
+ {
+  "id": "602",
+  "name": "Hunting Bow",
+  "desc": "A simple, but effective hunting bow."
+ },
+ {
+  "id": "603",
+  "name": "Oaken Bow",
+  "desc": "A perfectly weighted war bow."
+ },
+ {
+  "id": "604",
+  "name": "Hunter's Mark",
+  "desc": "This Varannari-made weapon has felled the most dangerous beasts."
+ },
+ {
+  "id": "605",
+  "name": "Lightning Blade",
+  "desc": "When you wave it around, it sparkles and hums."
+ },
+ {
+  "id": "606",
+  "name": "Justice",
+  "desc": "A blade blessed by the hand of Nivaria."
+ },
+ {
+  "id": "607",
+  "name": "Winter Wail",
+  "desc": "An Imperial relic, later inscribed with a deer symbol."
+ },
+ {
+  "id": "608",
+  "name": "Minotaur Axe",
+  "desc": "They may be herbivores, but sure they have sharp cutlery."
+ },
+ {
+  "id": "609",
+  "name": "Firesplitter",
+  "desc": "This axe has been imbued with crude flaming enchantments."
+ },
+ {
+  "id": "610",
+  "name": "Primal Icicle",
+  "desc": "The old blade of an Imperial admiral."
+ },
+ {
+  "id": "611",
+  "name": "Stiletto",
+  "desc": "A good tool for the trade... If you're into shady business."
+ },
+ {
+  "id": "612",
+  "name": "Devourer Sting",
+  "desc": "If it worked when they used it..."
+ },
+ {
+  "id": "613",
+  "name": "Ancient Fang",
+  "desc": "Surprisingly balanced and sharp, usable as a dagger."
+ },
+ {
+  "id": "614",
+  "name": "Icicle",
+  "desc": "The old weapon of an Imperial admiral, made of enchanted primal ice."
+ },
+ {
+  "id": "700",
+  "name": "Silver Bow",
+  "desc": "Shiny and beautiful, but maybe too light to be a good weapon."
+ },
+ {
+  "id": "701",
+  "name": "Silver Dagger",
+  "desc": "Shiny and beautiful, but maybe too light to be a good weapon."
+ },
+ {
+  "id": "702",
+  "name": "Silver Shortsword",
+  "desc": "Shiny and beautiful, but maybe too light to be a good weapon."
+ },
+ {
+  "id": "703",
+  "name": "Silver Longsword",
+  "desc": "Shiny and beautiful, but maybe too light to be a good weapon."
+ },
+ {
+  "id": "704",
+  "name": "Silver Greatsword",
+  "desc": "Shiny and beautiful, but maybe too light to be a good weapon."
+ },
+ {
+  "id": "705",
+  "name": "Silver Mace",
+  "desc": "Shiny and beautiful, but maybe too light to be a good weapon."
+ },
+ {
+  "id": "708",
+  "name": "Vulcan Bow",
+  "desc": "With this you can truly 'fire' arrows."
+ },
+ {
+  "id": "709",
+  "name": "Lightning Axe",
+  "desc": "Sometimes carried by elite legionnaires."
+ },
+ {
+  "id": "710",
+  "name": "Lightning Greataxe",
+  "desc": "Sometimes carried by elite legionnaires."
+ },
+ {
+  "id": "711",
+  "name": "Greataxe of Falling Stars",
+  "desc": "A rare weapon made of forged starmetal."
+ },
+ {
+  "id": "712",
+  "name": "Longsword of Falling Stars",
+  "desc": "A rare weapon made of forged starmetal."
+ },
+ {
+  "id": "713",
+  "name": "Frost Bow",
+  "desc": "Fresh delivery guaranteed."
+ },
+ {
+  "id": "714",
+  "name": "Executioner's Axe",
+  "desc": "Little else needs to be said..."
+ },
+ {
+  "id": "715",
+  "name": "Poisonous Bow",
+  "desc": "Probably not the most honorable weapon in the world."
+ },
+ {
+  "id": "716",
+  "name": "Poisonous Longbow",
+  "desc": "Probably not the most honorable weapon in the world."
+ },
+ {
+  "id": "717",
+  "name": "Sonnet",
+  "desc": "This short blade is a work of art. Almost weightless, insanely sharp."
+ },
+ {
+  "id": "718",
+  "name": "Ghostbane",
+  "desc": "Who you gonna call?"
+ },
+ {
+  "id": "719",
+  "name": "Hammer of Corrosion",
+  "desc": "Splatters acid on each blow. Messy!"
+ },
+ {
+  "id": "720",
+  "name": "Maul of Corrosion",
+  "desc": "Splatters acid on each blow. Messy!"
+ },
+ {
+  "id": "721",
+  "name": "Jester's Bow",
+  "desc": "A peculiar weapon, with a speed enchantment."
+ },
+ {
+  "id": "722",
+  "name": "Despair",
+  "desc": "Agony and madness seem to have imbued this finely crafted magical hammer."
+ },
+ {
+  "id": "723",
+  "name": "Maul of Garrak",
+  "desc": "A mythical magic weapon from the Imperial days."
+ },
+ {
+  "id": "724",
+  "name": "Iron Golem Fist",
+  "desc": "What would happen if you wielded it as a mace...?"
+ },
+ {
+  "id": "725",
+  "name": "Magma Axe",
+  "desc": "Thuramian enchantments are often subtle. Not this time."
+ },
+ {
+  "id": "726",
+  "name": "Soul Drinker",
+  "desc": "Forged starmetal vibrating with ancient dark enchantments"
+ },
+ {
+  "id": "727",
+  "name": "Soul Cleaver",
+  "desc": "Forged starmetal vibrating with ancient dark enchantments"
+ },
+ {
+  "id": "728",
+  "name": "Icy Claymore",
+  "desc": "Impressive blade, seemingly made of smoking blue ice."
+ },
+ {
+  "id": "729",
+  "name": "Composite Bow",
+  "desc": "Taller than a man, and mighty enough to perforate any armor."
+ },
+ {
+  "id": "730",
+  "name": "Assasin's Longbow",
+  "desc": "Just aim carefully."
+ },
+ {
+  "id": "731",
+  "name": "Maul of Desecration",
+  "desc": "Crushes both body and spirit."
+ },
+ {
+  "id": "732",
+  "name": "Mist Hunter's Bow",
+  "desc": "Used by the legendary rangers"
+ },
+ {
+  "id": "733",
+  "name": "Flaming Warhammer",
+  "desc": "The hammer's head seems to be made of molten rock, magically held in place."
+ },
+ {
+  "id": "734",
+  "name": "Paladin's Longsword",
+  "desc": "The sword of Saint Admus. Probably the only blade a cleric can wield."
+ },
+ {
+  "id": "735",
+  "name": "Permafrost Greataxe",
+  "desc": "The ancient blade of a Thuramian knight, felled in battle."
+ },
+ {
+  "id": "736",
+  "name": "Imperial Trollhunter Bow",
+  "desc": "The ranged weapon from the legendary scouts of old."
+ },
+ {
+  "id": "1001",
+  "name": "Minotaur Horn",
+  "desc": "The bloodied horn of a minotaur warrior."
+ },
+ {
+  "id": "1002",
+  "name": "Damaged Wolf Pelt",
+  "desc": "A thick pelt with visible holes."
+ },
+ {
+  "id": "1003",
+  "name": "Perfect Wolf Pelt",
+  "desc": "A thick, high-quality pelt."
+ },
+ {
+  "id": "1004",
+  "name": "White Wolf Pelt",
+  "desc": "Silvery and perfectly smooth. Would make an awesome rug, if you like rugs."
+ },
+ {
+  "id": "1005",
+  "name": "Fire Salts",
+  "desc": "Looks like a worthless pile of ash, but it gleams and never gets cold."
+ },
+ {
+  "id": "1006",
+  "name": "Living Ice",
+  "desc": "It's creepy how this snow trembles and doesn't melt."
+ },
+ {
+  "id": "1007",
+  "name": "Sparkling Powder",
+  "desc": "Looks like a worthless pile of blue ashes, but it radiates power."
+ },
+ {
+  "id": "1008",
+  "name": "Poison Sac",
+  "desc": "You better wash your hands after handling this."
+ },
+ {
+  "id": "1009",
+  "name": "Zombie Flesh",
+  "desc": "Why??? Why am I taking this!?"
+ },
+ {
+  "id": "1010",
+  "name": "Skull",
+  "desc": "This guy no longer looks so tough."
+ },
+ {
+  "id": "1011",
+  "name": "Troll Hide",
+  "desc": "This thing is going to stink forever. Better find a shop soon."
+ },
+ {
+  "id": "1012",
+  "name": "Fire Drake Scale",
+  "desc": "Smells like overcooked adventurer."
+ },
+ {
+  "id": "1013",
+  "name": "Demonic Skull",
+  "desc": "Makes a badass paperweight."
+ },
+ {
+  "id": "1014",
+  "name": "Bear Pelt",
+  "desc": "Remember, never sell this before hunting it first."
+ },
+ {
+  "id": "1015",
+  "name": "Chitin Carapace",
+  "desc": "Tough and flexible natural armor."
+ },
+ {
+  "id": "1016",
+  "name": "Sabercat Eye",
+  "desc": "This one was a tad too curious."
+ },
+ {
+  "id": "1017",
+  "name": "Corrupted Sabercat Eye",
+  "desc": "Shines with a malevolent blue light."
+ },
+ {
+  "id": "1018",
+  "name": "Vorator Egg",
+  "desc": "Highly prized by the most extravagant chefs. There's people for everything."
+ },
+ {
+  "id": "2001",
+  "name": "Small Ruby",
+  "desc": "A tiny gem, bright red."
+ },
+ {
+  "id": "2002",
+  "name": "Small Emerald",
+  "desc": "A tiny gem, bright green."
+ },
+ {
+  "id": "2003",
+  "name": "Small Sapphire",
+  "desc": "A tiny gem, bright blue."
+ },
+ {
+  "id": "2004",
+  "name": "Small Diamond",
+  "desc": "A tiny gem, transparent and bright."
+ },
+ {
+  "id": "2012",
+  "name": "Emerald",
+  "desc": "A gem, bright green."
+ },
+ {
+  "id": "2013",
+  "name": "Ruby",
+  "desc": "A gem, bright red."
+ },
+ {
+  "id": "2014",
+  "name": "Sapphire",
+  "desc": "A gem, bright blue."
+ },
+ {
+  "id": "2015",
+  "name": "Pearl",
+  "desc": "A valuable treasure from the seas."
+ },
+ {
+  "id": "2100",
+  "name": "Blue Orchid",
+  "desc": "A rare and beautiful blue flower."
+ },
+ {
+  "id": "2101",
+  "name": "Red Orchid",
+  "desc": "A rare and beautiful red flower."
+ },
+ {
+  "id": "2102",
+  "name": "Luminescent Fungus",
+  "desc": "Strange glowing mushroom."
+ },
+ {
+  "id": "2103",
+  "name": "Deadweed",
+  "desc": "A bulbous root."
+ },
+ {
+  "id": "2104",
+  "name": "Merple",
+  "desc": "A tall, blue weed."
+ },
+ {
+  "id": "2105",
+  "name": "Tesur",
+  "desc": "A rare pink weed from desertic areas."
+ },
+ {
+  "id": "2500",
+  "name": "Hendrick's Journal",
+  "desc": "The journal of a fallen Loreseeker."
+ },
+ {
+  "id": "2501",
+  "name": "Zaniel's Journal",
+  "desc": "The journal of a fallen Loreseeker."
+ },
+ {
+  "id": "2502",
+  "name": "Azaph's Ring of Elements",
+  "desc": "Ancient ring from an Imperial wizard."
+ },
+ {
+  "id": "2503",
+  "name": "Head of Itharrak the Firedancer",
+  "desc": "Okay, this is gross. But they asked me for the head of the goblin leader."
+ },
+ {
+  "id": "2504",
+  "name": "Inheritance Letter",
+  "desc": "The letter that started your whole adventure..."
+ },
+ {
+  "id": "2505",
+  "name": "Cage Key",
+  "desc": "This crude iron key seems to match Adaon's cage."
+ },
+ {
+  "id": "2506",
+  "name": "Mysterious Key",
+  "desc": "An ancient key that your grandfather left for you."
+ },
+ {
+  "id": "2507",
+  "name": "Rhayader Medallion",
+  "desc": "A curious ancient jewel, with the emblem of a white goose extending its wings."
+ },
+ {
+  "id": "2508",
+  "name": "The Fire Crystal",
+  "desc": "A powerful focus from another world."
+ },
+ {
+  "id": "2509",
+  "name": "The Ice Crystal",
+  "desc": "A powerful focus from another world."
+ },
+ {
+  "id": "2510",
+  "name": "The Energy Crystal",
+  "desc": "A powerful focus from another world."
+ },
+ {
+  "id": "2511",
+  "name": "Giles' Remains",
+  "desc": "Poor boy, thought adventuring was easy."
+ },
+ {
+  "id": "2512",
+  "name": "Letter From Giles",
+  "desc": "Written years ago... but his father doesn't know that."
+ },
+ {
+  "id": "2513",
+  "name": "Orc Battle Plans",
+  "desc": "These guys are tactical geniuses. If only they learned orthography."
+ },
+ {
+  "id": "2514",
+  "name": "Niram's Ring",
+  "desc": "A plain iron band, with a small emblem of Lannegar engraved."
+ },
+ {
+  "id": "2515",
+  "name": "Inheritance Letter",
+  "desc": "This letter says that an important inheritance awaits you in New Garand."
+ },
+ {
+  "id": "2516",
+  "name": "The Orb of Shadows",
+  "desc": "Extremely unimpressive, considering all the trouble it has caused you."
+ },
+ {
+  "id": "2517",
+  "name": "Imperial Copper Penny",
+  "desc": "Worthless, ancient penny. It has an inscribed message: 'A true rogue never gambles.'"
+ },
+ {
+  "id": "2518",
+  "name": "Magical Sapphire",
+  "desc": "Gleams with a malignant blue light."
+ },
+ {
+  "id": "2519",
+  "name": "Love Letters From Lady Leanna",
+  "desc": "Mercians make terrible poets. Yawn-inducing, except when orthography wakes you up."
+ },
+ {
+  "id": "2520",
+  "name": "Dartos' Ring of Isolation",
+  "desc": "It is marked as 'Property of Dartos, Wizard's Guild.'"
+ },
+ {
+  "id": "2521",
+  "name": "Tolassian Embalming Codex",
+  "desc": "Everything you wanted to know about mummies but were too afraid to ask."
+ },
+ {
+  "id": "2522",
+  "name": "Signed Petition",
+  "desc": "A prominent citizen from New Garand has given this to you."
+ },
+ {
+  "id": "2523",
+  "name": "Small Brass Key",
+  "desc": "Smells like... Troll."
+ },
+ {
+  "id": "2524",
+  "name": "Troll Doll",
+  "desc": "Almost as ugly as the real thing."
+ },
+ {
+  "id": "2525",
+  "name": "Ruby Key with number 6",
+  "desc": "It seems to be very ancient, probably magical."
+ },
+ {
+  "id": "2526",
+  "name": "Ancient Steel Key",
+  "desc": "A key from the abandoned Imperial mine on the Steel Coast."
+ },
+ {
+  "id": "2527",
+  "name": "Ruby Key with number 2",
+  "desc": "It seems to be very ancient, probably magical."
+ },
+ {
+  "id": "2528",
+  "name": "Ruby Key with number 3",
+  "desc": "It seems to be very ancient, probably magical."
+ },
+ {
+  "id": "2529",
+  "name": "Sir Morfados' Remains",
+  "desc": "The largest and thickest human bones you've ever seen."
+ },
+ {
+  "id": "2530",
+  "name": "Zuz'sare's Charm",
+  "desc": "You should get very close to the Undermother and then read it."
+ },
+ {
+  "id": "2531",
+  "name": "My Little Vorator, by Terezza",
+  "desc": "Besides the research, it also covers all the merchandising opportunities. Plushies!"
+ },
+ {
+  "id": "2600",
+  "name": "Black Shard",
+  "desc": "Found behind Xidar's throne, was once part of a large glass surface. You feel an enormous power within."
+ },
+ {
+  "id": "2601",
+  "name": "Black Shard",
+  "desc": "This is a small piece of what was once a large glass surface. You feel an enormous power within."
+ },
+ {
+  "id": "2602",
+  "name": "On Imperial Necromancy",
+  "desc": "How to make Skeletons and influence Zombies"
+ },
+ {
+  "id": "2603",
+  "name": "Journal of Jorgus the Red",
+  "desc": "A very old book, written in archaic Imperial."
+ },
+ {
+  "id": "2604",
+  "name": "Ancient Quill Pen",
+  "desc": "Real old, maybe Imperial. If you save the world, might be handy for signing autographs."
+ },
+ {
+  "id": "2605",
+  "name": "The Oppalan Frontier",
+  "desc": "An unremarkable story from the Imperial era. The adventures of some wizard called Jorum and his friends."
+ },
+ {
+  "id": "2606",
+  "name": "Torn Book Page",
+  "desc": "Why would anyone tear a blank page out of a book? Maybe a toilet emergency?"
+ },
+ {
+  "id": "2607",
+  "name": "Elleira's Pendant",
+  "desc": "A beautiful coral emblem resembling a frog."
+ },
+ {
+  "id": "2608",
+  "name": "Of Ghosts and Spectres",
+  "desc": "In a surprising final twist, all the protagonists of the story are alive."
+ },
+ {
+  "id": "2609",
+  "name": "Vampires, the myth",
+  "desc": "This book makes no sense. It just covers many complicated ways to throw a lot of dice."
+ },
+ {
+  "id": "2610",
+  "name": "Winter rations",
+  "desc": "A huge sack of dried fruits, nuts, and other generally healthy food."
+ },
+ {
+  "id": "2611",
+  "name": "Sister Calvin's Holy Symbol",
+  "desc": "It depicts a full moon with the anagram of The Three."
+ },
+ {
+  "id": "2612",
+  "name": "Ancient Idol",
+  "desc": "Either ancient people were not good sculptors, or they were real ugly."
+ },
+ {
+  "id": "2613",
+  "name": "Ankh of Life",
+  "desc": "Keeping it in your backpack is enough to save your life! At least once."
+ },
+ {
+  "id": "3001",
+  "name": "Lesser Ring of Death Ward",
+  "desc": "A blessed relic. It hums with protective magic."
+ },
+ {
+  "id": "3002",
+  "name": "Ring of the Elements",
+  "desc": "Ancient ring, probably back from the days of the Empire."
+ },
+ {
+  "id": "3003",
+  "name": "Lesser Ring of Flames",
+  "desc": "Ancient Tolassian relic, it twinkles with a small magical red light."
+ },
+ {
+  "id": "3004",
+  "name": "Lesser Ring of Ice",
+  "desc": "Ancient Tolassian relic, it twinkles with a small magical blue light."
+ },
+ {
+  "id": "3005",
+  "name": "Ring of Death Ward",
+  "desc": "A blessed relic. It hums with protective magic."
+ },
+ {
+  "id": "3007",
+  "name": "Ring of Flames",
+  "desc": "Ancient Tolassian relic, it twinkles with a magical red light."
+ },
+ {
+  "id": "3008",
+  "name": "Ring of Ice",
+  "desc": "Ancient Tolassian relic, it twinkles with a magical blue light."
+ },
+ {
+  "id": "3009",
+  "name": "Ring of Endurance",
+  "desc": "Ancient Tolassian relic, it twinkles with a magical green light."
+ },
+ {
+  "id": "3010",
+  "name": "Lesser Ring of Endurance",
+  "desc": "Ancient Tolassian relic, it twinkles with a small magical green light."
+ },
+ {
+  "id": "3011",
+  "name": "Mystic Ring",
+  "desc": "I can't believe this thing has an ad inscribed: 'Visit Thuram'."
+ },
+ {
+  "id": "3012",
+  "name": "Ring of Health",
+  "desc": "By only looking at it you can tell: serious magic inside."
+ },
+ {
+  "id": "3013",
+  "name": "Oasis Ring",
+  "desc": "Made of red sand, hardened by potent enchantments."
+ },
+ {
+  "id": "3014",
+  "name": "Sentient Ring",
+  "desc": "It makes you more aware of your surroundings."
+ },
+ {
+  "id": "3015",
+  "name": "Greater Ring of Death Ward",
+  "desc": "A blessed relic. It hums with protective magic."
+ },
+ {
+  "id": "3016",
+  "name": "Greater Ring of Flames",
+  "desc": "Ancient Tolassian relic, it shines with a pulsating red magical light."
+ },
+ {
+  "id": "3017",
+  "name": "Greater Ring of Ice",
+  "desc": "Ancient Tolassian relic, it shines with a pulsating blue magical light."
+ },
+ {
+  "id": "3018",
+  "name": "Ilmaran Signet Ring",
+  "desc": "Exceptional craftsmanship, and potent enchantments."
+ },
+ {
+  "id": "3019",
+  "name": "Ring of Isolation",
+  "desc": "One of these is needed in every wizard laboratory."
+ },
+ {
+  "id": "3020",
+  "name": "Ring of the Frozen Heart",
+  "desc": "Combines several powerful enchantments."
+ },
+ {
+  "id": "3021",
+  "name": "Lesser Ring of Learning",
+  "desc": "You'll learn things faster with this little trinket. If only you had it at school..."
+ },
+ {
+  "id": "3022",
+  "name": "Ring of Charm",
+  "desc": "Irradiates a mystical aura."
+ },
+ {
+  "id": "3023",
+  "name": "Iagus' Ring of Learning",
+  "desc": "You'll learn things faster with this little trinket. If only you had it at school..."
+ },
+ {
+  "id": "3024",
+  "name": "Greater Ring of Endurance",
+  "desc": "Ancient Tolassian relic, it shines with a pulsating magical green light."
+ },
+ {
+  "id": "3025",
+  "name": "Ring of Unlife",
+  "desc": "Hard to say if this thing is blessed or cursed."
+ },
+ {
+  "id": "3026",
+  "name": "Ring of Vitality",
+  "desc": "It's all about surviving to fight another day..."
+ },
+ {
+  "id": "3027",
+  "name": "Ring of Mentalism",
+  "desc": "Inscription says 'the standard trinket of the journeyman wizard'"
+ },
+ {
+  "id": "3028",
+  "name": "The Abbot's Ring",
+  "desc": "Maybe a dark gift from the Abbot's infernal allies..."
+ },
+ {
+  "id": "3200",
+  "name": "Gauntlets of the Forge",
+  "desc": "Wearing this, you could scratch the back of a fire elemental."
+ },
+ {
+  "id": "3201",
+  "name": "Gloves of Luck",
+  "desc": "There's no better luck than being always ready."
+ },
+ {
+  "id": "3202",
+  "name": "Laboratory Gloves",
+  "desc": "Made to touch safely the things that shouldn't be touched."
+ },
+ {
+  "id": "3203",
+  "name": "Ruined Gauntlets of Might",
+  "desc": "Once, they were mighty enchanted armor, but now they're half-rotten."
+ },
+ {
+  "id": "3204",
+  "name": "Essence Gloves",
+  "desc": "Smooth blue velvet, but enchantments make it hard as iron."
+ },
+ {
+  "id": "3205",
+  "name": "Gloves of the Explorer",
+  "desc": "The leather isn't worn, despite being centuries old."
+ },
+ {
+  "id": "3206",
+  "name": "Gauntlets of Might",
+  "desc": "Saint Admus' Gauntlets."
+ },
+ {
+  "id": "3500",
+  "name": "Fur Cloak",
+  "desc": "Caveman fashion. But nice to have in a blizzard!"
+ },
+ {
+  "id": "3501",
+  "name": "Cloak of the Wolf",
+  "desc": "Beautifully tailored, and imbued with some magic. Come, winter!"
+ },
+ {
+  "id": "3502",
+  "name": "Cloak of Survival",
+  "desc": "Weird thing made of oily gray scales. Yuck!"
+ },
+ {
+  "id": "3503",
+  "name": "Nivarian Cloak",
+  "desc": "Covered in silvery holy symbols."
+ },
+ {
+  "id": "3504",
+  "name": "Spectral Cloak",
+  "desc": "Oddly translucent. Good magic protection, but not good for hiding."
+ },
+ {
+  "id": "3505",
+  "name": "Iron Will Mantle",
+  "desc": "Legends say these were worn by the Emperor's Golden Guard"
+ },
+ {
+  "id": "3506",
+  "name": "Primeval Mantle",
+  "desc": "White fur from a magical elder beast. Come, winter!"
+ },
+ {
+  "id": "3507",
+  "name": "Vorator Hide Mantle",
+  "desc": "Made of the elastic stomach of the hungry rock-eaters"
+ },
+ {
+  "id": "4000",
+  "name": "Blessed Necklace",
+  "desc": "Engraved with a symbol of The Three, it hums with protective magic."
+ },
+ {
+  "id": "4001",
+  "name": "Amulet of the Forest",
+  "desc": "A Varannari charm. Looks a bit hippie but hey, it's magical."
+ },
+ {
+  "id": "4002",
+  "name": "Arcane Pendant",
+  "desc": "This bright amulet shows the emblem of the Imperial wizards."
+ },
+ {
+  "id": "4003",
+  "name": "Amulet of Wilderness",
+  "desc": "Looks like a crude copper chain, but tingles with wild Varannari magic."
+ },
+ {
+  "id": "4004",
+  "name": "Necklace of Charm",
+  "desc": "A solid gold chain that irradiates a mystical aura."
+ },
+ {
+  "id": "4005",
+  "name": "Half-Moon Medallion",
+  "desc": "This is definitely of Tolassian manufacture."
+ },
+ {
+  "id": "4006",
+  "name": "Holy Symbol of the Three",
+  "desc": "Splattered with dried blood, this thing no doubt has some story."
+ },
+ {
+  "id": "4007",
+  "name": "Amulet of the Eyes",
+  "desc": "Crafted by the infamous Witches of Orogg"
+ },
+ {
+  "id": "4008",
+  "name": "Bloodied Scarf",
+  "desc": "No doubt, potent Imperial magic still lingers in this otherwise repulsive thing."
+ },
+ {
+  "id": "4009",
+  "name": "Laertes' Medallion",
+  "desc": "An old copper amulet with a swordfish emblem."
+ },
+ {
+  "id": "4010",
+  "name": "Anointed Medallion",
+  "desc": "Blessed by Thelume's Hand."
+ },
+ {
+  "id": "4011",
+  "name": "Ursan Charm",
+  "desc": "The Bear-men of Korne are surprisingly skilled crafters."
+ },
+ {
+  "id": "4012",
+  "name": "Necklace of the Depths",
+  "desc": "Made of solid sand that keeps swirling as if it was alive."
+ },
+ {
+  "id": "4013",
+  "name": "Flame Pendant",
+  "desc": "Somehow flames have solidified into this jewel."
+ },
+ {
+  "id": "4500",
+  "name": "Tiara of the Heavens",
+  "desc": "Has a surreal, alien quality about it."
+ },
+ {
+  "id": "5000",
+  "name": "Potion of Light Healing",
+  "desc": "Will heal a total of 30hp. The taste feels worse than the wounds, though."
+ },
+ {
+  "id": "5001",
+  "name": "Potion of Moderate Healing",
+  "desc": "Will heal a total of 60hp. Tastes like chicken soup."
+ },
+ {
+  "id": "5002",
+  "name": "Potion of Lesser Shielding",
+  "desc": "Will add +6 to armor for 12 seconds."
+ },
+ {
+  "id": "5003",
+  "name": "Potion of Shielding",
+  "desc": "Will add +10 to armor for 12 seconds."
+ },
+ {
+  "id": "5004",
+  "name": "Potion of Ogre Might",
+  "desc": "Will add +3 to melee attacks for 20 seconds."
+ },
+ {
+  "id": "5005",
+  "name": "Potion of Giant Strength",
+  "desc": "Will add +6 to melee attacks for 20 seconds."
+ },
+ {
+  "id": "5006",
+  "name": "Potion of Invisibility",
+  "desc": "Makes you invisible for 12 seconds."
+ },
+ {
+  "id": "5007",
+  "name": "Potion of Speed",
+  "desc": "Makes you run faster for 12 seconds."
+ },
+ {
+  "id": "5008",
+  "name": "Potion of Resist Fire",
+  "desc": "Grants a +25 bonus for 1 minute."
+ },
+ {
+  "id": "5009",
+  "name": "Potion of Resist Cold",
+  "desc": "Grants a +25 bonus for 1 minute."
+ },
+ {
+  "id": "5010",
+  "name": "Potion of Death Ward",
+  "desc": "Grants a +20 bonus for 1 minute. The label says it protects from ghosts, but ghosts don't exist, right?"
+ },
+ {
+  "id": "5011",
+  "name": "Potion of Resist Shock",
+  "desc": "Grants a +25 bonus for 1 minute."
+ },
+ {
+  "id": "5012",
+  "name": "Potion of Resist Toxic",
+  "desc": "Grants a +25 bonus for 1 minute."
+ },
+ {
+  "id": "5013",
+  "name": "Ancient Tolassian Tome",
+  "desc": "This old book is almost crumbling to dust. You can only read it once... but do you want to?"
+ },
+ {
+  "id": "5014",
+  "name": "Spider Venom",
+  "desc": "Coat your blade in this, for +4 toxic damage (15 seconds)."
+ },
+ {
+  "id": "5015",
+  "name": "Scorpion Venom",
+  "desc": "Coat your blade in this, for +7 toxic damage (10 seconds)."
+ },
+ {
+  "id": "5016",
+  "name": "Potion of Greater Healing",
+  "desc": "Will heal a total of 90hp. The adventurer's best friend."
+ },
+ {
+  "id": "5020",
+  "name": "Lesser Potion of Mana",
+  "desc": "For that little extra spell at the end of the day... Recovers +20 mana."
+ },
+ {
+  "id": "5021",
+  "name": "Potion of Mana",
+  "desc": "Keep going and going! Recovers +35 mana."
+ },
+ {
+  "id": "5022",
+  "name": "Golden Apple",
+  "desc": "In fairytales, these magical fruits replenished the hero's strength. Restores 40 hp and 15 mana."
+ },
+ {
+  "id": "5023",
+  "name": "Potion of Lesser Restoration",
+  "desc": "Recovers half of your missing hp and mana. It is half-awesome!"
+ },
+ {
+  "id": "5024",
+  "name": "Greater Potion of Speed",
+  "desc": "Makes you run faster for 25 seconds."
+ },
+ {
+  "id": "5025",
+  "name": "Potion of Clarity",
+  "desc": "Grants a +30 bonus to Spirit Resistance for 30 seconds. Good protection from stun and paralysis!"
+ },
+ {
+  "id": "5026",
+  "name": "Friguld Rum",
+  "desc": "The corsair's basic breakfast. Heals randomly up to 60hp, but might have side effects."
+ },
+ {
+  "id": "5027",
+  "name": "Potion of Heroism",
+  "desc": "Heals 50hp, and adds +3 melee damage and+6 armor for 12 seconds."
+ },
+ {
+  "id": "5028",
+  "name": "Potion of the Tragic Hero",
+  "desc": "Poisons you( -50hp), but adds +6 melee damage and+10 armor for 15 seconds."
+ },
+ {
+  "id": "5030",
+  "name": "Greater Potion of Resist Fire",
+  "desc": "Grants a +40 bonus for 1 minute."
+ },
+ {
+  "id": "5031",
+  "name": "Greater Potion of Resist Cold",
+  "desc": "Grants a +40 bonus for 1 minute."
+ },
+ {
+  "id": "5032",
+  "name": "Greater Potion of Death Ward",
+  "desc": "Grants a +40 bonus for 1 minute. The label says it protects from ghosts, but ghosts don't exist, right?"
+ },
+ {
+  "id": "5033",
+  "name": "Greater Potion of Resist Shock",
+  "desc": "Grants a +40 bonus for 1 minute."
+ },
+ {
+  "id": "5034",
+  "name": "Greater Potion of Resist Toxic",
+  "desc": "Grants a +40 bonus for 1 minute."
+ },
+ {
+  "id": "5050",
+  "name": "Potion of Epic Death Ward",
+  "desc": "Grants a +80 bonus to Death resistance for 1 min. Use wisely!"
+ },
+ {
+  "id": "5051",
+  "name": "Energy Cell",
+  "desc": "This thing is filled with magical fluid. Why not drinking it? (-40hp, +30 mana)"
+ },
+ {
+  "id": "6001",
+  "name": "Scroll of Recall",
+  "desc": "Teleports you and your party to a nearby town."
+ },
+ {
+  "id": "6002",
+  "name": "Scroll of Detection",
+  "desc": "Can detect secrets (75%) in a 10m range."
+ },
+ {
+  "id": "6003",
+  "name": "Scroll of Lesser Wisdom",
+  "desc": "Gain a +7% XP bonus for 2 days."
+ },
+ {
+  "id": "6004",
+  "name": "Scroll of Wisdom",
+  "desc": "Gain a +10% XP bonus for 2 days."
+ },
+ {
+  "id": "6005",
+  "name": "Scroll of Greater Wisdom",
+  "desc": "Gain a +15% XP bonus for 2 days."
+ },
+ {
+  "id": "6006",
+  "name": "Scroll: Summon Wolf",
+  "desc": "A level 5 Wolf will guard you for 60 seconds"
+ },
+ {
+  "id": "6007",
+  "name": "Scroll: Summon Dire Wolf",
+  "desc": "A level 7 Dire Wolf will guard you for 60 seconds"
+ },
+ {
+  "id": "6008",
+  "name": "Scroll: Summon Earth Elemental",
+  "desc": "A level 9 Earth Elemental will guard you for 60 seconds"
+ },
+ {
+  "id": "6009",
+  "name": "Scroll: Circle of Restoration",
+  "desc": "Your whole party heals 50% of their wounds, and will wake up if unconscious."
+ },
+ {
+  "id": "6010",
+  "name": "Scroll: Turn Undead",
+  "desc": "Paralize for 3 seconds all the undead enemies in a 4 meter radius"
+ },
+ {
+  "id": "7000",
+  "name": "Belt of Might",
+  "desc": "Because potent magic can go with style."
+ },
+ {
+  "id": "7001",
+  "name": "Belt of Agility",
+  "desc": "Because potent magic can go with style."
+ },
+ {
+  "id": "7002",
+  "name": "Girdle of Agility",
+  "desc": "Because potent magic can go with style."
+ },
+ {
+  "id": "7003",
+  "name": "Girdle of Might",
+  "desc": "Because potent magic can go with style."
+ },
+ {
+  "id": "7004",
+  "name": "Superior Belt of Agility",
+  "desc": "Because potent magic can go with style."
+ },
+ {
+  "id": "7005",
+  "name": "Superior Belt of Might",
+  "desc": "Because potent magic can go with style."
+ },
+ {
+  "id": "7006",
+  "name": "Girdle of the Warrior",
+  "desc": "An exceptional piece made by Thuram enchanters for the guild."
+ },
+ {
+  "id": "7007",
+  "name": "Girdle of the Rogue",
+  "desc": "An exceptional piece made by Thuram enchanters for the guild."
+ },
+ {
+  "id": "7008",
+  "name": "Blessed Belt of Might",
+  "desc": "Because potent magic can go with style."
+ },
+ {
+  "id": "7009",
+  "name": "Blessed Belt of Agility",
+  "desc": "Because potent magic can go with style."
+ },
+ {
+  "id": "10001",
+  "name": "Tome of Jablarxis",
+  "desc": "An ancient tome of great historical value."
+ },
+ {
+  "id": "10002",
+  "name": "Tome of the Yellow Sands",
+  "desc": "An ancient tome of great historical value."
+ },
+ {
+  "id": "10003",
+  "name": "Tome of the Eldritch War",
+  "desc": "An ancient tome of great historical value."
+ },
+ {
+  "id": "10004",
+  "name": "Tome of Nuhadaz",
+  "desc": "An ancient tome of great historical value."
+ },
+ {
+  "id": "10005",
+  "name": "Tome of Eniarth",
+  "desc": "An ancient tome of great historical value."
+ },
+ {
+  "id": "10006",
+  "name": "Annals of the Irux Rebellion",
+  "desc": "An ancient tome of great historical value."
+ },
+ {
+  "id": "10007",
+  "name": "Tome of the Blazing Star",
+  "desc": "An ancient tome of great historical value."
+ },
+ {
+  "id": "10008",
+  "name": "The General's Journal, Part I",
+  "desc": "An ancient tome of great historical value."
+ },
+ {
+  "id": "10009",
+  "name": "The General's Journal, Part II",
+  "desc": "An ancient tome of great historical value."
+ },
+ {
+  "id": "10010",
+  "name": "Seal Ring of House Tamoz",
+  "desc": "A family heirloom of great value."
+ },
+ {
+  "id": "10011",
+  "name": "Seal Ring of House Essa",
+  "desc": "A family heirloom of great value."
+ },
+ {
+  "id": "10012",
+  "name": "Seal Ring of House Urda",
+  "desc": "A family heirloom of great value."
+ },
+ {
+  "id": "10013",
+  "name": "Seal Ring of House Zolast",
+  "desc": "A family heirloom of great value."
+ },
+ {
+  "id": "10014",
+  "name": "Seal Ring of House Jomte",
+  "desc": "A family heirloom of great value."
+ },
+ {
+  "id": "10015",
+  "name": "Seal Ring of House Tindra",
+  "desc": "A family heirloom of great value."
+ },
+ {
+  "id": "10016",
+  "name": "Seal Ring of House Silar",
+  "desc": "A family heirloom of great value."
+ },
+ {
+  "id": "10017",
+  "name": "Seal Ring of House Nabure",
+  "desc": "A family heirloom of great value."
+ },
+ {
+  "id": "10018",
+  "name": "Seal Ring of House Dalgir",
+  "desc": "A family heirloom of great value."
+ },
+ {
+  "id": "10019",
+  "name": "Seal Ring of House Imoz",
+  "desc": "A family heirloom of great value."
+ },
+ {
+  "id": "10020",
+  "name": "Seal Ring of House Debir",
+  "desc": "A family heirloom of great value."
+ },
+ {
+  "id": "10021",
+  "name": "Seal Ring of House Jiosa",
+  "desc": "A family heirloom of great value."
+ },
+ {
+  "id": "10022",
+  "name": "Seal Ring of House Sempa",
+  "desc": "A family heirloom of great value."
+ },
+ {
+  "id": "10023",
+  "name": "Seal Ring of House Jogor",
+  "desc": "A family heirloom of great value."
+ },
+ {
+  "id": "10024",
+  "name": "Seal Ring of House Dimas",
+  "desc": "A family heirloom of great value."
+ },
+ {
+  "id": "10025",
+  "name": "Seal Ring of House Thelor",
+  "desc": "A family heirloom of great value."
+ },
+ {
+  "id": "10026",
+  "name": "Annals of the Ozor Rebellion",
+  "desc": "An ancient tome of great historical value."
+ },
+ {
+  "id": "10027",
+  "name": "Tome of Imperial Poetry",
+  "desc": "An ancient tome of great historical value."
+ },
+ {
+  "id": "10028",
+  "name": "Tome of Imperial Geography I",
+  "desc": "An ancient tome of great historical value."
+ },
+ {
+  "id": "10029",
+  "name": "Tome of Imperial Geography II",
+  "desc": "An ancient tome of great historical value."
+ },
+ {
+  "id": "10030",
+  "name": "Tome of Imperial Geography III",
+  "desc": "An ancient tome of great historical value."
+ },
+ {
+  "id": "10031",
+  "name": "Annals of the Orc Rebellion",
+  "desc": "An ancient tome of great historical value."
+ },
+ {
+  "id": "10032",
+  "name": "Tome of Imperial Poetry II",
+  "desc": "An ancient tome of great historical value."
+ },
+ {
+  "id": "10033",
+  "name": "Tome of Imperial History I",
+  "desc": "An ancient tome of great historical value."
+ },
+ {
+  "id": "10034",
+  "name": "Tome of Imperial History II",
+  "desc": "An ancient tome of great historical value."
+ },
+ {
+  "id": "10035",
+  "name": "Tome of Imperial History III",
+  "desc": "An ancient tome of great historical value."
+ },
+ {
+  "id": "10036",
+  "name": "A Brief History of the Emperors",
+  "desc": "An ancient tome of great historical value."
+ },
+ {
+  "id": "10037",
+  "name": "Remains of Saint Zila",
+  "desc": "Bones with a strange holy symbol, and they remain clean as well... Interesting."
+ },
+ {
+  "id": "10038",
+  "name": "Remains of Saint Bomo",
+  "desc": "Bones with a strange holy symbol, and they remain clean as well... Interesting."
+ },
+ {
+  "id": "10039",
+  "name": "Remains of Saint Ladia",
+  "desc": "Bones with a strange holy symbol, and they remain clean as well... Interesting."
+ },
+ {
+  "id": "10040",
+  "name": "Remains of Saint Perso",
+  "desc": "Bones with a strange holy symbol, and they remain clean as well... Interesting."
+ },
+ {
+  "id": "737",
+  "name": "Wild Thunder",
+  "desc": "Old blade of unknown origin, decorated with Varannari symbols."
+ },
+ {
+  "id": "598",
+  "name": "Corsair Falchion",
+  "desc": "A deadly weapon, feared in every coastal town."
+ },
+ {
+  "id": "195",
+  "name": "Sailor Buckler",
+  "desc": "Surprisingly good protection for its small size."
+ },
+ {
+  "id": "599",
+  "name": "Heavy Scimitar",
+  "desc": "Enormous curved blade, capable of splitting an enemy in two."
+ },
+ {
+  "id": "2614",
+  "name": "Serpentine Necklace",
+  "desc": "This is the jewel worn by The Serpent, famous Friguld outlaw."
+ },
+ {
+  "id": "615",
+  "name": "Scimitar of Flames",
+  "desc": "Enormous curved blade with a red-hot edge."
+ },
+ {
+  "id": "220",
+  "name": "Jungle Boots",
+  "desc": "Snakeskin tall boots, thick yet comfortable."
+ },
+ {
+  "id": "1019",
+  "name": "Giant Mamba Fang",
+  "desc": "Drips poison, handle with care!"
+ },
+ {
+  "id": "1020",
+  "name": "Coral Snake Fang",
+  "desc": "Drips poison, handle with care!"
+ },
+ {
+  "id": "2615",
+  "name": "Handwritten Note",
+  "desc": "Says 'Blue appears twice but not consecutively'"
+ },
+ {
+  "id": "2616",
+  "name": "Handwritten Note",
+  "desc": "Says 'Blue never follows yellow'"
+ },
+ {
+  "id": "2617",
+  "name": "Handwritten Note",
+  "desc": "Says 'Starts with Red, doesn't end in Blue'"
+ },
+ {
+  "id": "616",
+  "name": "Bone Maul",
+  "desc": "A last tribute to a now forgotten enemy of the Kurg"
+ },
+ {
+  "id": "617",
+  "name": "Bone Mace",
+  "desc": "A last tribute to a now forgotten enemy of the Kurg"
+ },
+ {
+  "id": "618",
+  "name": "Mystic Bone Mace",
+  "desc": "The ancient femur of a magic-imbued creature."
+ },
+ {
+  "id": "619",
+  "name": "Lightning Falchion of Defense",
+  "desc": "The charged blade can parry even the most unlikely blows."
+ },
+ {
+  "id": "3029",
+  "name": "Ivory Ring",
+  "desc": "Some primitive yet powerful magic is noticeable by merely touching it."
+ },
+ {
+  "id": "2532",
+  "name": "Magical Sapphire",
+  "desc": "Gleams with a malignant blue light."
+ },
+ {
+  "id": "2533",
+  "name": "Ruby Key with number 1",
+  "desc": "It seems to be very ancient, probably magical."
+ },
+ {
+  "id": "1021",
+  "name": "Gold Ingot",
+  "desc": "Good for selling and nothing else."
+ },
+ {
+  "id": "2618",
+  "name": "Broken Crown of Tol",
+  "desc": "A god's headwear! Would make a great souvenir, if it wasn't cursed, that is."
+ },
+ {
+  "id": "3030",
+  "name": "Bishop Ring",
+  "desc": "A good man gave it to you."
+ },
+ {
+  "id": "5035",
+  "name": "Tome of Lost Wisdom",
+  "desc": "Once you read it, it will crumble to dust. Will you dare?"
+ },
+ {
+  "id": "221",
+  "name": "Holy Helm",
+  "desc": "Engraved with a symbol of The Three, it hums with protective magic."
+ },
+ {
+  "id": "5060",
+  "name": "Epic Omelette",
+  "desc": "Words can't describe the taste. Having one is equivalent to a six hour rest at the inn."
+ },
+ {
+  "id": "250",
+  "name": "Ashen Chestplate",
+  "desc": "The mutant minotaurs of the Wastes still know how to forge armor."
+ },
+ {
+  "id": "251",
+  "name": "Ashen Gauntlets",
+  "desc": "The mutant minotaurs of the Wastes still know how to forge armor."
+ },
+ {
+  "id": "252",
+  "name": "Ashen Leggings",
+  "desc": "The mutant minotaurs of the Wastes still know how to forge armor."
+ },
+ {
+  "id": "253",
+  "name": "Ashen Boots",
+  "desc": "The mutant minotaurs of the Wastes still know how to forge armor."
+ },
+ {
+  "id": "254",
+  "name": "Ashen Helm",
+  "desc": "The mutant minotaurs of the Wastes still know how to forge armor."
+ },
+ {
+  "id": "740",
+  "name": "Axe of the Depths",
+  "desc": "Crafted in the lava pits of the Ashen Wastes."
+ },
+ {
+  "id": "741",
+  "name": "Axe of the Minotaur Kings",
+  "desc": "The greatest relic of the fabled Kingdom of Galade."
+ },
+ {
+  "id": "750",
+  "name": "Nanocarbon Sword",
+  "desc": "Slices through anything effortlessly, and the edge vibrates to rend enemies to pieces. Scary."
+ },
+ {
+  "id": "751",
+  "name": "Pneumatic Mallet",
+  "desc": "Shifts its own weight in mid-swing to make your blows devastating and effortless."
+ },
+ {
+  "id": "752",
+  "name": "Nanocarbon Scalpel",
+  "desc": "Slices through anything effortlessly, and the edge vibrates to rend enemies to pieces. Scary."
+ },
+ {
+  "id": "753",
+  "name": "Ion Recurve",
+  "desc": "A bow without a string, yet capable of shooting strange energy bolts."
+ },
+ {
+  "id": "1022",
+  "name": "Ancient Battery",
+  "desc": "An odd thing... Lights seem to be dancing inside this small glass box."
+ },
+ {
+  "id": "1023",
+  "name": "Large Battery",
+  "desc": "Whatever is inside this strange cage of glass and steel, seems to be trying to escape."
+ },
+ {
+  "id": "255",
+  "name": "Laminated Vest",
+  "desc": "Mechanically joined plates of an unknown metal, crafted with extraordinary perfection."
+ },
+ {
+  "id": "256",
+  "name": "Kevlar Vest",
+  "desc": "This armor is not heavier than a coat, yet it hardens like steel when it gets hit."
+ },
+ {
+  "id": "257",
+  "name": "Conductive Vest",
+  "desc": "Wondrous plates of an unknown metal shimmer with energy."
+ },
+ {
+  "id": "258",
+  "name": "Goggled Helmet",
+  "desc": "You've never seen a helmet crafted in this fashion before."
+ },
+ {
+  "id": "259",
+  "name": "Strange Hood",
+  "desc": "Not very protective nor pretty, but seems like it has a purpose."
+ },
+ {
+  "id": "410",
+  "name": "Dirk of the Gambler",
+  "desc": "The perfect ace up your sleeve."
+ },
+ {
+  "id": "411",
+  "name": "Dirk of Betrayal",
+  "desc": "Some weapons have a story..."
+ },
+ {
+  "id": "412",
+  "name": "Tarand's Hatchet",
+  "desc": "The legendary imperial ranger's trusted offhand weapon."
+ },
+ {
+  "id": "2619",
+  "name": "Red Card",
+  "desc": "Odd Muud'ari relic, inscribed with symbols and numbers. No doubt some kind of sorcerous item."
+ },
+ {
+  "id": "2620",
+  "name": "Blue Card",
+  "desc": "Odd Muud'ari relic, inscribed with symbols and numbers. No doubt some kind of sorcerous item."
+ },
+ {
+  "id": "2621",
+  "name": "Green Card",
+  "desc": "Odd Muud'ari relic, inscribed with symbols and numbers. No doubt some kind of sorcerous item."
+ },
+ {
+  "id": "2628",
+  "name": "Orange Card",
+  "desc": "Odd Muud'ari relic, inscribed with symbols and numbers. Someone has written 'confirm...' with blood."
+ },
+ {
+  "id": "2622",
+  "name": "Control Module",
+  "desc": "Small metallic box with strange protuberances and cavities. Maybe spirits inhabit it, for it hums softly."
+ },
+ {
+  "id": "5070",
+  "name": "Medipack",
+  "desc": "The most potent healing magic. Instead of drinking, this potion is injected into your blood much like a leech. Heals 160hp"
+ },
+ {
+  "id": "3031",
+  "name": "Ring of Holiness",
+  "desc": "Priestess Br'mee imbued it with divine energy."
+ },
+ {
+  "id": "3032",
+  "name": "Ring of the Bull",
+  "desc": "Priestess Br'mee imbued it with the minotaurs' might"
+ },
+ {
+  "id": "2623",
+  "name": "First Orb of Galade",
+  "desc": "A mystical glass orb from the ancient minotaur kingdom."
+ },
+ {
+  "id": "2624",
+  "name": "Second Orb of Galade",
+  "desc": "A mystical glass orb from the ancient minotaur kingdom."
+ },
+ {
+  "id": "4014",
+  "name": "Shaman Charm",
+  "desc": "More than just minotaur fashion."
+ },
+ {
+  "id": "4015",
+  "name": "Charm of the Great Seer",
+  "desc": "The pendant of the minotaur High Priestess"
+ },
+ {
+  "id": "3508",
+  "name": "Cloak of Might",
+  "desc": "The Mantle worn by the Minotaur King"
+ },
+ {
+  "id": "754",
+  "name": "Wyrmslayer",
+  "desc": "The legendary bow that made wyverns flee in terror."
+ },
+ {
+  "id": "4501",
+  "name": "Crown of Galade",
+  "desc": "Worn by the ancient rulers of the Minotaur Kingdom."
+ },
+ {
+  "id": "2625",
+  "name": "A Note",
+  "desc": "Says: 'Remember to re-supply this emergency depot - The Magister'"
+ },
+ {
+  "id": "177",
+  "name": "Leggings of Shadows",
+  "desc": "Superb armor, but you hope your crotch doesn't become cursed..."
+ },
+ {
+  "id": "196",
+  "name": "Shield of the Dragon Hunter",
+  "desc": "As it was part of a dragon hoard, you suspect it's not foolproof."
+ },
+ {
+  "id": "2626",
+  "name": "The Mathrisian Codex",
+  "desc": "Written in an unknown language even older than Imperial."
+ },
+ {
+  "id": "197",
+  "name": "Wisdom of the Seas",
+  "desc": "Forged centuries ago for the legendary Mathris the Seafarer."
+ },
+ {
+  "id": "5036",
+  "name": "Elixir of Galade",
+  "desc": "A draught from the lost minotaur kingdom. Heals 120hp and grants +12 armor for 8s."
+ },
+ {
+  "id": "2627",
+  "name": "Ancient Smithy Hammer",
+  "desc": "Likely not made for human hands. Strong magic imbues this tool."
+ },
+ {
+  "id": "552",
+  "name": "Adamantite Shortsword",
+  "desc": "Magically imbued Blue Steel with an edge shaped of pure diamond."
+ },
+ {
+  "id": "553",
+  "name": "Adamantite Longsword",
+  "desc": "Magically imbued Blue Steel with an edge shaped of pure diamond."
+ },
+ {
+  "id": "554",
+  "name": "Adamantite Greatsword",
+  "desc": "Magically imbued Blue Steel with an edge shaped of pure diamond."
+ },
+ {
+  "id": "742",
+  "name": "Maul of Terror",
+  "desc": "A bloody weapon crafted by the insane mutant minotaurs."
+ },
+ {
+  "id": "3207",
+  "name": "Automated Gloves",
+  "desc": "They correct your wrong movements!"
+ },
+ {
+  "id": "232",
+  "name": "Thuramiam Breastplate",
+  "desc": "Crafted in the Arcane Forges of Icemist."
+ },
+ {
+  "id": "2629",
+  "name": "Handwritten Note",
+  "desc": "Says 'I don't think red goes first...'."
+ },
+ {
+  "id": "3033",
+  "name": "Ring of the Star Traveller",
+  "desc": "Useful for all kind of galaxy hitchhikers."
+ },
+ {
+  "id": "2630",
+  "name": "Data Pad",
+  "desc": "It is like a magical book. It explains with moving images how the Horrors come through Wormholes."
+ },
+ {
+  "id": "7010",
+  "name": "Force Belt",
+  "desc": "A strange invisible force envelopes your arms, making any lift effortless."
+ },
+ {
+  "id": "2631",
+  "name": "Pointy Tool",
+  "desc": "Too small to be useful as a weapon, but the ancients no doubt had an use for this."
+ },
+ {
+  "id": "4016",
+  "name": "Forsaken Pendant",
+  "desc": "Allows to travel through a Deep Gate."
+ },
+ {
+  "id": "4017",
+  "name": "Magister Pendant",
+  "desc": "Once used by the leader of the Forsaken."
+ },
+ {
+  "id": "300",
+  "name": "Apprentice Robes",
+  "desc": "Perfect for the main task carried out by an apprentice: housekeeping."
+ },
+ {
+  "id": "301",
+  "name": "Apprentice Pants",
+  "desc": "Apprentices don't eat much, so the same pair can be serviceable for a lifetime."
+ },
+ {
+  "id": "302",
+  "name": "Apprentice Hood",
+  "desc": "Gives you a mysteeeerious look."
+ },
+ {
+  "id": "303",
+  "name": "Apprentice Gloves",
+  "desc": "It's a joy to be able to wear defective enchanted items."
+ },
+ {
+  "id": "304",
+  "name": "Apprentice Boots",
+  "desc": "It's a joy to be able to wear defective enchanted items."
+ },
+ {
+  "id": "305",
+  "name": "Journeyman Tunic",
+  "desc": "A moderate enchantment, but the same plain design that makes clear your low status as a magician."
+ },
+ {
+  "id": "306",
+  "name": "Journeyman Pants",
+  "desc": "A moderate enchantment, but the same plain design that makes clear your low status as a magician."
+ },
+ {
+  "id": "307",
+  "name": "Journeyman Gauntlets",
+  "desc": "Standard equipment sold by the Wizard's Guild. Overpriced but sturdy."
+ },
+ {
+  "id": "308",
+  "name": "Journeyman Boots",
+  "desc": "Standard equipment sold by the Wizard's Guild. Overpriced but sturdy."
+ },
+ {
+  "id": "309",
+  "name": "Journeyman Cap",
+  "desc": "Standard equipment sold by the Wizard's Guild. Overpriced but sturdy."
+ },
+ {
+  "id": "320",
+  "name": "Firedancer Robes",
+  "desc": "Fortunately, flames seem to kill any germs left by goblins."
+ },
+ {
+  "id": "321",
+  "name": "Primzar's Tunic",
+  "desc": "The crazy enchanter won't be needing this anytime soon."
+ },
+ {
+  "id": "322",
+  "name": "Toga of the Theurgist",
+  "desc": "Excellent quality, but proves there's bad taste even among the mightiest sorcerers."
+ },
+ {
+  "id": "323",
+  "name": "Forest Robes",
+  "desc": "Often worn by druids and other varieties of treehuggers."
+ },
+ {
+  "id": "370",
+  "name": "Willow Wand",
+  "desc": "Perfect to piss off enemies and get in trouble."
+ },
+ {
+  "id": "371",
+  "name": "Oak Wand",
+  "desc": "Every young apprentice dreams of getting one of these."
+ },
+ {
+  "id": "372",
+  "name": "Wand of Scorching",
+  "desc": "Apprentices need this to lit the fires before cooking. I guess it can be used as a weapon too..."
+ },
+ {
+  "id": "380",
+  "name": "Staff of Force",
+  "desc": "A simple magical staff with a mediocre enchantment, yet effective."
+ },
+ {
+  "id": "381",
+  "name": "Caduceus of Scorching",
+  "desc": "The fiery enchantment on this staff makes it very popular among young battlemages."
+ },
+ {
+  "id": "382",
+  "name": "GreatStaff of Force",
+  "desc": "A mighty weapon when it's wielded by a mighty wizard."
+ },
+ {
+  "id": "383",
+  "name": "Vitriolic Staff",
+  "desc": "Fires magic projectiles soaked in acid."
+ },
+ {
+  "id": "3034",
+  "name": "Ring of the Scholar",
+  "desc": "A small inscription reads 'Know Thyself'"
+ },
+ {
+  "id": "450",
+  "name": "Lesser Black Orb",
+  "desc": "Holds magical energies whirling inside."
+ },
+ {
+  "id": "451",
+  "name": "Lesser Red Orb",
+  "desc": "Holds magical energies whirling inside."
+ },
+ {
+  "id": "452",
+  "name": "Lesser White Orb",
+  "desc": "Holds magical energies whirling inside."
+ },
+ {
+  "id": "453",
+  "name": "Lesser Green Orb",
+  "desc": "Holds magical energies whirling inside."
+ },
+ {
+  "id": "454",
+  "name": "Lesser Blue Orb",
+  "desc": "Holds magical energies whirling inside."
+ },
+ {
+  "id": "455",
+  "name": "Greater Black Orb",
+  "desc": "Holds magical energies whirling inside."
+ },
+ {
+  "id": "456",
+  "name": "Greater Red Orb",
+  "desc": "Holds magical energies whirling inside."
+ },
+ {
+  "id": "457",
+  "name": "Greater White Orb",
+  "desc": "Holds magical energies whirling inside."
+ },
+ {
+  "id": "458",
+  "name": "Greater Green Orb",
+  "desc": "Holds magical energies whirling inside."
+ },
+ {
+  "id": "459",
+  "name": "Greater Blue Orb",
+  "desc": "Holds magical energies whirling inside."
+ },
+ {
+  "id": "5037",
+  "name": "Deepfrost Cognac",
+  "desc": "Bulky bottle of expensive imported magical liquor. It'll restore 20 mana and 10hp."
+ },
+ {
+  "id": "3034",
+  "name": "Ring of the Scholar",
+  "desc": "A small inscription reads 'Know Thyself'"
+ },
+ {
+  "id": "3035",
+  "name": "Defective Magic Ring",
+  "desc": "Apparently Thuramiams waste nothing."
+ },
+ {
+  "id": "324",
+  "name": "Arcane Leather Boots",
+  "desc": "For the spellcaster that doesn't want to trust everything to magic..."
+ },
+ {
+  "id": "325",
+  "name": "Arcane Leather Doublet",
+  "desc": "For the spellcaster that doesn't want to trust everything to magic..."
+ },
+ {
+  "id": "373",
+  "name": "Icy Wand",
+  "desc": "Wear some gloves to hold this!"
+ },
+ {
+  "id": "374",
+  "name": "Batrax Wand",
+  "desc": "It's slippery... Yuck!"
+ },
+ {
+  "id": "384",
+  "name": "Staff of the Seas",
+  "desc": "An ancient Batrax artifact, covered in undecipherable runes."
+ },
+ {
+  "id": "385",
+  "name": "Wand of Storms",
+  "desc": "The power of lightning and thunder in your hands."
+ },
+ {
+  "id": "326",
+  "name": "Nature's Robes",
+  "desc": "Often worn by druids and other varieties of treehuggers."
+ },
+ {
+  "id": "386",
+  "name": "Tolassian Wand",
+  "desc": "Seems to concentrate large amounts of negative energy inside."
+ },
+ {
+  "id": "387",
+  "name": "Tolassian Greatstaff",
+  "desc": "Used by the mysterious Priests of Tol in ancient times."
+ },
+ {
+  "id": "327",
+  "name": "Shaman Boots",
+  "desc": "They look like a pair of old leather shoes, but they seem to hold a potent enchantment."
+ },
+ {
+  "id": "3509",
+  "name": "Jabal Silk Cloak",
+  "desc": "The Hillsmen learned to craft beautiful clothes out of the silk of the horrific spiders of the region."
+ },
+ {
+  "id": "388",
+  "name": "Staff of Storms",
+  "desc": "The power of lightning and thunder in your hands."
+ },
+ {
+  "id": "389",
+  "name": "Imperial Battlemage Wand",
+  "desc": "The inscription says 'Property of Magus Albrecius, bane of Traitors'."
+ },
+ {
+  "id": "328",
+  "name": "Caretaker Tunic",
+  "desc": "The ancient order was in charge of Necropolis and graveyards in the old Empire."
+ },
+ {
+  "id": "7011",
+  "name": "Belt of Flowing Thought",
+  "desc": "Because potent magic can go with style."
+ },
+ {
+  "id": "7012",
+  "name": "Superior Belt of Flowing Thought",
+  "desc": "Because potent magic can go with style."
+ },
+ {
+  "id": "7013",
+  "name": "Girdle of the Sorcerer",
+  "desc": "Because potent magic can go with style."
+ },
+ {
+  "id": "7014",
+  "name": "Girdle of Intellect",
+  "desc": "Because potent magic can go with style."
+ },
+ {
+  "id": "7015",
+  "name": "Girdle of Supreme Intellect",
+  "desc": "Because potent magic can go with style."
+ },
+ {
+  "id": "310",
+  "name": "Conjurer Gloves",
+  "desc": "Wyvernskin clothing, inscribed with magical runes."
+ },
+ {
+  "id": "311",
+  "name": "Conjurer Boots",
+  "desc": "Wyvernskin clothing, inscribed with magical runes."
+ },
+ {
+  "id": "312",
+  "name": "Conjurer Hood",
+  "desc": "Wyvernskin clothing, inscribed with magical runes."
+ },
+ {
+  "id": "390",
+  "name": "Rod of Incineration",
+  "desc": "Think carefully where you point this at."
+ },
+ {
+  "id": "391",
+  "name": "Elm Wand",
+  "desc": "This mighty wand is often used by the Thuramiam Battlemages"
+ },
+ {
+  "id": "392",
+  "name": "Staff of Mighty Missiles",
+  "desc": "The name says it all, really."
+ },
+ {
+  "id": "331",
+  "name": "Witch Robes",
+  "desc": "You just realized Varannari Witches have a very poor idea of hygiene."
+ },
+ {
+  "id": "3036",
+  "name": "Ring of the Red Sorcerer",
+  "desc": "This golden ring seems to be about to melt, but is oddly cold to the touch."
+ },
+ {
+  "id": "6011",
+  "name": "Scroll: Teleport",
+  "desc": "Recall or travel to any town you visited before. It might fail when cast from large towns and certain locations."
+ },
+ {
+  "id": "6012",
+  "name": "Scroll: Summon Fire Elemental",
+  "desc": "A level 10 Fire Elemental will guard you for 60 seconds"
+ },
+ {
+  "id": "6013",
+  "name": "Scroll: Summon Ice Elemental",
+  "desc": "A level 10 Ice Elemental will guard you for 60 seconds"
+ },
+ {
+  "id": "6014",
+  "name": "Scroll: Planar Binding",
+  "desc": "Your summoned creature will be healed for up to 80hp"
+ },
+ {
+  "id": "4018",
+  "name": "Imperial College Emblem",
+  "desc": "An inscription says 'Imperial College of Elementalism, Garand, y.3216'"
+ },
+ {
+  "id": "3510",
+  "name": "Phantom Cloak",
+  "desc": "If it wasn't so dirty, you could see through it."
+ },
+ {
+  "id": "393",
+  "name": "Magma Greatstaff",
+  "desc": "Think carefully where you point this at."
+ },
+ {
+  "id": "394",
+  "name": "First Winter",
+  "desc": "The origin of this ancient greatstaff is now lost in time."
+ },
+ {
+  "id": "332",
+  "name": "High Mage Robes",
+  "desc": "Woven by the most expert weavers at Icemist."
+ },
+ {
+  "id": "395",
+  "name": "Invisible Fist",
+  "desc": "It hits your enemies from everywhere at the same time."
+ },
+ {
+  "id": "3037",
+  "name": "Ring of the Planeswalker",
+  "desc": "An old inscription says 'Errant, but never lost'"
+ },
+ {
+  "id": "333",
+  "name": "Sorceress' Sandals",
+  "desc": "Powerful? Maybe. But witches have smelly feet, and the scent doesn't go away."
+ },
+ {
+  "id": "329",
+  "name": "Mystic Sandals",
+  "desc": "They tickle your feet with magic energy."
+ },
+ {
+  "id": "330",
+  "name": "Sandals of the Saint",
+  "desc": "The genuine footwear of Saint Admus."
+ },
+ {
+  "id": "396",
+  "name": "The Corruptor",
+  "desc": "A fearsome staff, crafted by the ancient Witches of Orogg"
+ },
+ {
+  "id": "398",
+  "name": "Tesla Emitter",
+  "desc": "Capable of projecting impressive waves of energy."
+ },
+ {
+  "id": "399",
+  "name": "Tesla Rod",
+  "desc": "Capable of projecting impressive waves of energy."
+ },
+ {
+  "id": "460",
+  "name": "Pouch of Reagents",
+  "desc": "Some are born ready. Others learn it, the hard way."
+ },
+ {
+  "id": "461",
+  "name": "Jester's Skull",
+  "desc": "To laugh or not to laugh, this is the question."
+ },
+ {
+  "id": "360",
+  "name": "Scepter of the Underworld",
+  "desc": "Better to rule in hell, or so they say!"
+ },
+ {
+  "id": "260",
+  "name": "Plexifiber Robes",
+  "desc": "It seems charged with energy, and can deflect blows as if it was woven steel."
+ },
+ {
+  "id": "361",
+  "name": "Wand of the Arcanist",
+  "desc": "Deadly, but requires considerable power to be wielded."
+ },
+ {
+  "id": "362",
+  "name": "Staff of the Arcanist",
+  "desc": "Deadly, but requires considerable power to be wielded."
+ },
+ {
+  "id": "363",
+  "name": "Branch of the Holy Tree",
+  "desc": "Smells like apples!"
+ },
+ {
+  "id": "462",
+  "name": "Orb of the High Clouds",
+  "desc": "It seems to be entirely weightless."
+ },
+ {
+  "id": "3511",
+  "name": "Cloak of Dark Fate",
+  "desc": "You hope the name of this artifact changes after you wear it!"
+ },
+ {
+  "id": "334",
+  "name": "Tunic of the Lightning Priest",
+  "desc": "You manage to wear it despite being Mino-sized."
+ },
+ {
+  "id": "335",
+  "name": "Black Silk Leggings",
+  "desc": "Sure the minotaurs fill this with more dignity than you."
+ },
+ {
+  "id": "336",
+  "name": "Breeches of the Mad Wizard",
+  "desc": "As soon as you wear it you feel the need to cackle evilly."
+ },
+ {
+  "id": "364",
+  "name": "Staff of the Traveller",
+  "desc": "The inscription says 'Terror of a Hundred Planes'"
+ },
+ {
+  "id": "463",
+  "name": "Totem of Protection",
+  "desc": "Tribal magic is often mocked by Wizards, yet it's undeniably potent."
+ },
+ {
+  "id": "1024",
+  "name": "Chunk of Fat",
+  "desc": "Now where is that frying pan?"
+ },
+ {
+  "id": "5038",
+  "name": "Whitetower Special",
+  "desc": "Twice distilled magical brandy. Restores 40 mana and 15hp."
+ },
+ {
+  "id": "620",
+  "name": "Glacier Stone",
+  "desc": "Primal Ice from a forgotten era, attached to a Bluesteel handle."
+ },
+ {
+  "id": "2632",
+  "name": "Brother Ladan's Holy Symbol",
+  "desc": "It depicts a blue flaming star encircling the anagram of The Three."
+ },
+ {
+  "id": "4502",
+  "name": "Tiara of the Mentalist",
+  "desc": "It probably looks better on a bald head."
+ },
+ {
+  "id": "233",
+  "name": "Thuramiam Plate Gauntlets",
+  "desc": "Crafted in the Arcane Forges of Icemist."
+ },
+ {
+  "id": "234",
+  "name": "Thuramiam Plate Leggings",
+  "desc": "Crafted in the Arcane Forges of Icemist."
+ },
+ {
+  "id": "235",
+  "name": "Thuramiam Plate Boots",
+  "desc": "Crafted in the Arcane Forges of Icemist."
+ },
+ {
+  "id": "236",
+  "name": "Thuramiam Plate Helm",
+  "desc": "Crafted in the Arcane Forges of Icemist."
+ },
+ {
+  "id": "337",
+  "name": "Ragged Mittens",
+  "desc": "A way to protect your hands while your fingers can still perform magical gestures."
+ },
+ {
+  "id": "338",
+  "name": "Gloves of the Archmage",
+  "desc": "A small tag says 'Property of Darrezan, Master of the Void'"
+ },
+ {
+  "id": "3038",
+  "name": "Arcanist's Ring of Ice",
+  "desc": "Very popular among travelling wizards."
+ },
+ {
+  "id": "755",
+  "name": "Enchanted Vulcan Bow",
+  "desc": "With this you can truly 'fire' arrows."
+ },
+ {
+  "id": "2534",
+  "name": "Ruby Key with number 4",
+  "desc": "It seems to be very ancient, probably magical."
+ },
+ {
+  "id": "2535",
+  "name": "Ruby Key with number 5",
+  "desc": "It seems to be very ancient, probably magical."
+ },
+ {
+  "id": "4019",
+  "name": "Amulet of Whispers",
+  "desc": "A strange symbol of a winged woman is engraved on it."
+ },
+ {
+  "id": "4020",
+  "name": "Amulet of Dark Whispers",
+  "desc": "A strange symbol of a winged woman is engraved on it."
+ },
+ {
+  "id": "2633",
+  "name": "Beating Heart",
+  "desc": "You don't understand how this thing can still be warm and alive, but it is."
+ },
+ {
+  "id": "756",
+  "name": "Phantom Longsword",
+  "desc": "Its blade is barely visible... But its bite is deadly."
+ },
+ {
+  "id": "365",
+  "name": "Staff of Impact",
+  "desc": "Only the Arch-Mages could handle so much power."
+ },
+ {
+  "id": "366",
+  "name": "Staff of the Dead Kings",
+  "desc": "As they ruled in life, they expected to master death itself."
+ },
+ {
+  "id": "367",
+  "name": "Wand of Power",
+  "desc": "Only the Arch-Mages could handle so much power."
+ },
+ {
+  "id": "339",
+  "name": "Hood of the Hermit",
+  "desc": "Fills your mind with peaceful thoughts."
+ },
+ {
+  "id": "2536",
+  "name": "Magical Ruby",
+  "desc": "Gleams with a malignant purple light."
+ },
+ {
+  "id": "5052",
+  "name": "Greater Potion of Mana",
+  "desc": "Keep going and going! Recovers +70 mana."
+ },
+ {
+  "id": "368",
+  "name": "Crystallized Wand",
+  "desc": "The weapon of the fabled Imperial Demonhunters."
+ },
+ {
+  "id": "757",
+  "name": "Queen's Heart",
+  "desc": "Even colder than you can imagine."
+ },
+ {
+  "id": "2634",
+  "name": "Strange Brochure",
+  "desc": "It says 'Come to The Cold Land, best vacation place for elementals! To reach it enter the Castle and turn to the right.'"
+ },
+ {
+  "id": "440",
+  "name": "Varannari Owl Figurine",
+  "desc": "Natives are capable of trapping protective spirits inside wooden totems"
+ },
+ {
+  "id": "6015",
+  "name": "Scroll: Test area",
+  "desc": "xxx."
+ },
+ {
+  "id": "240",
+  "name": "Iron Shield",
+  "desc": "An iron shield."
+ },
+ {
+  "id": "241",
+  "name": "Leather Cuirass",
+  "desc": "Not the best armor in the world, but hey, it's cheap."
+ },
+ {
+  "id": "242",
+  "name": "Buckler",
+  "desc": "You can't call this a shield with a straight face."
+ },
+ {
+  "id": "243",
+  "name": "Chainmail Shirt",
+  "desc": "Protects you, and makes you look cool. Clanks a little, but you get used to that."
+ },
+ {
+  "id": "244",
+  "name": "Hardened Leather Cap",
+  "desc": "Boiled, hardened leather. Sure it's great protection, but it smells funny."
+ },
+ {
+  "id": "245",
+  "name": "Hardened Leather Boots",
+  "desc": "Boiled, hardened leather. Sure it's great protection, but it smells funny."
+ },
+ {
+  "id": "246",
+  "name": "Leather Leggings",
+  "desc": "Good idea to protect yourself from the waist down. That's where goblins hit."
+ },
+ {
+  "id": "2537",
+  "name": "Ruby Key with number 7",
+  "desc": "It seems to be very ancient, probably magical."
+ },
+ {
+  "id": "758",
+  "name": "Wooden Club",
+  "desc": "No wonder this guy died in the Arena..."
+ },
+ {
+  "id": "759",
+  "name": "Burning Club",
+  "desc": "Hmmm... Now this could be useful."
+ },
+ {
+  "id": "760",
+  "name": "Spirit Cleaver",
+  "desc": "Specially crafted to fight otherworldy evil spirits."
+ },
+ {
+  "id": "761",
+  "name": "Spirit Breaker",
+  "desc": "Specially crafted to fight otherworldy evil spirits."
+ },
+ {
+  "id": "441",
+  "name": "Varannari Turtle Figurine",
+  "desc": "Because in the end, what matters is surviving to fight another day."
+ },
+ {
+  "id": "442",
+  "name": "Varannari Cat Figurine",
+  "desc": "Beware of curiosity!"
+ },
+ {
+  "id": "762",
+  "name": "Midnight",
+  "desc": "Could a weapon be made of solidified darkness?"
+ },
+ {
+  "id": "763",
+  "name": "Shadow Blade",
+  "desc": "Now you know why people fear darkness."
+ },
+ {
+  "id": "261",
+  "name": "Hunter's Leggings",
+  "desc": "Varannari armor made of enchanted bearskin."
+ },
+ {
+  "id": "262",
+  "name": "Jeweled Breastplate",
+  "desc": "Golden with inlaid diamonds, worth a king's ransom!"
+ },
+ {
+  "id": "764",
+  "name": "Melporth's Sword",
+  "desc": "Probably crafted in the Empire, but the old inscription was erased."
+ },
+ {
+  "id": "340",
+  "name": "Explorer Gauntlets",
+  "desc": "Enchanted with potent magical enhancements."
+ },
+ {
+  "id": "3039",
+  "name": "Ring of the Trader",
+  "desc": "Earning trust through your actions is tiresome... Use this instead!"
+ },
+ {
+  "id": "2635",
+  "name": "Sir Aramas' Remains",
+  "desc": "The Knight's bones together with his journal. This should prove Bagadar's innocence."
+ },
+ {
+  "id": "443",
+  "name": "Ursan Figurine",
+  "desc": "A prized souvenir from Korne!"
+ },
+ {
+  "id": "369",
+  "name": "Staff of Wonders",
+  "desc": "Crafted by Malan Stargazer, now the mundane tool of adventurers."
+ },
+ {
+  "id": "765",
+  "name": "Silver Bow of Malan",
+  "desc": "One of the famous weapons of the legendary hero."
+ },
+ {
+  "id": "2016",
+  "name": "Purple Diamond",
+  "desc": "They really exist? Nevermind, sell it and never look back!"
+ },
+ {
+  "id": "766",
+  "name": "Scimitar of the Wolf",
+  "desc": "The ancestral blade of House Storme"
+ },
+ {
+  "id": "767",
+  "name": "Maul of Disease",
+  "desc": "Captain Fendrick's weapon. It really reminds you of him."
+ },
+ {
+  "id": "313",
+  "name": "Conjurer Pantaloons",
+  "desc": "Are you preparing a spell or are you happy to see me?"
+ },
+ {
+  "id": "314",
+  "name": "Conjurer Tunic",
+  "desc": "Good old Wyvernskin will always be in."
+ },
+ {
+  "id": "341",
+  "name": "Robe of the White Mage",
+  "desc": "Evil wizards usually love these... Overcompensation maybe?"
+ },
+ {
+  "id": "2636",
+  "name": "Purple Medallion",
+  "desc": "Crafted in the mysterious Underground City. You suspect it might have some special use."
+ },
+ {
+  "id": "2637",
+  "name": "Lifestone",
+  "desc": "This was inside an ancient golem you encountered in the jungle."
+ },
+ {
+  "id": "768",
+  "name": "Hammer of the White Priest",
+  "desc": "Balanced both to smite and to forge."
+ },
+ {
+  "id": "769",
+  "name": "Screaming Mace",
+  "desc": "Not only crushes enemies, also puts up a great show."
+ },
+ {
+  "id": "771",
+  "name": "Skeletal Bow",
+  "desc": "Weird thing to touch, but by now you have grabbed worse stuff."
+ },
+ {
+  "id": "772",
+  "name": "Ghost Eye",
+  "desc": "Charged with deadly energy that burns your enemy's lifeforce."
+ },
+ {
+  "id": "773",
+  "name": "Permafrost Bow",
+  "desc": "The Herald of a deadly winter."
+ },
+ {
+  "id": "375",
+  "name": "Acidspitter",
+  "desc": "Acid is not the favorite weapon of mages, but sometimes it's your best bet."
+ },
+ {
+  "id": "376",
+  "name": "Polarized Staff",
+  "desc": "Ready to Ride the Lightning?"
+ },
+ {
+  "id": "774",
+  "name": "Lady's Eye",
+  "desc": "Cold as the embrace of death."
+ },
+ {
+  "id": "775",
+  "name": "Lord's Fist",
+  "desc": "Ruled over both the living and the dead."
+ },
+ {
+  "id": "5039",
+  "name": "Vial of the Iron Guardian",
+  "desc": "Breaking this bottle will release a powerful ally... But only once."
+ },
+ {
+  "id": "222",
+  "name": "Helm of Leadership",
+  "desc": "Given to you by Centurion Hyartis, it seems to be an Imperial Commander's helm."
+ },
+ {
+  "id": "621",
+  "name": "Forest Lament",
+  "desc": "Ancient blade, carved by the Varannari with a Deer symbol."
+ },
+ {
+  "id": "263",
+  "name": "Hunter's Armor",
+  "desc": "Varannari armor made of enchanted bearskin."
+ },
+ {
+  "id": "1025",
+  "name": "Demonic Wolf Skull",
+  "desc": "This was an ugly bastard, now it's an ugly paperweight"
+ },
+ {
+  "id": "1026",
+  "name": "Demonic Wolf Heart",
+  "desc": "Is it even sanitary to keep picking up this... stuff? I just can't help it."
+ },
+ {
+  "id": "776",
+  "name": "Hunter's Machete",
+  "desc": "Magical ancient blade turned into a glorified hunting knife."
+ },
+ {
+  "id": "5040",
+  "name": "Draught of the Forest Druid",
+  "desc": "The Spirits will grant you +15 mana and +20 hp"
+ },
+ {
+  "id": "622",
+  "name": "Demonclaw",
+  "desc": "It inflicts enemies with the curse of Sloth, slowing them."
+ },
+ {
+  "id": "623",
+  "name": "Ghostfinger",
+  "desc": "Perfect to tickle your enmies' flank."
+ },
+ {
+  "id": "198",
+  "name": "Enchanted Scutum",
+  "desc": "Imperial infantry shield, probably from an officer."
+ },
+ {
+  "id": "5029",
+  "name": "Giant Mead",
+  "desc": "Not the right flavour, but the perfect size. +75hp, +5 melee damage for 12s."
+ },
+ {
+  "id": "624",
+  "name": "Ancestral Blade of the Deer",
+  "desc": "Ancient blade, carved by the Varannari with a Deer symbol."
+ },
+ {
+  "id": "5017",
+  "name": "Essence of Darkness",
+  "desc": "Coat your blade in this, for +12 toxic damage (12 seconds)."
+ },
+ {
+  "id": "3040",
+  "name": "Ring of Perfect Isolation",
+  "desc": "Some people just can't be shocked!"
+ },
+ {
+  "id": "4503",
+  "name": "Greater Tiara of the Heavens",
+  "desc": "You doubt this beauty was crafted by the Witches themselves."
+ },
+ {
+  "id": "3512",
+  "name": "Cloak of the Bear",
+  "desc": "Once the mantle of the true king of the forest, now your war trophy."
+ },
+ {
+  "id": "777",
+  "name": "Magma Dagger",
+  "desc": "Not just a great weapon, also perfect to spread butter."
+ },
+ {
+  "id": "778",
+  "name": "Dancing Flame",
+  "desc": "Forged in the Basalt Citadel, home of all fire demons."
+ },
+ {
+  "id": "779",
+  "name": "Golden Wand",
+  "desc": "Purity is the greatest weapon against the wicked."
+ },
+ {
+  "id": "770",
+  "name": "Vindicator",
+  "desc": "It's here to make things right."
+ },
+ {
+  "id": "625",
+  "name": "Fiendish Dagger",
+  "desc": "A ritual weapon that sucks the life out of your victims."
+ },
+ {
+  "id": "4021",
+  "name": "Battle Gorget",
+  "desc": "Necklaces are fancy, but not everyone is a hippie."
+ },
+ {
+  "id": "5053",
+  "name": "Panacea",
+  "desc": "+40 to Resist Fire, Cold and Shock for 20s."
+ }
+]

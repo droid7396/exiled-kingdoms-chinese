@@ -1,0 +1,18 @@
+# 构建产物
+dist/
+*.zip
+*.jar
+
+# 运行时/缓存
+gen/
+__pycache__/
+*.pyc
+
+# 字体位图（大文件，由 build_fonts.sh 生成，不含在仓库）
+*.png
+!docs/**/*.png
+
+# 备份/本地实验
+*_bak/
+*_bak
+crash_fonts/
