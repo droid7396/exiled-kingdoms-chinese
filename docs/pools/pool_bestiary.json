@@ -1,0 +1,1678 @@
+[
+ {
+  "id": "batrax",
+  "name": "Batrax"
+ },
+ {
+  "id": "batrax_theurgist",
+  "name": "Batrax Theurgist"
+ },
+ {
+  "id": "worm",
+  "name": "Carrion Eater"
+ },
+ {
+  "id": "devourer",
+  "name": "Devourer"
+ },
+ {
+  "id": "spider_lesser",
+  "name": "Inori Spider"
+ },
+ {
+  "id": "bloodcrawler",
+  "name": "Bloodcrawler"
+ },
+ {
+  "id": "spider",
+  "name": "Giant Spider"
+ },
+ {
+  "id": "sand_spider",
+  "name": "Sand Spider"
+ },
+ {
+  "id": "spider_monstruous",
+  "name": "Monstruous Spider"
+ },
+ {
+  "id": "grey_wolf",
+  "name": "Grey Wolf"
+ },
+ {
+  "id": "tamed_wolf",
+  "name": "Wolf"
+ },
+ {
+  "id": "wolf",
+  "name": "Wolf"
+ },
+ {
+  "id": "dire_wolf",
+  "name": "Dire Wolf"
+ },
+ {
+  "id": "coyote",
+  "name": "Coyote"
+ },
+ {
+  "id": "rat",
+  "name": "Rat"
+ },
+ {
+  "id": "bear",
+  "name": "Bear"
+ },
+ {
+  "id": "sabercat",
+  "name": "Sabercat"
+ },
+ {
+  "id": "sabercat_alpha",
+  "name": "Sabercat Alpha"
+ },
+ {
+  "id": "sabercat_corrupted",
+  "name": "Corrupted Sabercat"
+ },
+ {
+  "id": "polar_bear",
+  "name": "Winter Bear"
+ },
+ {
+  "id": "vorator",
+  "name": "Vorator"
+ },
+ {
+  "id": "vorator_matriarch",
+  "name": "Matriarch Voratrix"
+ },
+ {
+  "id": "vorator_grozza",
+  "name": "Grozza the Insatiable"
+ },
+ {
+  "id": "polar_elder",
+  "name": "Primeval Bear"
+ },
+ {
+  "id": "giant_rat",
+  "name": "Giant Rat"
+ },
+ {
+  "id": "swamp_rat",
+  "name": "Swamp Scavenger"
+ },
+ {
+  "id": "enraged_rat",
+  "name": "Enraged Giant Rat"
+ },
+ {
+  "id": "white_wolf",
+  "name": "White Wolf"
+ },
+ {
+  "id": "hellhound",
+  "name": "Hell Hound"
+ },
+ {
+  "id": "goblin",
+  "name": "Goblin"
+ },
+ {
+  "id": "goblin_spearman",
+  "name": "Goblin Warrior"
+ },
+ {
+  "id": "goblin_archer",
+  "name": "Goblin Spearman"
+ },
+ {
+  "id": "goblin_guardian",
+  "name": "Goblin Guardian"
+ },
+ {
+  "id": "goblin_sergeant",
+  "name": "Goblin Sergeant"
+ },
+ {
+  "id": "goblin_beastlord",
+  "name": "Goblin Beastlord"
+ },
+ {
+  "id": "goblin_firedancer",
+  "name": "Goblin Firedancer"
+ },
+ {
+  "id": "goblin_firelord",
+  "name": "Goblin Firelord"
+ },
+ {
+  "id": "goblin_firedancer_izharrak",
+  "name": "Firedancer Izharrak"
+ },
+ {
+  "id": "goblin_king",
+  "name": "Goblin King"
+ },
+ {
+  "id": "hobgoblin_warrior",
+  "name": "Hobgoblin"
+ },
+ {
+  "id": "ice_shaman",
+  "name": "Ice Shaman"
+ },
+ {
+  "id": "hobgoblin_warlord",
+  "name": "Ice Warlord"
+ },
+ {
+  "id": "orc",
+  "name": "Orc Grunt"
+ },
+ {
+  "id": "orc_warrior",
+  "name": "Orc Warrior"
+ },
+ {
+  "id": "orc_archer",
+  "name": "Orc Archer"
+ },
+ {
+  "id": "orc_elite",
+  "name": "Orc Elite"
+ },
+ {
+  "id": "orc_trooper",
+  "name": "Orc Trooper"
+ },
+ {
+  "id": "orc_shooter",
+  "name": "Orc Shooter"
+ },
+ {
+  "id": "orc_cook",
+  "name": "Orc Cook"
+ },
+ {
+  "id": "orc_king",
+  "name": "Orc King"
+ },
+ {
+  "id": "troll",
+  "name": "Troll"
+ },
+ {
+  "id": "elder_troll",
+  "name": "Elder Troll"
+ },
+ {
+  "id": "troll_shaman",
+  "name": "Troll Shaman"
+ },
+ {
+  "id": "enraged_troll",
+  "name": "Enraged Troll"
+ },
+ {
+  "id": "troll_king",
+  "name": "Troll King"
+ },
+ {
+  "id": "king_gurguth",
+  "name": "King Gurguth"
+ },
+ {
+  "id": "minotaur",
+  "name": "Minotaur"
+ },
+ {
+  "id": "minotaur_lord",
+  "name": "Minotaur Lord"
+ },
+ {
+  "id": "minotaur_oracle",
+  "name": "Minotaur Oracle"
+ },
+ {
+  "id": "enraged_minotaur_ng",
+  "name": "Enraged Minotaur"
+ },
+ {
+  "id": "mino_raider",
+  "name": "Minotaur Raider"
+ },
+ {
+  "id": "mino_raider_oracle",
+  "name": "Minotaur Oracle"
+ },
+ {
+  "id": "ursan",
+  "name": "Ursan"
+ },
+ {
+  "id": "mirmek_hatchling",
+  "name": "Mirmek Hatchling"
+ },
+ {
+  "id": "mirmek",
+  "name": "Mirmek"
+ },
+ {
+  "id": "mirmek_fire",
+  "name": "Fire Mirmek"
+ },
+ {
+  "id": "mirmek_queen",
+  "name": "Mirmek Queen"
+ },
+ {
+  "id": "antilion",
+  "name": "Gig-ant"
+ },
+ {
+  "id": "antilion_warrior",
+  "name": "Antillion Warrior"
+ },
+ {
+  "id": "skeleton",
+  "name": "Skeleton"
+ },
+ {
+  "id": "skeleton_warrior",
+  "name": "Skeleton"
+ },
+ {
+  "id": "skeleton_archer",
+  "name": "Skeletal Archer"
+ },
+ {
+  "id": "skeleton_evoker",
+  "name": "Skeletal Evoker"
+ },
+ {
+  "id": "skeleton_champion",
+  "name": "Skeletal Champion"
+ },
+ {
+  "id": "skeleton_hero",
+  "name": "Fallen Hero"
+ },
+ {
+  "id": "skeleton_dragoon",
+  "name": "Fallen Dragoon"
+ },
+ {
+  "id": "zombie",
+  "name": "Zombie"
+ },
+ {
+  "id": "desert_mummy",
+  "name": "Mummy"
+ },
+ {
+  "id": "ancient_mummy",
+  "name": "Ancient Mummy"
+ },
+ {
+  "id": "ghost",
+  "name": "Ghost"
+ },
+ {
+  "id": "ghost_initiate",
+  "name": "Glaydan's Ghost"
+ },
+ {
+  "id": "wraith",
+  "name": "Wraith"
+ },
+ {
+  "id": "vengeful_wraith",
+  "name": "Vengeful Wraith"
+ },
+ {
+  "id": "death_knight",
+  "name": "Death Knight"
+ },
+ {
+  "id": "morfados",
+  "name": "Sir Morfados"
+ },
+ {
+  "id": "D11_abbot",
+  "name": "The Abbot"
+ },
+ {
+  "id": "nightwalker_lord",
+  "name": "Nightwalker Lord"
+ },
+ {
+  "id": "demon_fire",
+  "name": "Demon"
+ },
+ {
+  "id": "zeghast",
+  "name": "Zeghast"
+ },
+ {
+  "id": "imp_fire",
+  "name": "Imp"
+ },
+ {
+  "id": "imp_fire_priest",
+  "name": "Flame Priest"
+ },
+ {
+  "id": "imp_ice",
+  "name": "Icylon"
+ },
+ {
+  "id": "imp_shock",
+  "name": "Sparkling"
+ },
+ {
+  "id": "villager_female_blue",
+  "name": "Villager"
+ },
+ {
+  "id": "villager_female_red",
+  "name": "Villager"
+ },
+ {
+  "id": "villager_female_purple",
+  "name": "Villager"
+ },
+ {
+  "id": "villager_male_blue",
+  "name": "Villager"
+ },
+ {
+  "id": "villager_male_green",
+  "name": "Villager"
+ },
+ {
+  "id": "villager_male_black",
+  "name": "Villager"
+ },
+ {
+  "id": "villager_male_red",
+  "name": "Villager"
+ },
+ {
+  "id": "villager_female_white",
+  "name": "Villager"
+ },
+ {
+  "id": "slave_male",
+  "name": "Slave"
+ },
+ {
+  "id": "slave_female",
+  "name": "Slave"
+ },
+ {
+  "id": "fugitive_slave_male",
+  "name": "Slave"
+ },
+ {
+  "id": "fugitive_slave_female",
+  "name": "Slave"
+ },
+ {
+  "id": "slave_var_male",
+  "name": "Slave"
+ },
+ {
+  "id": "slave_var_female",
+  "name": "Slave"
+ },
+ {
+  "id": "human_soldier",
+  "name": "Soldier"
+ },
+ {
+  "id": "human_archer",
+  "name": "Archer"
+ },
+ {
+  "id": "human_captain",
+  "name": "Captain"
+ },
+ {
+  "id": "mist_hunter",
+  "name": "Mist Hunter"
+ },
+ {
+  "id": "human_captain_female",
+  "name": "Captain"
+ },
+ {
+  "id": "mercian_legionnaire_female",
+  "name": "Legionnaire"
+ },
+ {
+  "id": "mercian_legionnaire_male",
+  "name": "Legionnaire"
+ },
+ {
+  "id": "mercian_legionnaire_female_weak",
+  "name": "Legionnaire"
+ },
+ {
+  "id": "human_soldier_female",
+  "name": "Soldier"
+ },
+ {
+  "id": "human_sergeant_male",
+  "name": "Sergeant"
+ },
+ {
+  "id": "human_sergeant_female",
+  "name": "Sergeant"
+ },
+ {
+  "id": "varannari_leader",
+  "name": "Varannari Huntmaster"
+ },
+ {
+  "id": "varannari_male",
+  "name": "Varannari Hunter"
+ },
+ {
+  "id": "varannari_female",
+  "name": "Varannari Hunter"
+ },
+ {
+  "id": "varannari_rebel",
+  "name": "Varannari Hunter"
+ },
+ {
+  "id": "varannari_hostile_rebel",
+  "name": "Varannari Hunter"
+ },
+ {
+  "id": "bandit_male",
+  "name": "Bandit"
+ },
+ {
+  "id": "bandit_ranged",
+  "name": "Bandit"
+ },
+ {
+  "id": "bandit_female_elite",
+  "name": "Elite Bandit"
+ },
+ {
+  "id": "bandit_male_elite",
+  "name": "Elite Bandit"
+ },
+ {
+  "id": "bandit_male_assasin",
+  "name": "Assasin"
+ },
+ {
+  "id": "outlaw",
+  "name": "Outlaw"
+ },
+ {
+  "id": "outlaw_archer",
+  "name": "Outlaw"
+ },
+ {
+  "id": "outlaw_chief",
+  "name": "Outlaw Chief"
+ },
+ {
+  "id": "outlaw_archer_elite",
+  "name": "Elite Archer"
+ },
+ {
+  "id": "outlaw_king",
+  "name": "Bandit King"
+ },
+ {
+  "id": "male_nightblade",
+  "name": "Nightblade"
+ },
+ {
+  "id": "female_nightblade",
+  "name": "Nightblade"
+ },
+ {
+  "id": "cultist_male",
+  "name": "Cultist"
+ },
+ {
+  "id": "adventurer_1",
+  "name": "RANDOM"
+ },
+ {
+  "id": "adventurer_2",
+  "name": "RANDOM"
+ },
+ {
+  "id": "adventurer_3",
+  "name": "RANDOM"
+ },
+ {
+  "id": "adventurer_4",
+  "name": "RANDOM"
+ },
+ {
+  "id": "cultist_leader_ng",
+  "name": "Forsaken Leader"
+ },
+ {
+  "id": "horton",
+  "name": "Horton"
+ },
+ {
+  "id": "horton_thug",
+  "name": "Horton's friend"
+ },
+ {
+  "id": "erhar",
+  "name": "Erhar"
+ },
+ {
+  "id": "erhar_hostile",
+  "name": "Erhar"
+ },
+ {
+  "id": "necromancer_lord",
+  "name": "Necromancer"
+ },
+ {
+  "id": "necromancer_D9",
+  "name": "Necromancer"
+ },
+ {
+  "id": "conjurer_14",
+  "name": "Conjurer"
+ },
+ {
+  "id": "riella",
+  "name": "Riella"
+ },
+ {
+  "id": "fast_foot",
+  "name": "Varannari Huntmaster"
+ },
+ {
+  "id": "adaon_tutorial",
+  "name": "Adaon"
+ },
+ {
+  "id": "grissenda",
+  "name": "Grissenda"
+ },
+ {
+  "id": "adaon",
+  "name": "Adaon"
+ },
+ {
+  "id": "hirge",
+  "name": "Hirge"
+ },
+ {
+  "id": "rodney",
+  "name": "Rodney"
+ },
+ {
+  "id": "liserpix",
+  "name": "Liserpix"
+ },
+ {
+  "id": "niur",
+  "name": "Niur"
+ },
+ {
+  "id": "teram",
+  "name": "Teram"
+ },
+ {
+  "id": "trix",
+  "name": "Trix"
+ },
+ {
+  "id": "female_priestess",
+  "name": "Priestess"
+ },
+ {
+  "id": "imp_greater",
+  "name": "Imp Lord"
+ },
+ {
+  "id": "vigilant_knight",
+  "name": "Vigilant Knight"
+ },
+ {
+  "id": "mercenary",
+  "name": "Mercenary"
+ },
+ {
+  "id": "varaol",
+  "name": "Varaol"
+ },
+ {
+  "id": "guild_mercenary",
+  "name": "Mercenary"
+ },
+ {
+  "id": "dumek",
+  "name": "Sergeant Dumek"
+ },
+ {
+  "id": "orc_warlord_xurta",
+  "name": "Warlord Xurta"
+ },
+ {
+  "id": "wyvern",
+  "name": "Wyvern"
+ },
+ {
+  "id": "tolassian_priest",
+  "name": "tolassian Champion"
+ },
+ {
+  "id": "urcrymdrax",
+  "name": "Urcrymdrax"
+ },
+ {
+  "id": "faazvolfrul",
+  "name": "Faazvolfrul"
+ },
+ {
+  "id": "wyvern_whelp",
+  "name": "Wyvern whelp"
+ },
+ {
+  "id": "fire_drake",
+  "name": "Fire Drake"
+ },
+ {
+  "id": "ice_drake",
+  "name": "Ice Drake"
+ },
+ {
+  "id": "janod",
+  "name": "Janod"
+ },
+ {
+  "id": "druid",
+  "name": "Druid"
+ },
+ {
+  "id": "druid_rhoneis",
+  "name": "Varannari Druid"
+ },
+ {
+  "id": "druid_bodyguard",
+  "name": "Bodyguard"
+ },
+ {
+  "id": "enraged_werewolf",
+  "name": "Furious Werewolf"
+ },
+ {
+  "id": "bafrat",
+  "name": "Bafrat"
+ },
+ {
+  "id": "centurion_kanum",
+  "name": "Centurion"
+ },
+ {
+  "id": "madman_sargos",
+  "name": "A scarred vagabond"
+ },
+ {
+  "id": "druid_tyogos",
+  "name": "Tyogos"
+ },
+ {
+  "id": "bodyguard_surtag",
+  "name": "Surtag"
+ },
+ {
+  "id": "xidar",
+  "name": "Lady Xidar"
+ },
+ {
+  "id": "lich_G7",
+  "name": "Araim Darkflames"
+ },
+ {
+  "id": "rogue_archer_8",
+  "name": "Archer"
+ },
+ {
+  "id": "rogue_melee_8",
+  "name": "Rogue"
+ },
+ {
+  "id": "rodo",
+  "name": "Rodo"
+ },
+ {
+  "id": "rogue_archer_12",
+  "name": "Archer"
+ },
+ {
+  "id": "rogue_melee_12",
+  "name": "Rogue"
+ },
+ {
+  "id": "nifuruc",
+  "name": "Nifuruc"
+ },
+ {
+  "id": "kardagis",
+  "name": "Kardagis"
+ },
+ {
+  "id": "knight",
+  "name": "Knight"
+ },
+ {
+  "id": "female_knight",
+  "name": "Knight"
+ },
+ {
+  "id": "raegar",
+  "name": "Raegar"
+ },
+ {
+  "id": "renda_windstrike",
+  "name": "Renda Windstrike"
+ },
+ {
+  "id": "renda_windstrike_hostile",
+  "name": "Renda Windstrike"
+ },
+ {
+  "id": "gurr",
+  "name": "Gurr"
+ },
+ {
+  "id": "gurr_hostile",
+  "name": "Gurr"
+ },
+ {
+  "id": "mad_monk",
+  "name": "Mad Monk"
+ },
+ {
+  "id": "mad_monk_healer",
+  "name": "Mad Monk"
+ },
+ {
+  "id": "travelling_monk",
+  "name": "Monk"
+ },
+ {
+  "id": "master_monk",
+  "name": "Mad Master"
+ },
+ {
+  "id": "primzar",
+  "name": "Wizard"
+ },
+ {
+  "id": "leanna_assassin",
+  "name": "A Lady"
+ },
+ {
+  "id": "zenmo",
+  "name": "Zenmo"
+ },
+ {
+  "id": "sulidar",
+  "name": "Sulidar"
+ },
+ {
+  "id": "D8_werewolf",
+  "name": "Werewolf"
+ },
+ {
+  "id": "jailer",
+  "name": "Jailer"
+ },
+ {
+  "id": "knight_hostile",
+  "name": "Soldier"
+ },
+ {
+  "id": "female_knight_hostile",
+  "name": "Soldier"
+ },
+ {
+  "id": "hostile_decurion",
+  "name": "Soldier"
+ },
+ {
+  "id": "witch",
+  "name": "Varannari Witch"
+ },
+ {
+  "id": "witch_greater",
+  "name": "Hag"
+ },
+ {
+  "id": "D8_nightwalker",
+  "name": "Nightwalker"
+ },
+ {
+  "id": "NI_nightwalker",
+  "name": "Nightwalker"
+ },
+ {
+  "id": "elemental_earth_lesser",
+  "name": "Lesser Earth Elemental"
+ },
+ {
+  "id": "elemental_earth",
+  "name": "Earth Elemental"
+ },
+ {
+  "id": "elemental_acid",
+  "name": "Acid Elemental"
+ },
+ {
+  "id": "golem_iron",
+  "name": "Iron Golem"
+ },
+ {
+  "id": "hill_giant",
+  "name": "Hill Giant"
+ },
+ {
+  "id": "hill_giant_chieftain",
+  "name": "Giant Chieftain"
+ },
+ {
+  "id": "ghostly_scribe",
+  "name": "Ghostly Scribe"
+ },
+ {
+  "id": "mercia_royal_2",
+  "name": "Brimard"
+ },
+ {
+  "id": "mercia_royal_3",
+  "name": "Falund"
+ },
+ {
+  "id": "mercia_royal_6",
+  "name": "Nastur"
+ },
+ {
+  "id": "J10_laertes",
+  "name": "Laertes"
+ },
+ {
+  "id": "manticore_whelp",
+  "name": "Manticore Whelp"
+ },
+ {
+  "id": "manticore_costume",
+  "name": "Fake Manticore"
+ },
+ {
+  "id": "J10_laertes_hostile",
+  "name": "Laertes"
+ },
+ {
+  "id": "J9_duremas",
+  "name": "Duremas"
+ },
+ {
+  "id": "batrax_kakrak",
+  "name": "Kakrak"
+ },
+ {
+  "id": "batrax_elleira",
+  "name": "Elleira"
+ },
+ {
+  "id": "white_dragon",
+  "name": "White Dragon"
+ },
+ {
+  "id": "red_dragon",
+  "name": "Red Dragon"
+ },
+ {
+  "id": "green_dragon",
+  "name": "Green Dragon"
+ },
+ {
+  "id": "minotaur_warlord",
+  "name": "Minotaur Warlord"
+ },
+ {
+  "id": "lich",
+  "name": "Lich"
+ },
+ {
+  "id": "manticore_great",
+  "name": "Great Manticore"
+ },
+ {
+  "id": "manticore",
+  "name": "Manticore"
+ },
+ {
+  "id": "troll_marauder",
+  "name": "Troll Marauder"
+ },
+ {
+  "id": "ursan_chief",
+  "name": "Ursan Chief"
+ },
+ {
+  "id": "skeleton_warlord",
+  "name": "Skeletal Warlord"
+ },
+ {
+  "id": "zuzsare",
+  "name": "Flame Prophet"
+ },
+ {
+  "id": "zuzsare_hostile",
+  "name": "Zuz'sare"
+ },
+ {
+  "id": "undermother",
+  "name": "The Undermother"
+ },
+ {
+  "id": "undermother_weak",
+  "name": "The Undermother"
+ },
+ {
+  "id": "wild_werewolf",
+  "name": "Werewolf"
+ },
+ {
+  "id": "D11_greater_demon",
+  "name": "Greater Demon"
+ },
+ {
+  "id": "manticore_lesser",
+  "name": "Manticore Whelp"
+ },
+ {
+  "id": "mamba",
+  "name": "Mamba"
+ },
+ {
+  "id": "coral_snake",
+  "name": "Coral Snake"
+ },
+ {
+  "id": "friguld_guard",
+  "name": "Guard"
+ },
+ {
+  "id": "friguld_captain",
+  "name": "Captain"
+ },
+ {
+  "id": "h7_jarbad",
+  "name": "Jarbad"
+ },
+ {
+  "id": "steel_thunder",
+  "name": "Steel Thunder"
+ },
+ {
+  "id": "H6_chancellor",
+  "name": "Chancellor Malard"
+ },
+ {
+  "id": "giant_mamba",
+  "name": "Giant Mamba"
+ },
+ {
+  "id": "golem_iron_lesser",
+  "name": "Iron Guardian"
+ },
+ {
+  "id": "H6_snake",
+  "name": "Zilda"
+ },
+ {
+  "id": "G6_snake",
+  "name": "Zilda"
+ },
+ {
+  "id": "H6_director",
+  "name": "Director"
+ },
+ {
+  "id": "kurg_ape",
+  "name": "Kurg Ape"
+ },
+ {
+  "id": "kurg_silverback",
+  "name": "Kurg Silverback"
+ },
+ {
+  "id": "kurg_king",
+  "name": "Kurg King"
+ },
+ {
+  "id": "kurg_elder",
+  "name": "Kurg Elder"
+ },
+ {
+  "id": "H6_clerk",
+  "name": "Clerk"
+ },
+ {
+  "id": "lich_H7",
+  "name": "High Priest"
+ },
+ {
+  "id": "D12_werewolf_ahroun",
+  "name": "Ahroun"
+ },
+ {
+  "id": "D12_warrior",
+  "name": "Warrior"
+ },
+ {
+  "id": "D12_warrior_silver",
+  "name": "Warrior"
+ },
+ {
+  "id": "D12_xerla",
+  "name": "Xerla"
+ },
+ {
+  "id": "lesser_werewolf",
+  "name": "Werewolf"
+ },
+ {
+  "id": "mercia_royal_1",
+  "name": "Tharum"
+ },
+ {
+  "id": "ice_wolf",
+  "name": "Ice Wolf"
+ },
+ {
+  "id": "horror",
+  "name": "Dimensional Parasite"
+ },
+ {
+  "id": "minotaur_ashen",
+  "name": "Ashen Minotaur"
+ },
+ {
+  "id": "minotaur_oracle_ashen",
+  "name": "Ashen Oracle"
+ },
+ {
+  "id": "minotaur_ashen_warlord",
+  "name": "Ashen Warlord"
+ },
+ {
+  "id": "minotaur_underking",
+  "name": "The Underking"
+ },
+ {
+  "id": "saaldarmelar",
+  "name": "Saaldarmelar"
+ },
+ {
+  "id": "xambyr",
+  "name": "Xambyr"
+ },
+ {
+  "id": "steel_spider",
+  "name": "Steel Spider"
+ },
+ {
+  "id": "steel_wizard",
+  "name": "Steel Wizard"
+ },
+ {
+  "id": "young_ice_wyrm",
+  "name": "Young Ice Wyrm"
+ },
+ {
+  "id": "minotaur_royal_guard",
+  "name": "Royal Guard"
+ },
+ {
+  "id": "minotaur_priest",
+  "name": "Priest"
+ },
+ {
+  "id": "minotaur_highpriest",
+  "name": "High Priestess Br'mee"
+ },
+ {
+  "id": "minotaur_king",
+  "name": "King M'dmoo"
+ },
+ {
+  "id": "minotaur_renegade",
+  "name": "Renegade"
+ },
+ {
+  "id": "demonic_spider",
+  "name": "Demonic Spider"
+ },
+ {
+  "id": "zombie_dragon",
+  "name": "Zombie Dragon"
+ },
+ {
+  "id": "goblin_zealot",
+  "name": "Zealot"
+ },
+ {
+  "id": "dragon_priest",
+  "name": "Dragon Priest"
+ },
+ {
+  "id": "red_dragon_elder",
+  "name": "Elder Dragon"
+ },
+ {
+  "id": "valeran",
+  "name": "Valeran"
+ },
+ {
+  "id": "goblin_weaponsmith",
+  "name": "Stridsibum"
+ },
+ {
+  "id": "war_droid",
+  "name": "Battle Droid"
+ },
+ {
+  "id": "I3_amarisa",
+  "name": "Amarisa"
+ },
+ {
+  "id": "forsaken_knight",
+  "name": "Forsaken"
+ },
+ {
+  "id": "forsaken_assassin",
+  "name": "Forsaken"
+ },
+ {
+  "id": "forsaken_mage",
+  "name": "Forsaken"
+ },
+ {
+  "id": "magister",
+  "name": "Magister"
+ },
+ {
+  "id": "forsaken_knight2",
+  "name": "Forsaken"
+ },
+ {
+  "id": "forsaken_calenda",
+  "name": "Lady Calenda"
+ },
+ {
+  "id": "amarisa_reactor",
+  "name": "Amarisa"
+ },
+ {
+  "id": "forsaken_calenda_victim",
+  "name": "Lady Calenda"
+ },
+ {
+  "id": "spirit_wolf",
+  "name": "Spirit Wolf"
+ },
+ {
+  "id": "familiar1",
+  "name": "Sparkling"
+ },
+ {
+  "id": "familiar2",
+  "name": "Sparkling"
+ },
+ {
+  "id": "mausoleum_lich",
+  "name": "Lich"
+ },
+ {
+  "id": "fire_elemental_1",
+  "name": "Fire Elemental"
+ },
+ {
+  "id": "fire_elemental_2",
+  "name": "Fire Elemental"
+ },
+ {
+  "id": "fire_elemental_3",
+  "name": "Fire Elemental"
+ },
+ {
+  "id": "ice_elemental_1",
+  "name": "Ice Elemental"
+ },
+ {
+  "id": "ice_elemental_2",
+  "name": "Ice Elemental"
+ },
+ {
+  "id": "ice_elemental_3",
+  "name": "Ice Elemental"
+ },
+ {
+  "id": "conjurer_14_female",
+  "name": "Conjurer"
+ },
+ {
+  "id": "earth_elemental_1",
+  "name": "Earth Elemental"
+ },
+ {
+  "id": "yeti",
+  "name": "Yeti"
+ },
+ {
+  "id": "yeti_ancient",
+  "name": "Ancient Yeti"
+ },
+ {
+  "id": "h12_woodsman",
+  "name": "Woodsman"
+ },
+ {
+  "id": "IM_greyrune",
+  "name": "Dorphis Greyrune"
+ },
+ {
+  "id": "IM_night_lord",
+  "name": "Night Lord"
+ },
+ {
+  "id": "arcane_knight_captain",
+  "name": "Arcane Knight"
+ },
+ {
+  "id": "IM_amarisa",
+  "name": "Amarisa"
+ },
+ {
+  "id": "golem_iron_1",
+  "name": "Iron Golem"
+ },
+ {
+  "id": "g13_dragon",
+  "name": "Krysoradir"
+ },
+ {
+  "id": "mercia_royal_4",
+  "name": "Myrso"
+ },
+ {
+  "id": "mercia_royal_5",
+  "name": "Tenera"
+ },
+ {
+  "id": "elemental_acid_epic",
+  "name": "Animated Waste"
+ },
+ {
+  "id": "mutant_rat",
+  "name": "Mutant Rat"
+ },
+ {
+  "id": "mutant_devourer",
+  "name": "Mutant Devourer"
+ },
+ {
+  "id": "skeleton_giant",
+  "name": "Giant Skeleton"
+ },
+ {
+  "id": "demilich",
+  "name": "Demilich"
+ },
+ {
+  "id": "carrion_lord",
+  "name": "Carrion Lord"
+ },
+ {
+  "id": "IM_sewer_lich",
+  "name": "Merzadan the Undying"
+ },
+ {
+  "id": "golem_steel",
+  "name": "Ancient Guardian"
+ },
+ {
+  "id": "blue_wizard",
+  "name": "Blue Wizard"
+ },
+ {
+  "id": "red_wizard",
+  "name": "Red Wizard"
+ },
+ {
+  "id": "ice_elemental_epic",
+  "name": "Ice elemental"
+ },
+ {
+  "id": "fire_elemental_epic",
+  "name": "Fire Elemental"
+ },
+ {
+  "id": "white_dragon_epic",
+  "name": "White King"
+ },
+ {
+  "id": "red_wizard_lord",
+  "name": "Saradan the Fire Lord"
+ },
+ {
+  "id": "IM_breno",
+  "name": "Breno"
+ },
+ {
+  "id": "IM_demon",
+  "name": "Demon"
+ },
+ {
+  "id": "IM_demon_greater",
+  "name": "Greater Demon"
+ },
+ {
+  "id": "IM_lord_pit",
+  "name": "Lord of the Pit"
+ },
+ {
+  "id": "arena_decurion",
+  "name": "Soldier"
+ },
+ {
+  "id": "stormknight",
+  "name": "Stormknight"
+ },
+ {
+  "id": "beheaded",
+  "name": "Beheaded One"
+ },
+ {
+  "id": "beheaded2",
+  "name": "Beheaded One"
+ },
+ {
+  "id": "beheaded3",
+  "name": "Beheaded One"
+ },
+ {
+  "id": "arena_sargos",
+  "name": "Sargos the Madman"
+ },
+ {
+  "id": "D13_giant_chief",
+  "name": "Chief Baabu"
+ },
+ {
+  "id": "D13_mantros",
+  "name": "Mantros"
+ },
+ {
+  "id": "monk",
+  "name": "Monk"
+ },
+ {
+  "id": "C13_redmoon",
+  "name": "Red Moon"
+ },
+ {
+  "id": "shadow_lesser",
+  "name": "Lesser Shadow"
+ },
+ {
+  "id": "shadow_hound",
+  "name": "Shadow Hound"
+ },
+ {
+  "id": "lost_soul",
+  "name": "Lost Soul"
+ },
+ {
+  "id": "shadow_raging",
+  "name": "Raging Shadow"
+ },
+ {
+  "id": "shadow_greater",
+  "name": "Greater Shadow"
+ },
+ {
+  "id": "dark_presence",
+  "name": "Dark Presence"
+ },
+ {
+  "id": "void_lord",
+  "name": "Void Lord"
+ },
+ {
+  "id": "C13_monk_leader",
+  "name": "Brother Tarlus"
+ },
+ {
+  "id": "C13_monk",
+  "name": "Monk"
+ },
+ {
+  "id": "C13_monk_healer",
+  "name": "Monk"
+ },
+ {
+  "id": "mercia_royal_7",
+  "name": "Melporth"
+ },
+ {
+  "id": "stormknight_captain",
+  "name": "Captain Fendrick"
+ },
+ {
+  "id": "I9_necromancer",
+  "name": "Necromancer"
+ },
+ {
+  "id": "executioner",
+  "name": "The Executioner"
+ },
+ {
+  "id": "vampire",
+  "name": "Vampire"
+ },
+ {
+  "id": "vampire_lord",
+  "name": "Vampire Elder"
+ },
+ {
+  "id": "I9_baron",
+  "name": "Dobros Storme"
+ },
+ {
+  "id": "beggar",
+  "name": "Beggar"
+ },
+ {
+  "id": "ursan_shaman",
+  "name": "Shaman"
+ },
+ {
+  "id": "ursan_high_shaman",
+  "name": "High Shaman"
+ },
+ {
+  "id": "korne_king",
+  "name": "King of Korne"
+ },
+ {
+  "id": "lich_h10",
+  "name": "Lich"
+ },
+ {
+  "id": "rexadon",
+  "name": "Rexadon"
+ },
+ {
+  "id": "rexadon_shaman",
+  "name": "Rexadon Shaman"
+ },
+ {
+  "id": "rexadon_champion",
+  "name": "Rexadon Chief"
+ },
+ {
+  "id": "blood_wraith",
+  "name": "Blood Wraith"
+ },
+ {
+  "id": "ice_giant",
+  "name": "Ice Giant"
+ },
+ {
+  "id": "H10_azeran",
+  "name": "Azeran"
+ },
+ {
+  "id": "h10_thalassos",
+  "name": "Thalassos"
+ },
+ {
+  "id": "abyss_demon",
+  "name": "Abyss Demon"
+ },
+ {
+  "id": "city_lord",
+  "name": "Lord of the City"
+ },
+ {
+  "id": "city_lady",
+  "name": "Lady of the City"
+ },
+ {
+  "id": "varannari_druid",
+  "name": "Druid"
+ },
+ {
+  "id": "varannari_warrior",
+  "name": "Warrior"
+ },
+ {
+  "id": "black_wolf",
+  "name": "Black Wolf"
+ },
+ {
+  "id": "worg",
+  "name": "Worg"
+ },
+ {
+  "id": "C11_hunting_moon",
+  "name": "Hunting Moon"
+ },
+ {
+  "id": "C10_stone_fang",
+  "name": "Stone Fang"
+ },
+ {
+  "id": "C10_centurion",
+  "name": "Centurion Hyartis"
+ },
+ {
+  "id": "C11_centurion",
+  "name": "Centurion Hyartis"
+ },
+ {
+  "id": "c12_demonic_wolf",
+  "name": "Demonic Wolf"
+ },
+ {
+  "id": "bear_summoned",
+  "name": "Bear"
+ },
+ {
+  "id": "j12_hidalix",
+  "name": "Hidalix"
+ },
+ {
+  "id": "j12_elemental_lord_ice",
+  "name": "Elemental Lord"
+ },
+ {
+  "id": "ice_demon",
+  "name": "Ice Demon"
+ },
+ {
+  "id": "j12_kalagru",
+  "name": "Kalagru"
+ },
+ {
+  "id": "J12_skeleton_giant",
+  "name": "Giant Skeleton"
+ },
+ {
+  "id": "C12_nightmare_dragon",
+  "name": "Nightmare Dragon"
+ },
+ {
+  "id": "C12_nightwalker",
+  "name": "Nightwalker"
+ },
+ {
+  "id": "C12_lich_varessa",
+  "name": "Varessa"
+ },
+ {
+  "id": "C12_lich_mylora",
+  "name": "Mylora"
+ },
+ {
+  "id": "C12_lich_blafarne",
+  "name": "Blafarne"
+ },
+ {
+  "id": "F6_golem_war",
+  "name": "War Golem"
+ },
+ {
+  "id": "F6_rexadon_boss",
+  "name": "Grur Ironscale"
+ },
+ {
+  "id": "old_one",
+  "name": "Old One"
+ },
+ {
+  "id": "old_one_green",
+  "name": "Old One"
+ },
+ {
+  "id": "old_one_purple",
+  "name": "Old One"
+ },
+ {
+  "id": "clockwork",
+  "name": "Clockwork Guardian"
+ },
+ {
+  "id": "F6_azeran",
+  "name": "Azeran"
+ },
+ {
+  "id": "F6_azeran_clone",
+  "name": "Azeran"
+ }
+]

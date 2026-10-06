@@ -1,0 +1,110 @@
+[
+ {
+  "id": "1",
+  "name": "Lannegar Town Hall"
+ },
+ {
+  "id": "2",
+  "name": "Kingsbridge Town Hall"
+ },
+ {
+  "id": "3",
+  "name": "Rhöneis Town Hall"
+ },
+ {
+  "id": "4",
+  "name": "Jabal Town Hall"
+ },
+ {
+  "id": "5",
+  "name": "New Garand Town Hall"
+ },
+ {
+  "id": "6",
+  "name": "Sydarun Town Hall"
+ },
+ {
+  "id": "7",
+  "name": "Freetown Town Hall"
+ },
+ {
+  "id": "8",
+  "name": "New Anthur Town Hall"
+ },
+ {
+  "id": "9",
+  "name": "Nivarian Town Hall"
+ },
+ {
+  "id": "10",
+  "name": "Fögas Town Hall"
+ },
+ {
+  "id": "11",
+  "name": "Whitetower Town Hall"
+ },
+ {
+  "id": "12",
+  "name": "Icemist Town Hall"
+ },
+ {
+  "id": "13",
+  "name": "Port Malan Town Hall"
+ },
+ {
+  "id": "14",
+  "name": "Solliga Town Hall"
+ },
+ {
+  "id": "desc_1",
+  "desc": "This Town Hall is a small but sturdy building, which serves as both the administrative center of the town and the residence of the Baron. The banners of the Kingdom of Varsilia hang everywhere, as well as the local flag.<p> This is a small and quiet keep, as expected in a town this size. You just see a few watchmen and clerks quietly performing their duties."
+ },
+ {
+  "id": "desc_2",
+  "desc": "This large stone building serves as both the administrative center of the town and the residence of the Baron. The banners of the Kingdom of Varsilia hang everywhere, as well as the local flag.<p>The place is busy with soldiers, clerks, and even adventurers seeking jobs in a nearby recruitment desk."
+ },
+ {
+  "id": "desc_3",
+  "desc": "This Town Hall is a small but sturdy building, which serves as both the administrative center of the town and the residence of the Baroness. The banners of the Kingdom of Ilmara hang everywhere, as well as the local flag.<p> This is a small and quiet keep, as expected in a town this size. You just see a few watchmen and clerks quietly performing their duties."
+ },
+ {
+  "id": "desc_4",
+  "desc": "This Town Hall is a small but sturdy building, which serves as both the administrative center of the town and the residence of the Commander. The banners of the Kingdom of Mercia hang everywhere, as well as the local flag.<p> This is a small and quiet keep, as expected in a town this size. You just see a few watchmen and clerks quietly performing their duties."
+ },
+ {
+  "id": "desc_5",
+  "desc": "This large stone building serves as both the administrative center of the town and the residence of the Governor. The banners of the Kingdom of Varsilia hang everywhere, as well as the local flag.<p>The place is busy with soldiers, clerks, and even adventurers seeking jobs in a nearby recruitment desk."
+ },
+ {
+  "id": "desc_6",
+  "desc": "This Town Hall is a small but sturdy building, which serves as both the administrative center of the town and the residence of the Commander. The banners of the Kingdom of Mercia hang everywhere, as well as the local flag.<p> This is a small and quiet keep, as expected in a town this size. You just see a few watchmen and clerks quietly performing their duties."
+ },
+ {
+  "id": "desc_7",
+  "desc": "As is usual in Mercian official buildings, everything is quiet, clean and orderly, to the point of obsession. There are banners of the Mercian red fist everywhere, as well as portraits of the King.<p>This is a massive fortress, and as mercians love paperwork, it is rather busy too."
+ },
+ {
+  "id": "desc_8",
+  "desc": "This large stone building serves as both the administrative center of the town and the residence of the Baron. The banners of the Kingdom of Varsilia hang everywhere, as well as the local flag.<p>The place is busy with soldiers, clerks, and even adventurers seeking jobs in a nearby recruitment desk."
+ },
+ {
+  "id": "desc_9",
+  "desc": "This ancient building serves both as administrative center of town, and as residence of the Mayor. The banners of the Kingdom of Ilmara are in display everywhere.<p>The place is busy with soldiers, clerks, and even adventurers seeking jobs in a nearby recruitment desk."
+ },
+ {
+  "id": "desc_10",
+  "desc": "This Town Hall is a small but sturdy building, which serves as both the administrative center of the town and the residence of the Baroness. The banners of the Kingdom of Ilmara hang everywhere, as well as the local flag.<p> This is a small and quiet keep, as expected in a town this size. You just see a few watchmen and clerks quietly performing their duties."
+ },
+ {
+  "id": "desc_11",
+  "desc": "This Town Hall is a small but sturdy building, which serves as both the administrative center of the town and the residence of the Baroness. The banners of the Kingdom of Thuram hang everywhere, as well as the local flag.<p> This is a small and quiet keep, as expected in a town this size. You just see a few watchmen and clerks quietly performing their duties."
+ },
+ {
+  "id": "desc_12",
+  "desc": "This gigantic hall is part of the Palace Complex of her Arcane Majesty. The banners of the Kingdom of Thuram hang everywhere, as well as the local flag.<p>The place is busy with soldiers, clerks, and even adventurers seeking jobs in a nearby recruitment desk."
+ },
+ {
+  "id": "desc_13",
+  "desc": "A large but ruinous castle which functions both as the residence of the Count and as the Port Authority. The banners of the Kingdom of Varsilia hang everywhere, as well as the local flag.<p> This is a small and quiet keep, more frequented by merchants and ship captains than adventurers or soldiers."
+ }
+]
